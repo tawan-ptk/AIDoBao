@@ -1,0 +1,20 @@
+{
+  "status": "selected_before_test",
+  "adapter": "adapters/finetune-v3-selected",
+  "sha256": "b6c80b3b5f19106490201e7f503b03f24986a78d1096369c58f13140533e0027",
+  "selected_step": 914,
+  "candidates": [
+    {
+      "step": 457,
+      "structured_exact": 10,
+      "mean_task_loss": 0.04439987940713763
+    },
+    {
+      "step": 914,
+      "structured_exact": 10,
+      "mean_task_loss": 0.01852327724918723
+    }
+  ],
+  "test_used_for_selection": false,
+  "selected_at": "2026-10-12T14:52:15.891539+00:00"
+}

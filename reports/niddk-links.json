@@ -1,0 +1,382 @@
+[
+  {
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "text": "Health Information",
+    "href": "/health-information"
+  },
+  {
+    "text": "Diabetes",
+    "href": "/health-information/diabetes"
+  },
+  {
+    "text": "Diabetes Overview",
+    "href": "/health-information/diabetes/overview"
+  },
+  {
+    "text": "English",
+    "href": "/health-information/diabetes/overview/healthy-living-with-diabetes"
+  },
+  {
+    "text": "Español",
+    "href": "/health-information/informacion-de-la-salud/diabetes/informacion-general/como-llevar-vida-saludable-si-tiene-diabetes"
+  },
+  {
+    "text": "How can I plan what to eat or drink when I have diabetes?",
+    "href": "#eatdrink"
+  },
+  {
+    "text": "How can physical activity help manage my diabetes?",
+    "href": "#physical"
+  },
+  {
+    "text": "What can I do to reach or maintain a healthy weight?",
+    "href": "#reach"
+  },
+  {
+    "text": "Should I quit smoking?",
+    "href": "#smoking"
+  },
+  {
+    "text": "How can I take care of my mental health?",
+    "href": "#mentalhealth"
+  },
+  {
+    "text": "Clinical Trials for Healthy Living with Diabetes",
+    "href": "#clinicaltrials"
+  },
+  {
+    "text": "manage diabetes",
+    "href": "/health-information/diabetes/overview/managing-diabetes"
+  },
+  {
+    "text": "blood pressure",
+    "href": "/Dictionary/B/blood-pressure"
+  },
+  {
+    "text": "cholesterol",
+    "href": "/Dictionary/C/cholesterol"
+  },
+  {
+    "text": "prevent or delay health problems",
+    "href": "/health-information/diabetes/overview/preventing-problems"
+  },
+  {
+    "text": "dairy or plant-based dairy products",
+    "href": "https://web.archive.org/web/20251224022832/https://www.myplate.gov/eat-healthy/dairy"
+  },
+  {
+    "text": "fruits",
+    "href": "https://web.archive.org/web/20251218071155/https://www.myplate.gov/eat-healthy/fruits"
+  },
+  {
+    "text": "nonstarchy vegetables",
+    "href": "https://web.archive.org/web/20251216120623/https://www.myplate.gov/eat-healthy/food-group-gallery#vegetables"
+  },
+  {
+    "text": "protein foods",
+    "href": "https://web.archive.org/web/20251230111516/https://www.myplate.gov/eat-healthy/protein-foods"
+  },
+  {
+    "text": "whole grains",
+    "href": "https://web.archive.org/web/20251218190903/https://www.myplate.gov/eat-healthy/grains"
+  },
+  {
+    "text": "calcium",
+    "href": "https://medlineplus.gov/calcium.html"
+  },
+  {
+    "text": "fiber",
+    "href": "https://medlineplus.gov/dietaryfiber.html"
+  },
+  {
+    "text": "healthy fats",
+    "href": "https://web.archive.org/web/20241210020146/https://www.myplate.gov/tip-sheet/rethink-fats"
+  },
+  {
+    "text": "drinks with little or no added sugar",
+    "href": "https://www.cdc.gov/healthy-weight-growth/rethink-your-drink/"
+  },
+  {
+    "text": "saturated fat",
+    "href": "https://medlineplus.gov/ency/patientinstructions/000838.htm"
+  },
+  {
+    "text": "salt",
+    "href": "http://web.archive.org/web/20260109220329/https://www.myplate.gov/tip-sheet/be-salt-smart"
+  },
+  {
+    "text": "sugary foods",
+    "href": "https://www.cdc.gov/healthy-weight-growth/be-sugar-smart/"
+  },
+  {
+    "text": "carbohydrates",
+    "href": "https://medlineplus.gov/carbohydrates.html"
+  },
+  {
+    "text": "alcohol",
+    "href": "https://www.cdc.gov/alcohol/about-alcohol-use/"
+  },
+  {
+    "text": "insulin",
+    "href": "/Dictionary/I/insulin"
+  },
+  {
+    "text": "diabetes medicines",
+    "href": "/health-information/diabetes/overview/insulin-medicines-treatments"
+  },
+  {
+    "text": "hypoglycemia",
+    "href": "/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia"
+  },
+  {
+    "text": "sulfonylureas",
+    "href": "/Dictionary/S/sulfonylurea"
+  },
+  {
+    "text": "portions",
+    "href": "/health-information/weight-management/just-enough-food-portions"
+  },
+  {
+    "text": "Carbohydrate counting",
+    "href": "https://www.cdc.gov/diabetes/healthy-eating/carb-counting-manage-blood-sugar.html"
+  },
+  {
+    "text": "plate method",
+    "href": "https://www.diabetesfoodhub.org/articles/what-is-the-diabetes-plate-method.html"
+  },
+  {
+    "text": "portion sizes",
+    "href": "/health-information/weight-management/just-enough-food-portions"
+  },
+  {
+    "text": "types and amounts of foods",
+    "href": "https://web.archive.org/web/20251216120623/https://www.myplate.gov/eat-healthy/food-group-gallery"
+  },
+  {
+    "text": "diabetes educator",
+    "href": "/Dictionary/D/diabetes-educator"
+  },
+  {
+    "text": "registered dietitian",
+    "href": "/Dictionary/R/registered-dietitian"
+  },
+  {
+    "text": "medical nutrition therapy",
+    "href": "https://www.cdc.gov/diabetes-toolkit/php/reimbursement/medical-nutrition-therapy.html"
+  },
+  {
+    "text": "dietary supplements",
+    "href": "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know"
+  },
+  {
+    "text": "physical activity",
+    "href": "/health-information/weight-management/tips-get-active"
+  },
+  {
+    "text": "insulin pumps",
+    "href": "/health-information/diabetes/overview/insulin-medicines-treatments#pump"
+  },
+  {
+    "text": "different kinds of activities",
+    "href": "/health-information/weight-management/tips-get-active/tips-starting-physical-activity"
+  },
+  {
+    "text": "age 65 or older",
+    "href": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html"
+  },
+  {
+    "text": "pregnant",
+    "href": "https://www.cdc.gov/physical-activity-basics/guidelines/healthy-pregnant-or-postpartum-women.html "
+  },
+  {
+    "text": "disability or health condition",
+    "href": "https://www.cdc.gov/physical-activity-basics/guidelines/chronic-health-conditions-and-disabilities.html "
+  },
+  {
+    "text": "children and teens",
+    "href": "https://www.cdc.gov/physical-activity-basics/guidelines/children.html "
+  },
+  {
+    "text": "moderate-intensity physical activity",
+    "href": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
+  },
+  {
+    "text": "Balance and stretching activities",
+    "href": "https://www.nia.nih.gov/health/four-types-exercise-can-improve-your-health-and-physical-ability#balance"
+  },
+  {
+    "text": "dehydration",
+    "href": "https://medlineplus.gov/dehydration.html"
+  },
+  {
+    "text": "calories",
+    "href": "/Dictionary/C/calorie"
+  },
+  {
+    "text": "treat low blood glucose",
+    "href": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia#treatment"
+  },
+  {
+    "text": "ketones",
+    "href": "/Dictionary/K/ketones"
+  },
+  {
+    "text": "diabetic ketoacidosis (DKA)",
+    "href": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html"
+  },
+  {
+    "text": "type 1 diabetes",
+    "href": "/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes"
+  },
+  {
+    "text": "type 2 diabetes",
+    "href": "/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes"
+  },
+  {
+    "text": "take care of your feet",
+    "href": "/health-information/diabetes/overview/preventing-problems/foot-problems"
+  },
+  {
+    "text": "managing your weight",
+    "href": "/health-information/weight-management"
+  },
+  {
+    "text": "if you are at a healthy weight",
+    "href": "/health-information/weight-management/adult-overweight-obesity/am-i-healthy-weight"
+  },
+  {
+    "text": "health problems",
+    "href": "/health-information/weight-management/adult-overweight-obesity/health-risks"
+  },
+  {
+    "text": "your child’s weight",
+    "href": "/health-information/weight-management/helping-your-child-who-is-overweight"
+  },
+  {
+    "text": "Body Weight Planner",
+    "href": "/bwp"
+  },
+  {
+    "text": "weight-loss program",
+    "href": "/health-information/weight-management/choosing-a-safe-successful-weight-loss-program"
+  },
+  {
+    "text": "weight-loss surgery",
+    "href": "/health-information/weight-management/bariatric-surgery"
+  },
+  {
+    "text": "pregnant",
+    "href": "/health-information/diabetes/diabetes-pregnancy"
+  },
+  {
+    "text": "diabetes and smoking",
+    "href": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-smoking.html"
+  },
+  {
+    "text": "heart attack or stroke",
+    "href": "/health-information/diabetes/overview/preventing-problems/heart-disease-stroke"
+  },
+  {
+    "text": "nerve damage",
+    "href": "/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies"
+  },
+  {
+    "text": "kidney disease",
+    "href": "/health-information/diabetes/overview/preventing-problems/diabetic-kidney-disease"
+  },
+  {
+    "text": "eye disease",
+    "href": "/health-information/diabetes/overview/preventing-problems/diabetic-eye-disease"
+  },
+  {
+    "text": "amputation",
+    "href": "/Dictionary/A/amputation"
+  },
+  {
+    "text": "Secondhand smoke",
+    "href": "https://www.cdc.gov/tobacco/secondhand-smoke/health.html"
+  },
+  {
+    "text": "Ask for help",
+    "href": "https://smokefree.gov/"
+  },
+  {
+    "text": "develop anxiety or other mental health conditions",
+    "href": "https://www.cdc.gov/diabetes/living-with/mental-health.html"
+  },
+  {
+    "text": "lower your stress",
+    "href": "https://www.nimh.nih.gov/health/publications/stress/index.shtml"
+  },
+  {
+    "text": "too much or too little",
+    "href": "https://www.cdc.gov/sleep/about/"
+  },
+  {
+    "text": "sleep apnea",
+    "href": "https://www.nhlbi.nih.gov/health/sleep-apnea"
+  },
+  {
+    "text": "clinical studies",
+    "href": "https://clinicaltrials.gov/study-basics/learn-about-studies#WhatIs"
+  },
+  {
+    "text": "metabolism",
+    "href": "/Dictionary/M/metabolism"
+  },
+  {
+    "text": "Find out if clinical trials are right for you",
+    "href": "https://www.nih.gov/health-information/nih-clinical-research-trials-you"
+  },
+  {
+    "text": "ClinicalTrials.gov",
+    "href": "https://clinicaltrials.gov/search?term=diet%20OR%20physical%20activity%20OR%20nutrition&cond=Diabetes&aggFilters=status:rec,funderType:nih%20fed"
+  },
+  {
+    "text": "https://health.gov/paguidelines/second-edition/",
+    "href": "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf"
+  },
+  {
+    "text": "Facebook",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "X",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "Email",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "WhatsApp",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "LinkedIn",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "Reddit",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "Pinterest",
+    "href": "#share-9452ef3710f841f7a01587383b5b7dfd"
+  },
+  {
+    "text": "Previous: Insulin, Medicines, & Other Diabetes Treatments",
+    "href": "/health-information/diabetes/overview/insulin-medicines-treatments"
+  },
+  {
+    "text": "Next: Preventing Diabetes Problems",
+    "href": "/health-information/diabetes/overview/preventing-problems"
+  },
+  {
+    "text": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "href": "https://www.niddk.nih.gov/"
+  }
+]

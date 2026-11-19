@@ -1,0 +1,23 @@
+{
+  "status": "selected_before_test",
+  "candidates": [
+    {
+      "step": 302,
+      "report": "reports/finetune-v2-valid-step302.json",
+      "structured_exact": 10,
+      "mean_task_loss": 0.3094245132136469
+    },
+    {
+      "step": 604,
+      "report": "reports/finetune-v2-valid-step604.json",
+      "structured_exact": 15,
+      "mean_task_loss": 0.28843972766480874
+    }
+  ],
+  "selected_step": 604,
+  "adapter": "adapters/finetune-v2-selected",
+  "sha256": "c55686b8c44ae09de4e57a69b218a49f7eda6cc37e3b70079b87e3e0e7b4cabb",
+  "criterion": "most exact structured validation generations, then lowest mean task validation loss, then earlier step",
+  "test_used_for_selection": false,
+  "selected_at": "2026-10-12T14:19:33.873197+00:00"
+}

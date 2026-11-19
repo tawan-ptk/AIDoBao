@@ -1,0 +1,37 @@
+{
+  "question": "ปวดหัวเกิดจากอะไร",
+  "http_status": 200,
+  "citations": [
+    {
+      "document_id": "medlineplus-a9251fe5d755a33e",
+      "chunk_id": "medlineplus-6180466af68c687c787e",
+      "heading": "Headache",
+      "text": "Almost everyone has had a headache. Headache is the most common form of pain. It's a major reason people miss days at work or school or visit the doctor. The most common type of headache is a tension headache . Tension headaches are due to tight muscles in your shoulders, neck, scalp and jaw. They are often related to stress, depression or anxiety. You are more likely to get tension headaches if you work too much, don't get enough sleep, miss meals, or use alcohol. Other common types of headaches include migraines, cluster headaches, and sinus headaches. Most people can feel much better by making lifestyle changes, learning ways to relax and taking pain relievers. Not all headaches require a doctor's attention. But sometimes headaches warn of a more serious disorder. Let your health care provider know if you have sudden, severe headaches. Get medical help right away if you have a headache after a blow to your head, or if you have a headache along with a stiff neck, fever, confusion, loss of consciousness, or pain in the eye or ear. NIH: National Institute of Neurological Disorders and Stroke",
+      "url": "https://medlineplus.gov/headache.html",
+      "publisher": "MedlinePlus, U.S. National Library of Medicine",
+      "accessed_at": "2026-10-12",
+      "location": "MedlinePlus Web Service: FullSummary",
+      "content_type": "source_summary",
+      "clinical_review": "not_reviewed",
+      "retrieval": "online"
+    }
+  ],
+  "record_sources": [],
+  "suggestions": [
+    "เป็นเบาหวานควรกินอะไร",
+    "เบาหวานเข้าสู่ภาวะสงบได้ไหม",
+    "วันนี้ทำอะไรไปบ้าง"
+  ],
+  "mode": "read_only",
+  "clinical_review": "not_reviewed",
+  "route": "health",
+  "search_status": "evidence_found",
+  "status": "answered_by_model",
+  "answer": "ปวดหัวเกิดจากหลายสาเหตุ โดยที่ปวดหัวจากความตึงเครียด (tension headache) เป็นชนิดที่พบบ่อยที่สุด โดยเกี่ยวข้องกับกล้ามเนื้อตึงในไหล่ คอ หนังศีรษะ และกราม (jaw) โดยมักเกิดจากความเครียด ความวิตกกังวล หรือภาวะเครียดทางอารมณ์\n\nหากปวดหัวเกิดร่วมกับอาการอื่น เช่น คอแข็ง (stiff neck), เหงื่อออกมาก, ปวดตา หรือสับสน (confusion) ควรปรึกษาแพทย์ทันที เพราะอาจเป็นสัญญาณเตือนของโรคเรื้อรังหรือเรื้อรังอื่น ๆ",
+  "model": "Typhoon 2.5 Qwen3 4B · local MLX 4-bit",
+  "metrics": {
+    "load_seconds": 1.5361132080142852,
+    "generation_seconds": 6.792468750005355,
+    "peak_memory_gb": 2.996078148
+  }
+}

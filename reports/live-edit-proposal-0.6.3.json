@@ -1,0 +1,34 @@
+{
+  "question": "แก้น้ำหนักเป็น 68 กก.",
+  "http_status": 200,
+  "status": "management_proposal",
+  "route": "website_assistant",
+  "mode": "proposal_only",
+  "answer": "เตรียมแก้น้ำหนักเป็น 68 กก. ครับ ตรวจรายละเอียดก่อนยืนยันได้เลย",
+  "actions": [
+    {
+      "type": "records",
+      "records": [
+        {
+          "kind": "profile",
+          "data": {
+            "weight_kg": 68.0
+          },
+          "previous_id": null,
+          "source": "ผู้ใช้ขอแก้โปรไฟล์ผ่านแชต; ตรวจยืนยันก่อนเก็บ",
+          "origin": "self_report"
+        }
+      ],
+      "inline": true,
+      "before": [],
+      "label": "ตรวจการแก้น้ำหนัก"
+    }
+  ],
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "ใช้งานยังไง",
+    "วันนี้กินอะไรไปบ้าง"
+  ],
+  "clinical_review": "not_reviewed"
+}

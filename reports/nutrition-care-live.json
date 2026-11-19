@@ -1,0 +1,1550 @@
+{
+  "label": "SOFTWARE LIVE CHECK ONLY; no clinical accuracy claim",
+  "at": "2026-10-12T16:50:34.571116+00:00",
+  "checks": [
+    {
+      "query": "ฉันอยากให้คุณช่วยฉันจัดแพลนดูแลสุขภาพเกี่ยวกับเบาหวาน",
+      "response": {
+        "status": "care_plan_guidance",
+        "route": "health",
+        "mode": "read_only",
+        "answer": "ได้ครับ เริ่มจากแผนดูแลเบาหวานเบื้องต้นนี้ได้เลย\n\n• มื้ออาหาร: ลองแบ่งจานเป็นผักที่มีแป้งน้อยครึ่งจาน โปรตีนหนึ่งในสี่ และข้าวหรือแป้งใยอาหารสูงอีกหนึ่งในสี่ เลือกน้ำเปล่าแทนเครื่องดื่มหวาน\n\n• ระหว่างวัน: เลือกกิจกรรมที่ทำไหวและชอบ เริ่มทีละน้อย หากจะเริ่มหรือเพิ่มการออกกำลัง ให้คุยกับทีมรักษาว่าแบบไหนเหมาะกับคุณ\n\n• ยาและค่าน้ำตาล: ใช้ยาตามที่สั่ง ตรวจน้ำตาลตามแผนของทีมรักษา และจดผลไว้ ไม่เปลี่ยนเวลาหรือขนาดยาเอง\n\n• ก่อนนอน: จัดเวลาพักผ่อนให้สม่ำเสมอ และเตรียมบันทึกอาหาร กิจกรรม และค่าน้ำตาลไว้คุยในการนัดครั้งถัดไป\n\nถ้าต้องการจัดเป็นตาราง บอกเวลาตื่น มื้ออาหาร และช่วงที่สะดวกทำกิจกรรมได้ในข้อความเดียวครับ",
+        "citations": [
+          {
+            "document_id": "niddk-care-plan",
+            "chunk_id": "niddk-care-0",
+            "heading": "Healthy Living with Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+            "publisher": "NIDDK, National Institutes of Health",
+            "accessed_at": "2026-10-12",
+            "location": "Plate method; physical activity; meal timing",
+            "content_type": "editorial_summary",
+            "clinical_review": "not_reviewed",
+            "text": "สรุปภาษาไทย: วิธีแบ่งจานคือผักแป้งน้อยครึ่งจาน อาหารคาร์โบไฮเดรตใยอาหารสูงและโปรตีนอย่างละหนึ่งในสี่ เริ่มกิจกรรมทีละน้อยและปรึกษาทีมรักษาเรื่องรูปแบบและเวลาที่เหมาะสม"
+          },
+          {
+            "document_id": "niddk-care-plan",
+            "chunk_id": "niddk-care-1",
+            "heading": "Managing Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes",
+            "publisher": "NIDDK, National Institutes of Health",
+            "accessed_at": "2026-10-12",
+            "location": "Healthy lifestyle; medicines; checking blood glucose; keeping track",
+            "content_type": "editorial_summary",
+            "clinical_review": "not_reviewed",
+            "text": "สรุปภาษาไทย: ใช้ยาตามที่สั่ง ตกลงวิธีและความถี่ตรวจน้ำตาลกับทีมรักษา บันทึกผลและบริบทไว้ทบทวนร่วมกัน การนอนเพียงพอเป็นส่วนหนึ่งของการดูแลเบาหวาน"
+          }
+        ],
+        "record_sources": [],
+        "actions": [],
+        "suggestions": [
+          "จัดตารางพรุ่งนี้เดิน 20 นาทีตอนเย็น",
+          "วันนี้รวมกี่แคล",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "answer_mode": "source_backed_starting_plan"
+      }
+    },
+    {
+      "query": "ดอกไม้คืออะไร",
+      "response": {
+        "route": "out_of_scope",
+        "status": "out_of_scope",
+        "mode": "read_only",
+        "answer": "คำถามนี้อยู่นอกเรื่องสุขภาพครับ ฉันช่วยเรื่องสุขภาพ เบาหวาน และบันทึกของคุณได้ ลองถามในเรื่องเหล่านี้นะครับ",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "เป็นเบาหวานควรกินอะไร",
+          "วันนี้กินอะไรไปบ้าง"
+        ],
+        "clinical_review": "not_reviewed"
+      }
+    },
+    {
+      "query": "แนะนำหน่อยว่าฉันจะถามคุณว่าอะไรได้บ้าง",
+      "response": {
+        "status": "usage_help",
+        "route": "usage_help",
+        "mode": "read_only",
+        "answer": "ถามหรือสั่งได้แบบนี้ครับ\n• “ตอนเย็นกินอะไรดี”\n• “วันนี้กินอะไรไปบ้าง”\n• “บันทึกตอนเช้ากินโจ๊ก ตอนเย็นเดิน”\n• “จัดตารางพรุ่งนี้เดิน 30 นาทีตอนเย็น”\n• “แก้ข้าวขาหมูเป็นโจ๊ก” หรือ “ลบบันทึกล่าสุด”\n\nพิมพ์ได้เลยครับ ถ้าจะเก็บ แก้ หรือลบข้อมูล ฉันจะให้ตรวจยืนยันก่อน",
+        "suggestions": [
+          "ตอนเย็นกินอะไรดี",
+          "วันนี้กินอะไรไปบ้าง",
+          "บันทึกตอนเช้ากินโจ๊ก",
+          "ลบบันทึกล่าสุด"
+        ],
+        "citations": [],
+        "record_sources": [],
+        "clinical_review": "not_reviewed"
+      }
+    },
+    {
+      "query": "วันนี้ข้าวมันไก่ 1 จานกับไข่ต้ม 2 ฟองรวมกี่แคล",
+      "response": {
+        "status": "calorie_meal_summary",
+        "route": "calorie",
+        "mode": "read_only",
+        "answer": "ข้าวมันไก่ · ประมาณ 558–619 kcal · 1 จาน\n\nไข่ต้ม · ประมาณ 160 kcal · 2 ฟอง\n\nรวมรายการที่บอกประมาณ 718–779 kcal",
+        "energy_estimates": [
+          {
+            "name": "ข้าวมันไก่",
+            "status": "estimated",
+            "kcal": [
+              558.0,
+              619.0
+            ],
+            "actual_consumed_kcal": null,
+            "catalog_version": "2026-10-12-v2",
+            "assumed_portion": false,
+            "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+            "reference": {
+              "id": "chicken_rice",
+              "name": "ข้าวมันไก่",
+              "aliases": [
+                "ข้าวมันไก่ต้ม"
+              ],
+              "kcal": [
+                558,
+                619
+              ],
+              "basis": "1 จานตามตัวอย่างในแหล่งอ้างอิง",
+              "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+              "published": "2022-08-12",
+              "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+              "serving": {
+                "quantity": 1,
+                "unit": "จาน",
+                "unit_factors": {}
+              },
+              "status": "reference_only",
+              "actual_consumed_kcal": null,
+              "accessed_at": "2026-10-12",
+              "publisher": "กรมอนามัย",
+              "health_score": null
+            },
+            "quantity": 1.0,
+            "unit": "จาน",
+            "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+            "unit_factor": 1.0,
+            "assumption": null
+          },
+          {
+            "name": "ไข่ต้ม",
+            "status": "estimated",
+            "kcal": [
+              160.0,
+              160.0
+            ],
+            "actual_consumed_kcal": null,
+            "catalog_version": "2026-10-12-v2",
+            "assumed_portion": false,
+            "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+            "reference": {
+              "id": "boiled_egg",
+              "name": "ไข่ต้ม",
+              "aliases": [
+                "ไข่ไก่ต้ม"
+              ],
+              "kcal": [
+                80,
+                80
+              ],
+              "basis": "ไข่ไก่ 1 ฟอง ไม่เติมน้ำมัน",
+              "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+              "published": "2014-10-10",
+              "location": "พลังงานของไข่ไก่ 1 ฟอง",
+              "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+              "serving": {
+                "quantity": 1,
+                "unit": "ฟอง",
+                "unit_factors": {}
+              },
+              "status": "reference_only",
+              "actual_consumed_kcal": null,
+              "accessed_at": "2026-10-12",
+              "publisher": "กรมอนามัย",
+              "health_score": null
+            },
+            "quantity": 2.0,
+            "unit": "ฟอง",
+            "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+            "unit_factor": 1.0,
+            "assumption": null
+          }
+        ],
+        "total_kcal": [
+          718.0,
+          779.0
+        ],
+        "citations": [],
+        "record_sources": [],
+        "meal_references": [
+          {
+            "id": "chicken_rice",
+            "name": "ข้าวมันไก่",
+            "aliases": [
+              "ข้าวมันไก่ต้ม"
+            ],
+            "kcal": [
+              558,
+              619
+            ],
+            "basis": "1 จานตามตัวอย่างในแหล่งอ้างอิง",
+            "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+            "published": "2022-08-12",
+            "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+            "serving": {
+              "quantity": 1,
+              "unit": "จาน",
+              "unit_factors": {}
+            },
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "publisher": "กรมอนามัย",
+            "health_score": null
+          },
+          {
+            "id": "boiled_egg",
+            "name": "ไข่ต้ม",
+            "aliases": [
+              "ไข่ไก่ต้ม"
+            ],
+            "kcal": [
+              80,
+              80
+            ],
+            "basis": "ไข่ไก่ 1 ฟอง ไม่เติมน้ำมัน",
+            "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+            "published": "2014-10-10",
+            "location": "พลังงานของไข่ไก่ 1 ฟอง",
+            "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+            "serving": {
+              "quantity": 1,
+              "unit": "ฟอง",
+              "unit_factors": {}
+            },
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "publisher": "กรมอนามัย",
+            "health_score": null
+          }
+        ],
+        "suggestions": [
+          "วันนี้รวมกี่แคล"
+        ],
+        "clinical_review": "not_reviewed"
+      }
+    },
+    {
+      "query": "ข้าวหมูแดงไข่ต้ม 1 จานกี่แคล",
+      "response": {
+        "mode": "read_only",
+        "route": "calorie",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้รวมกี่แคล",
+          "ข้าวมันไก่ 1 จานกี่แคล",
+          "ไข่ต้ม 2 ฟองกี่แคล"
+        ],
+        "clinical_review": "not_reviewed",
+        "status": "calorie_estimate",
+        "answer": "ข้าวหมูแดงไข่ต้ม ประมาณ 351.1 kcal · 1 จาน ครับ\n\n1 จาน ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน · เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+        "energy_estimate": {
+          "name": "ข้าวหมูแดงไข่ต้ม",
+          "status": "estimated",
+          "kcal": [
+            351.1,
+            351.1
+          ],
+          "actual_consumed_kcal": null,
+          "catalog_version": "2026-10-12-v2",
+          "assumed_portion": false,
+          "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+          "reference": {
+            "id": "red_pork_egg_rice",
+            "name": "ข้าวหมูแดงไข่ต้ม",
+            "aliases": [
+              "ข้าวหมูแดงใส่ไข่ต้ม"
+            ],
+            "kcal": [
+              351.1,
+              351.1
+            ],
+            "basis": "1 จาน ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+            "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+            "published": null,
+            "publisher": "สำนักโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 51 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+            "serving": {
+              "quantity": 1,
+              "unit": "จาน",
+              "unit_factors": {}
+            },
+            "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          },
+          "quantity": 1.0,
+          "unit": "จาน",
+          "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+          "unit_factor": 1.0,
+          "assumption": null
+        },
+        "meal_references": [
+          {
+            "id": "red_pork_egg_rice",
+            "name": "ข้าวหมูแดงไข่ต้ม",
+            "aliases": [
+              "ข้าวหมูแดงใส่ไข่ต้ม"
+            ],
+            "kcal": [
+              351.1,
+              351.1
+            ],
+            "basis": "1 จาน ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+            "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+            "published": null,
+            "publisher": "สำนักโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 51 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+            "serving": {
+              "quantity": 1,
+              "unit": "จาน",
+              "unit_factors": {}
+            },
+            "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          }
+        ]
+      }
+    },
+    {
+      "query": "สุกี้น้ำทะเล 1 ชามกี่แคล",
+      "response": {
+        "mode": "read_only",
+        "route": "calorie",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้รวมกี่แคล",
+          "ข้าวมันไก่ 1 จานกี่แคล",
+          "ไข่ต้ม 2 ฟองกี่แคล"
+        ],
+        "clinical_review": "not_reviewed",
+        "status": "calorie_estimate",
+        "answer": "สุกี้น้ำทะเล ประมาณ 235.4 kcal · 1 ชาม ครับ\n\n1 ชาม ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน · เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+        "energy_estimate": {
+          "name": "สุกี้น้ำทะเล",
+          "status": "estimated",
+          "kcal": [
+            235.4,
+            235.4
+          ],
+          "actual_consumed_kcal": null,
+          "catalog_version": "2026-10-12-v2",
+          "assumed_portion": false,
+          "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+          "reference": {
+            "id": "seafood_suki",
+            "name": "สุกี้น้ำทะเล",
+            "aliases": [
+              "สุกี้ทะเลน้ำ"
+            ],
+            "kcal": [
+              235.4,
+              235.4
+            ],
+            "basis": "1 ชาม ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+            "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+            "published": null,
+            "publisher": "สำนักโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 53 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+            "serving": {
+              "quantity": 1,
+              "unit": "ชาม",
+              "unit_factors": {}
+            },
+            "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          },
+          "quantity": 1.0,
+          "unit": "ชาม",
+          "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+          "unit_factor": 1.0,
+          "assumption": null
+        },
+        "meal_references": [
+          {
+            "id": "seafood_suki",
+            "name": "สุกี้น้ำทะเล",
+            "aliases": [
+              "สุกี้ทะเลน้ำ"
+            ],
+            "kcal": [
+              235.4,
+              235.4
+            ],
+            "basis": "1 ชาม ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+            "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+            "published": null,
+            "publisher": "สำนักโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 53 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+            "serving": {
+              "quantity": 1,
+              "unit": "ชาม",
+              "unit_factors": {}
+            },
+            "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          }
+        ]
+      }
+    },
+    {
+      "query": "ข้าวกะเพราไก่ 1 จานกี่แคล",
+      "response": {
+        "mode": "read_only",
+        "route": "calorie",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้รวมกี่แคล",
+          "ข้าวมันไก่ 1 จานกี่แคล",
+          "ไข่ต้ม 2 ฟองกี่แคล"
+        ],
+        "clinical_review": "not_reviewed",
+        "status": "calorie_estimate",
+        "answer": "ข้าวกะเพราไก่ ประมาณ 469 kcal · 1 จาน ครับ\n\n1 จานตัวอย่าง น้ำหนัก 270 กรัม ในรายงานปี 2551 รวมข้าวแล้ว · ค่าจากจานตัวอย่างที่ศึกษาปี 2551 ไม่ใช่ทุกสูตรตามร้าน; น้ำหนักและน้ำมันจริงอาจต่างกัน ไม่แปลงถ้วยเป็นจานเอง",
+        "energy_estimate": {
+          "name": "ข้าวกะเพราไก่",
+          "status": "estimated",
+          "kcal": [
+            469.0,
+            469.0
+          ],
+          "actual_consumed_kcal": null,
+          "catalog_version": "2026-10-12-v2",
+          "assumed_portion": false,
+          "note": "ค่าจากจานตัวอย่างที่ศึกษาปี 2551 ไม่ใช่ทุกสูตรตามร้าน; น้ำหนักและน้ำมันจริงอาจต่างกัน ไม่แปลงถ้วยเป็นจานเอง",
+          "reference": {
+            "id": "basil_chicken_rice",
+            "name": "ข้าวราดผัดกระเพราไก่",
+            "aliases": [
+              "ข้าวกะเพราไก่",
+              "ข้าวกระเพราไก่",
+              "ข้าวราดผัดกะเพราไก่"
+            ],
+            "kcal": [
+              469,
+              469
+            ],
+            "basis": "1 จานตัวอย่าง น้ำหนัก 270 กรัม ในรายงานปี 2551 รวมข้าวแล้ว",
+            "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+            "published": "2008",
+            "publisher": "กองโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 6 ตารางที่ 1 คอลัมน์น้ำหนัก/จาน และพลังงาน",
+            "serving": {
+              "quantity": 1,
+              "unit": "จาน",
+              "unit_factors": {
+                "กรัม": 0.003703703703703704
+              }
+            },
+            "includes_rice": true,
+            "sample_weight_g": 270,
+            "note": "ค่าจากจานตัวอย่างที่ศึกษาปี 2551 ไม่ใช่ทุกสูตรตามร้าน; น้ำหนักและน้ำมันจริงอาจต่างกัน ไม่แปลงถ้วยเป็นจานเอง",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          },
+          "quantity": 1.0,
+          "unit": "จาน",
+          "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+          "unit_factor": 1.0,
+          "assumption": null
+        },
+        "meal_references": [
+          {
+            "id": "basil_chicken_rice",
+            "name": "ข้าวราดผัดกระเพราไก่",
+            "aliases": [
+              "ข้าวกะเพราไก่",
+              "ข้าวกระเพราไก่",
+              "ข้าวราดผัดกะเพราไก่"
+            ],
+            "kcal": [
+              469,
+              469
+            ],
+            "basis": "1 จานตัวอย่าง น้ำหนัก 270 กรัม ในรายงานปี 2551 รวมข้าวแล้ว",
+            "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+            "published": "2008",
+            "publisher": "กองโภชนาการ กรมอนามัย",
+            "location": "PDF หน้า 6 ตารางที่ 1 คอลัมน์น้ำหนัก/จาน และพลังงาน",
+            "serving": {
+              "quantity": 1,
+              "unit": "จาน",
+              "unit_factors": {
+                "กรัม": 0.003703703703703704
+              }
+            },
+            "includes_rice": true,
+            "sample_weight_g": 270,
+            "note": "ค่าจากจานตัวอย่างที่ศึกษาปี 2551 ไม่ใช่ทุกสูตรตามร้าน; น้ำหนักและน้ำมันจริงอาจต่างกัน ไม่แปลงถ้วยเป็นจานเอง",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          }
+        ]
+      }
+    },
+    {
+      "query": "นม 240 มล.กี่แคล",
+      "response": {
+        "mode": "read_only",
+        "route": "calorie",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้รวมกี่แคล",
+          "ข้าวมันไก่ 1 จานกี่แคล",
+          "ไข่ต้ม 2 ฟองกี่แคล"
+        ],
+        "clinical_review": "not_reviewed",
+        "status": "calorie_estimate",
+        "answer": "นม ประมาณ 90–150 kcal · 240 มล. ครับ\n\nนมวัวจืด 240 มล. ช่วงนมขาดมันเนยถึงไขมันเต็ม · ตีความคำว่านมเป็นนมวัวจืด ยังไม่ทราบไขมันจึงแสดงช่วง ไม่ใช่ค่าเดียวกับนมพร่องมันเนย; ไม่ใช้กับนมปรุงรส นมข้น หรือนมพืช ตรวจฉลากและแก้ชนิดให้ตรง",
+        "energy_estimate": {
+          "name": "นม",
+          "status": "estimated",
+          "kcal": [
+            90.0,
+            150.0
+          ],
+          "actual_consumed_kcal": null,
+          "catalog_version": "2026-10-12-v2",
+          "assumed_portion": false,
+          "note": "ตีความคำว่านมเป็นนมวัวจืด ยังไม่ทราบไขมันจึงแสดงช่วง ไม่ใช่ค่าเดียวกับนมพร่องมันเนย; ไม่ใช้กับนมปรุงรส นมข้น หรือนมพืช ตรวจฉลากและแก้ชนิดให้ตรง",
+          "reference": {
+            "id": "unspecified_plain_milk",
+            "name": "นมจืดไม่ระบุไขมัน",
+            "aliases": [
+              "นม",
+              "นมจืด",
+              "นมวัว"
+            ],
+            "kcal": [
+              90,
+              150
+            ],
+            "basis": "นมวัวจืด 240 มล. ช่วงนมขาดมันเนยถึงไขมันเต็ม",
+            "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+            "additional_sources": [
+              {
+                "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล"
+              }
+            ],
+            "published": null,
+            "publisher": "ศูนย์ศรีพัฒน์ คณะแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่",
+            "location": "อาหารแลกเปลี่ยน หมวดนม: ขาดมันเนย 90 / พร่องมันเนย 120 kcal ต่อ 240 มล.; ไขมันเต็ม 150 จากศิริราช",
+            "serving": {
+              "quantity": 240,
+              "unit": "มล.",
+              "unit_factors": {}
+            },
+            "note": "ตีความคำว่านมเป็นนมวัวจืด ยังไม่ทราบไขมันจึงแสดงช่วง ไม่ใช่ค่าเดียวกับนมพร่องมันเนย; ไม่ใช้กับนมปรุงรส นมข้น หรือนมพืช ตรวจฉลากและแก้ชนิดให้ตรง",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          },
+          "quantity": 240.0,
+          "unit": "มล.",
+          "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+          "unit_factor": 1.0,
+          "assumption": null
+        },
+        "meal_references": [
+          {
+            "id": "unspecified_plain_milk",
+            "name": "นมจืดไม่ระบุไขมัน",
+            "aliases": [
+              "นม",
+              "นมจืด",
+              "นมวัว"
+            ],
+            "kcal": [
+              90,
+              150
+            ],
+            "basis": "นมวัวจืด 240 มล. ช่วงนมขาดมันเนยถึงไขมันเต็ม",
+            "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+            "additional_sources": [
+              {
+                "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล"
+              }
+            ],
+            "published": null,
+            "publisher": "ศูนย์ศรีพัฒน์ คณะแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่",
+            "location": "อาหารแลกเปลี่ยน หมวดนม: ขาดมันเนย 90 / พร่องมันเนย 120 kcal ต่อ 240 มล.; ไขมันเต็ม 150 จากศิริราช",
+            "serving": {
+              "quantity": 240,
+              "unit": "มล.",
+              "unit_factors": {}
+            },
+            "note": "ตีความคำว่านมเป็นนมวัวจืด ยังไม่ทราบไขมันจึงแสดงช่วง ไม่ใช่ค่าเดียวกับนมพร่องมันเนย; ไม่ใช้กับนมปรุงรส นมข้น หรือนมพืช ตรวจฉลากและแก้ชนิดให้ตรง",
+            "status": "reference_only",
+            "actual_consumed_kcal": null,
+            "accessed_at": "2026-10-12",
+            "health_score": null
+          }
+        ]
+      }
+    },
+    {
+      "query": "อาหารไม่รู้จักกี่แคล",
+      "response": {
+        "mode": "read_only",
+        "route": "calorie",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้รวมกี่แคล",
+          "ข้าวมันไก่ 1 จานกี่แคล",
+          "ไข่ต้ม 2 ฟองกี่แคล"
+        ],
+        "clinical_review": "not_reviewed",
+        "status": "calorie_unknown",
+        "energy_estimate": {
+          "name": "ไม่รู้จัก",
+          "status": "unknown_food",
+          "kcal": null,
+          "actual_consumed_kcal": null,
+          "catalog_version": "2026-10-12-v2",
+          "assumed_portion": false,
+          "note": "ยังไม่มีค่าพลังงานที่ตรวจแหล่งและหน่วยเสิร์ฟได้สำหรับเมนูนี้",
+          "reference": {
+            "name": "ไม่รู้จัก",
+            "status": "unknown",
+            "kcal": null,
+            "actual_consumed_kcal": null,
+            "note": "ยังไม่มีค่าพลังงานที่ตรวจแหล่งและหน่วยเสิร์ฟได้สำหรับเมนูนี้"
+          },
+          "quantity": null,
+          "unit": null
+        },
+        "answer": "ไม่รู้จัก · ยังไม่มีค่าพลังงานที่ตรวจแหล่งและหน่วยเสิร์ฟได้สำหรับเมนูนี้ครับ ยังไม่ใส่ตัวเลขแทนข้อมูลที่ขาด",
+        "meal_references": []
+      }
+    },
+    {
+      "query": "เมื่อวานตอนเช้ากินข้าวมันไก่ครึ่งจานกับไข่ต้ม 2 ฟอง",
+      "response": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 1 รายการครับ\n• ข้าวมันไก่ กับ ไข่ต้ม · ตอนเช้า · ประมาณ 439–469.5 kcal · รวมในมื้อนี้\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าวมันไก่ กับ ไข่ต้ม",
+                "data": {
+                  "name": "ข้าวมันไก่ กับ ไข่ต้ม",
+                  "food_state": "unknown",
+                  "components": [
+                    {
+                      "name": "ข้าวมันไก่",
+                      "quantity": 0.5,
+                      "unit": "จาน",
+                      "food_state": "unknown"
+                    },
+                    {
+                      "name": "ไข่ต้ม",
+                      "quantity": 2.0,
+                      "unit": "ฟอง",
+                      "food_state": "unknown"
+                    }
+                  ]
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-11",
+                  "timezone": "Asia/Bangkok",
+                  "period": "morning",
+                  "clock": null,
+                  "date_source": "explicit",
+                  "captured_at": "2026-10-12T23:50:33.316802+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 1 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "เมื่อวานตอนเช้ากินข้าวมันไก่ครึ่งจานกับไข่ต้ม 2 ฟอง",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": []
+      }
+    },
+    {
+      "query": "ข้าวกับไข่พะโล้",
+      "response": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 1 รายการครับ\n• ข้าว กับ ไข่พะโล้ · ประมาณ 432.9 kcal · รวมในมื้อนี้ (ใช้ปริมาณอ้างอิง แก้ได้)\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าว กับ ไข่พะโล้",
+                "data": {
+                  "name": "ข้าว กับ ไข่พะโล้",
+                  "food_state": "unknown",
+                  "components": [
+                    {
+                      "name": "ข้าว",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    },
+                    {
+                      "name": "ไข่พะโล้",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    }
+                  ]
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-12",
+                  "timezone": "Asia/Bangkok",
+                  "period": "unspecified",
+                  "clock": null,
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-12T23:50:33.318987+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 1 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "ข้าวกับไข่พะโล้",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": []
+      }
+    },
+    {
+      "query": "วันนี้กินข้าวช้าวเป็นข้าวขาหมู ตอนเที่ยงกินต้มยำกุ้ง",
+      "response": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 2 รายการครับ\n• ข้าวขาหมู · ตอนเช้า · ประมาณ 690 kcal · 1 จาน (ใช้ปริมาณอ้างอิง แก้ได้)\n• ต้มยำกุ้ง · ตอนเที่ยง · ประมาณ 270–370 kcal · 1 ถ้วย (ใช้ปริมาณอ้างอิง แก้ได้)\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าวขาหมู",
+                "data": {
+                  "name": "ข้าวขาหมู",
+                  "food_state": "unknown"
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-12",
+                  "timezone": "Asia/Bangkok",
+                  "period": "morning",
+                  "clock": null,
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-12T23:50:33.322093+07:00",
+                  "context_text": ""
+                }
+              },
+              {
+                "kind": "meal",
+                "text": "ต้มยำกุ้ง",
+                "data": {
+                  "name": "ต้มยำกุ้ง",
+                  "food_state": "unknown"
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-12",
+                  "timezone": "Asia/Bangkok",
+                  "period": "noon",
+                  "clock": null,
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-12T23:50:33.322093+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 2 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "วันนี้กินข้าวช้าวเป็นข้าวขาหมู ตอนเที่ยงกินต้มยำกุ้ง",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": [
+          "ตีความ “ข้าวช้าว” เป็นมื้อเช้า กรุณาตรวจช่วงเวลาก่อนยืนยัน"
+        ]
+      }
+    },
+    {
+      "journal": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ข้าวมันไก่ กับ ไข่ต้ม",
+              "data": {
+                "name": "ข้าวมันไก่ กับ ไข่ต้ม",
+                "food_state": "unknown",
+                "components": [
+                  {
+                    "name": "ข้าวมันไก่",
+                    "quantity": 0.5,
+                    "unit": "จาน",
+                    "food_state": "unknown"
+                  },
+                  {
+                    "name": "ไข่ต้ม",
+                    "quantity": 2.0,
+                    "unit": "ฟอง",
+                    "food_state": "unknown"
+                  }
+                ]
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T12:00:00+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {
+                "energy": {
+                  "name": "ข้าวมันไก่ กับ ไข่ต้ม",
+                  "status": "estimated",
+                  "kcal": [
+                    439.0,
+                    469.5
+                  ],
+                  "actual_consumed_kcal": null,
+                  "components": [
+                    {
+                      "name": "ข้าวมันไก่",
+                      "status": "estimated",
+                      "kcal": [
+                        279.0,
+                        309.5
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": false,
+                      "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+                      "reference": {
+                        "id": "chicken_rice",
+                        "name": "ข้าวมันไก่",
+                        "aliases": [
+                          "ข้าวมันไก่ต้ม"
+                        ],
+                        "kcal": [
+                          558,
+                          619
+                        ],
+                        "basis": "1 จานตามตัวอย่างในแหล่งอ้างอิง",
+                        "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+                        "published": "2022-08-12",
+                        "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "จาน",
+                          "unit_factors": {}
+                        },
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "publisher": "กรมอนามัย",
+                        "health_score": null
+                      },
+                      "quantity": 0.5,
+                      "unit": "จาน",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": null
+                    },
+                    {
+                      "name": "ไข่ต้ม",
+                      "status": "estimated",
+                      "kcal": [
+                        160.0,
+                        160.0
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": false,
+                      "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+                      "reference": {
+                        "id": "boiled_egg",
+                        "name": "ไข่ต้ม",
+                        "aliases": [
+                          "ไข่ไก่ต้ม"
+                        ],
+                        "kcal": [
+                          80,
+                          80
+                        ],
+                        "basis": "ไข่ไก่ 1 ฟอง ไม่เติมน้ำมัน",
+                        "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+                        "published": "2014-10-10",
+                        "location": "พลังงานของไข่ไก่ 1 ฟอง",
+                        "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "ฟอง",
+                          "unit_factors": {}
+                        },
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "publisher": "กรมอนามัย",
+                        "health_score": null
+                      },
+                      "quantity": 2.0,
+                      "unit": "ฟอง",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": null
+                    }
+                  ],
+                  "references": [
+                    {
+                      "id": "chicken_rice",
+                      "name": "ข้าวมันไก่",
+                      "aliases": [
+                        "ข้าวมันไก่ต้ม"
+                      ],
+                      "kcal": [
+                        558,
+                        619
+                      ],
+                      "basis": "1 จานตามตัวอย่างในแหล่งอ้างอิง",
+                      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+                      "published": "2022-08-12",
+                      "note": "สูตร ข้าว หนังไก่ และน้ำจิ้มทำให้พลังงานต่างกัน",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "จาน",
+                        "unit_factors": {}
+                      },
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "publisher": "กรมอนามัย",
+                      "health_score": null
+                    },
+                    {
+                      "id": "boiled_egg",
+                      "name": "ไข่ต้ม",
+                      "aliases": [
+                        "ไข่ไก่ต้ม"
+                      ],
+                      "kcal": [
+                        80,
+                        80
+                      ],
+                      "basis": "ไข่ไก่ 1 ฟอง ไม่เติมน้ำมัน",
+                      "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+                      "published": "2014-10-10",
+                      "location": "พลังงานของไข่ไก่ 1 ฟอง",
+                      "note": "ใช้ค่าพลังงานไข่ไก่อ้างอิง ไม่รวมซอสหรือเครื่องเคียง",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "ฟอง",
+                        "unit_factors": {}
+                      },
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "publisher": "กรมอนามัย",
+                      "health_score": null
+                    }
+                  ],
+                  "reference": {},
+                  "quantity": null,
+                  "unit": null,
+                  "unknown_component_count": 0,
+                  "catalog_version": "2026-10-12-v2",
+                  "assumed_portion": false,
+                  "assumption": null,
+                  "note": "รวมข้าวและกับข้าวเป็นมื้อเดียว คิดจากปริมาณแยกแต่ละอย่าง สูตรและขนาดเสิร์ฟจริงอาจต่างกัน"
+                }
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T12:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "combined_meal": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ข้าว กับ ไข่พะโล้",
+              "data": {
+                "name": "ข้าว กับ ไข่พะโล้",
+                "food_state": "unknown",
+                "components": [
+                  {
+                    "name": "ข้าว",
+                    "quantity": null,
+                    "unit": null,
+                    "food_state": "unknown"
+                  },
+                  {
+                    "name": "ไข่พะโล้",
+                    "quantity": null,
+                    "unit": null,
+                    "food_state": "unknown"
+                  }
+                ]
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "noon",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T12:00:00+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at",
+                "ปริมาณ ข้าว",
+                "หน่วย ข้าว",
+                "ปริมาณ ไข่พะโล้",
+                "หน่วย ไข่พะโล้"
+              ],
+              "errors": [],
+              "calculated": {
+                "energy": {
+                  "name": "ข้าว กับ ไข่พะโล้",
+                  "status": "estimated",
+                  "kcal": [
+                    432.9,
+                    432.9
+                  ],
+                  "actual_consumed_kcal": null,
+                  "components": [
+                    {
+                      "name": "ข้าว",
+                      "status": "estimated",
+                      "kcal": [
+                        80.0,
+                        80.0
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": true,
+                      "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                      "reference": {
+                        "id": "plain_rice",
+                        "name": "ข้าวสวย",
+                        "aliases": [
+                          "ข้าว"
+                        ],
+                        "kcal": [
+                          80,
+                          80
+                        ],
+                        "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                        "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                        "published": null,
+                        "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                        "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                        "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "ทัพพีเล็ก",
+                          "unit_factors": {
+                            "ทัพพี": 1,
+                            "ถ้วย": 3
+                          }
+                        },
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "health_score": null
+                      },
+                      "quantity": 1.0,
+                      "unit": "ทัพพีเล็ก",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": "ยังไม่ระบุปริมาณ ใช้ 1 ทัพพีเล็ก อ้างอิง แก้ได้"
+                    },
+                    {
+                      "name": "ไข่พะโล้",
+                      "status": "estimated",
+                      "kcal": [
+                        352.9,
+                        352.9
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": true,
+                      "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+                      "reference": {
+                        "id": "egg_palo",
+                        "name": "ไข่พะโล้",
+                        "aliases": [],
+                        "kcal": [
+                          352.9,
+                          352.9
+                        ],
+                        "basis": "1 ส่วน ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+                        "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+                        "published": null,
+                        "publisher": "สำนักโภชนาการ กรมอนามัย",
+                        "location": "PDF หน้า 42 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "ส่วน",
+                          "unit_factors": {}
+                        },
+                        "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "health_score": null
+                      },
+                      "quantity": 1.0,
+                      "unit": "ส่วน",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": "ยังไม่ระบุปริมาณ ใช้ 1 ส่วน อ้างอิง แก้ได้"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "id": "plain_rice",
+                      "name": "ข้าวสวย",
+                      "aliases": [
+                        "ข้าว"
+                      ],
+                      "kcal": [
+                        80,
+                        80
+                      ],
+                      "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                      "published": null,
+                      "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                      "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                      "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "ทัพพีเล็ก",
+                        "unit_factors": {
+                          "ทัพพี": 1,
+                          "ถ้วย": 3
+                        }
+                      },
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "health_score": null
+                    },
+                    {
+                      "id": "egg_palo",
+                      "name": "ไข่พะโล้",
+                      "aliases": [],
+                      "kcal": [
+                        352.9,
+                        352.9
+                      ],
+                      "basis": "1 ส่วน ตามสูตรอาหารสำหรับ 1 คนในเอกสารอาหารเด็กวัยเรียน",
+                      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+                      "published": null,
+                      "publisher": "สำนักโภชนาการ กรมอนามัย",
+                      "location": "PDF หน้า 42 ตารางคุณค่าทางโภชนาการสำหรับ 1 คน",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "ส่วน",
+                        "unit_factors": {}
+                      },
+                      "note": "เป็นสูตรและปริมาณสำหรับเด็กวัยเรียน ไม่ใช่จานมาตรฐานผู้ใหญ่หรือทุกสูตรตามร้าน; ไม่รวมข้าวเพิ่มหรือเครื่องเคียงนอกสูตร",
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "health_score": null
+                    }
+                  ],
+                  "reference": {},
+                  "quantity": null,
+                  "unit": null,
+                  "unknown_component_count": 0,
+                  "catalog_version": "2026-10-12-v2",
+                  "assumed_portion": true,
+                  "assumption": "ข้าว: ยังไม่ระบุปริมาณ ใช้ 1 ทัพพีเล็ก อ้างอิง แก้ได้ · ไข่พะโล้: ยังไม่ระบุปริมาณ ใช้ 1 ส่วน อ้างอิง แก้ได้",
+                  "note": "รวมข้าวและกับข้าวเป็นมื้อเดียว คิดจากปริมาณแยกแต่ละอย่าง สูตรและขนาดเสิร์ฟจริงอาจต่างกัน"
+                }
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T12:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "combined_meal": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ข้าว กับ ต้มพะโล้",
+              "data": {
+                "name": "ข้าว กับ ต้มพะโล้",
+                "food_state": "unknown",
+                "components": [
+                  {
+                    "name": "ข้าว",
+                    "quantity": 2.0,
+                    "unit": "ทัพพี",
+                    "food_state": "unknown"
+                  },
+                  {
+                    "name": "ต้มพะโล้",
+                    "quantity": 0.5,
+                    "unit": "ถ้วย",
+                    "food_state": "unknown"
+                  }
+                ]
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "noon",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T12:00:00+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {
+                "energy": {
+                  "name": "ข้าว กับ ต้มพะโล้",
+                  "status": "estimated",
+                  "kcal": [
+                    339.0,
+                    339.0
+                  ],
+                  "actual_consumed_kcal": null,
+                  "components": [
+                    {
+                      "name": "ข้าว",
+                      "status": "estimated",
+                      "kcal": [
+                        160.0,
+                        160.0
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": false,
+                      "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                      "reference": {
+                        "id": "plain_rice",
+                        "name": "ข้าวสวย",
+                        "aliases": [
+                          "ข้าว"
+                        ],
+                        "kcal": [
+                          80,
+                          80
+                        ],
+                        "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                        "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                        "published": null,
+                        "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                        "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                        "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "ทัพพีเล็ก",
+                          "unit_factors": {
+                            "ทัพพี": 1,
+                            "ถ้วย": 3
+                          }
+                        },
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "health_score": null
+                      },
+                      "quantity": 2.0,
+                      "unit": "ทัพพี",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": null
+                    },
+                    {
+                      "name": "ต้มพะโล้",
+                      "status": "estimated",
+                      "kcal": [
+                        179.0,
+                        179.0
+                      ],
+                      "actual_consumed_kcal": null,
+                      "catalog_version": "2026-10-12-v2",
+                      "assumed_portion": false,
+                      "note": "แหล่งเดียวกันรายงานโซเดียมประมาณ 556 มก. ต่อถ้วย สูตรจริงอาจต่างกัน",
+                      "reference": {
+                        "id": "palo",
+                        "name": "ต้มพะโล้",
+                        "aliases": [
+                          "พะโล้"
+                        ],
+                        "kcal": [
+                          358,
+                          358
+                        ],
+                        "basis": "1 ถ้วยตามแหล่งอ้างอิง ไม่รวมข้าว",
+                        "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+                        "published": "2022-08-12",
+                        "note": "แหล่งเดียวกันรายงานโซเดียมประมาณ 556 มก. ต่อถ้วย สูตรจริงอาจต่างกัน",
+                        "serving": {
+                          "quantity": 1,
+                          "unit": "ถ้วย",
+                          "unit_factors": {}
+                        },
+                        "status": "reference_only",
+                        "actual_consumed_kcal": null,
+                        "accessed_at": "2026-10-12",
+                        "publisher": "กรมอนามัย",
+                        "health_score": null
+                      },
+                      "quantity": 0.5,
+                      "unit": "ถ้วย",
+                      "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                      "unit_factor": 1.0,
+                      "assumption": null
+                    }
+                  ],
+                  "references": [
+                    {
+                      "id": "plain_rice",
+                      "name": "ข้าวสวย",
+                      "aliases": [
+                        "ข้าว"
+                      ],
+                      "kcal": [
+                        80,
+                        80
+                      ],
+                      "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                      "published": null,
+                      "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                      "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                      "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "ทัพพีเล็ก",
+                        "unit_factors": {
+                          "ทัพพี": 1,
+                          "ถ้วย": 3
+                        }
+                      },
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "health_score": null
+                    },
+                    {
+                      "id": "palo",
+                      "name": "ต้มพะโล้",
+                      "aliases": [
+                        "พะโล้"
+                      ],
+                      "kcal": [
+                        358,
+                        358
+                      ],
+                      "basis": "1 ถ้วยตามแหล่งอ้างอิง ไม่รวมข้าว",
+                      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+                      "published": "2022-08-12",
+                      "note": "แหล่งเดียวกันรายงานโซเดียมประมาณ 556 มก. ต่อถ้วย สูตรจริงอาจต่างกัน",
+                      "serving": {
+                        "quantity": 1,
+                        "unit": "ถ้วย",
+                        "unit_factors": {}
+                      },
+                      "status": "reference_only",
+                      "actual_consumed_kcal": null,
+                      "accessed_at": "2026-10-12",
+                      "publisher": "กรมอนามัย",
+                      "health_score": null
+                    }
+                  ],
+                  "reference": {},
+                  "quantity": null,
+                  "unit": null,
+                  "unknown_component_count": 0,
+                  "catalog_version": "2026-10-12-v2",
+                  "assumed_portion": false,
+                  "assumption": null,
+                  "note": "รวมข้าวและกับข้าวเป็นมื้อเดียว คิดจากปริมาณแยกแต่ละอย่าง สูตรและขนาดเสิร์ฟจริงอาจต่างกัน"
+                }
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T12:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "public_online_search": {
+        "status": "evidence_found",
+        "urls": [
+          "https://medlineplus.gov/diabetes.html",
+          "https://medlineplus.gov/diabetestype1.html"
+        ]
+      }
+    }
+  ],
+  "no_health_records_written": true
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "activity_id": "niddk-swimming",
+    "name": "swimming",
+    "type": "source_activity_example",
+    "intensity_definition": null,
+    "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+    "source_location": "h2 index 1; How can physical activity help manage my diabetes?",
+    "source_chunk_id": "niddk-healthy-h2-1",
+    "equipment": null,
+    "location": null,
+    "conditions": "Only schedule user-confirmed activities; new activity requires professional assessment as described in source",
+    "contraindications": null,
+    "review_status": "draft",
+    "recommendation_enabled": false
+  }
+]

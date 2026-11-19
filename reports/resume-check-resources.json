@@ -1,0 +1,30 @@
+{
+  "command": [
+    "/Users/tawan/aimuge/.venv/bin/python",
+    "/Users/tawan/aimuge/scripts/mlx_entry.py",
+    "--config",
+    "models/resume-check.yaml",
+    "--resume-adapter-file",
+    "adapters/pilot/adapters.safetensors"
+  ],
+  "exit_code": 0,
+  "elapsed_seconds": 4.216673500006436,
+  "finished_at": "2026-10-12T01:26:17.846712+00:00",
+  "samples": [
+    {
+      "seconds": 0.0016147499991348013,
+      "rss_bytes": 655360,
+      "available_bytes": 4786405376,
+      "swap_used_bytes": 7571963904,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 56%"
+    },
+    {
+      "seconds": 2.020716792001622,
+      "rss_bytes": 542294016,
+      "available_bytes": 3383721984,
+      "swap_used_bytes": 7571963904,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 37%"
+    }
+  ],
+  "resume_semantics": "adapter weights only; optimizer/RNG not restored"
+}

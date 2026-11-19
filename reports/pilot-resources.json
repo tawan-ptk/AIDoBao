@@ -1,0 +1,63 @@
+{
+  "command": [
+    "/Users/tawan/aimuge/.venv/bin/python",
+    "/Users/tawan/aimuge/scripts/mlx_entry.py",
+    "--config",
+    "models/pilot.yaml"
+  ],
+  "exit_code": 0,
+  "elapsed_seconds": 14.087997124996036,
+  "finished_at": "2026-10-11T03:46:50.987656+00:00",
+  "samples": [
+    {
+      "seconds": 0.0014808749983785674,
+      "rss_bytes": 688128,
+      "available_bytes": 5378326528,
+      "swap_used_bytes": 5010227200,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 64%"
+    },
+    {
+      "seconds": 2.009355874994071,
+      "rss_bytes": 332742656,
+      "available_bytes": 3588407296,
+      "swap_used_bytes": 5010227200,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 42%"
+    },
+    {
+      "seconds": 4.050831457992899,
+      "rss_bytes": 400097280,
+      "available_bytes": 2883534848,
+      "swap_used_bytes": 5001838592,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 33%"
+    },
+    {
+      "seconds": 6.055086832988309,
+      "rss_bytes": 407470080,
+      "available_bytes": 2601713664,
+      "swap_used_bytes": 5001838592,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 30%"
+    },
+    {
+      "seconds": 8.062891249996028,
+      "rss_bytes": 405225472,
+      "available_bytes": 2657533952,
+      "swap_used_bytes": 5001838592,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 31%"
+    },
+    {
+      "seconds": 10.069397832994582,
+      "rss_bytes": 386383872,
+      "available_bytes": 2928246784,
+      "swap_used_bytes": 5164826624,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 31%"
+    },
+    {
+      "seconds": 12.07722149998881,
+      "rss_bytes": 296288256,
+      "available_bytes": 2335850496,
+      "swap_used_bytes": 5156438016,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 27%"
+    }
+  ],
+  "resume_semantics": null
+}

@@ -1,0 +1,8 @@
+# Cloud record service on Vercel (see api/index.py). The Mac uses requirements.lock.txt.
+fastapi==0.143.0
+pydantic==2.14.0
+httpx==0.28.1
+beautifulsoup4==4.15.0
+defusedxml==0.7.1
+psycopg[binary]==3.2.10
+psycopg-pool==3.2.6

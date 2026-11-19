@@ -1,0 +1,75 @@
+{
+  "created_at": "2026-10-12T13:57:25.018911+00:00",
+  "seed": 42,
+  "max_context": 1536,
+  "truncated_answers": 0,
+  "files": {
+    "train": {
+      "path": "data/prepared/finetune-v1/train.jsonl",
+      "sha256": "d8aad1dfa4c712870633c5b2255a2338671c5d489411219e463bc0974f377b7e"
+    },
+    "valid": {
+      "path": "data/prepared/finetune-v1/valid.jsonl",
+      "sha256": "f40f6e1e012a2ef1c9d5289133942a1e56b813078d84e930998d08054cf1ce9a"
+    },
+    "test": {
+      "path": "data/prepared/finetune-v1/test.jsonl",
+      "sha256": "8281ec26c2660847801fb83618e283be305441678ac3b69152fb89a5dad53feb"
+    }
+  },
+  "counts": {
+    "train": 295,
+    "valid": 70,
+    "test": 79
+  },
+  "tasks": {
+    "train": {
+      "menu": 9,
+      "intent": 72,
+      "extract": 138,
+      "health_qa": 53,
+      "route": 16,
+      "journal": 7
+    },
+    "valid": {
+      "extract": 24,
+      "health_qa": 12,
+      "intent": 24,
+      "journal": 2,
+      "route": 4,
+      "menu": 4
+    },
+    "test": {
+      "intent": 36,
+      "route": 6,
+      "extract": 24,
+      "menu": 4,
+      "health_qa": 7,
+      "journal": 2
+    }
+  },
+  "origins": {
+    "train": {
+      "synthetic_command_example": 242,
+      "original_source_qa": 53
+    },
+    "valid": {
+      "synthetic_command_example": 58,
+      "original_source_qa": 12
+    },
+    "test": {
+      "synthetic_command_example": 72,
+      "original_source_qa": 7
+    }
+  },
+  "max_tokens": 383,
+  "split_policy": "Source page and authored template groups disjoint; held-out lexical fillers for extraction. No app records/software fixtures imported. Test not used for checkpoint selection.",
+  "exclusions": [],
+  "limitations": [
+    "Synthetic command evaluation measures template generalization, not real-user or clinical accuracy.",
+    "All health answer targets are English original source text, never AI medical answers.",
+    "Source QA was checked against its current source, not reviewed by a clinician.",
+    "Pretraining overlap unknown; public-source held-out does not prove absence of model memorization.",
+    "Scheduling/conflict calculation, allergy filtering, consent and database authorization remain program responsibilities."
+  ]
+}

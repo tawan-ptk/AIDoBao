@@ -1,0 +1,21 @@
+{
+  "command": [
+    "/Users/tawan/aimuge/.venv/bin/python",
+    "/Users/tawan/aimuge/scripts/mlx_entry.py",
+    "--config",
+    "models/pilot.yaml"
+  ],
+  "exit_code": -6,
+  "elapsed_seconds": 2.010646499998984,
+  "finished_at": "2026-10-11T03:44:31.832650+00:00",
+  "samples": [
+    {
+      "seconds": 0.0013502079964382574,
+      "rss_bytes": 704512,
+      "available_bytes": 5434720256,
+      "swap_used_bytes": 5060558848,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 65%"
+    }
+  ],
+  "resume_semantics": null
+}

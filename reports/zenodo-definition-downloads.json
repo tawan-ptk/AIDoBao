@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://zenodo.org/api/records/5914387",
+    "file": "data/raw/zenodo-5914387.json",
+    "sha256": "889537518b493429b5482cde5d5f094d69380c1627bd22a609429d7af4cb2637",
+    "bytes": 3810,
+    "accessed_at": "2026-10-12T01:36:38.029205+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/5914387/files/Data%20key%20or%20dictionary%20for%20Questionnaire_HL_DM.docx/content",
+    "file": "data/raw/zenodo-5914387-Data key or dictionary for Questionnaire_HL_DM.docx",
+    "sha256": "8135d32aaee8aba37ce443d1c2e718d8a885b5aa9dfd5755bc6c0403e11ba6e8",
+    "bytes": 32489,
+    "accessed_at": "2026-10-12T01:36:38.988947+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/5864806",
+    "file": "data/raw/zenodo-5864806.json",
+    "sha256": "ab9519eb6be2ea79b1872eb9b5dcb1f78ac7c90f3d509e4e0f0d000ddadcc997",
+    "bytes": 4013,
+    "accessed_at": "2026-10-12T01:36:39.952099+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/5864806/files/Questionnaire_HL_DM_Final.docx/content",
+    "file": "data/raw/zenodo-5864806-Questionnaire_HL_DM_Final.docx",
+    "sha256": "75a40b0014e59eec3d7a03a324590ad099ccf78b4ad5770bb0da754a7b042146",
+    "bytes": 41799,
+    "accessed_at": "2026-10-12T01:36:41.152026+00:00"
+  }
+]

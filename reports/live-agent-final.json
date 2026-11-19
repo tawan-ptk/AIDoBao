@@ -1,0 +1,53 @@
+{
+  "question": "บันทึกกินข้าว 16.00 กรัม",
+  "http_status": 200,
+  "status": "agent_proposal",
+  "route": "website_assistant",
+  "mode": "proposal_only",
+  "answer": "เตรียม 1 รายการ: ข้าว เก็บเฉพาะชื่อสั้นและข้อมูลแยกช่อง ตรวจแล้วกดยืนยันเพื่อบันทึกครับ",
+  "actions": [
+    {
+      "type": "records",
+      "records": [
+        {
+          "kind": "meal",
+          "text": "ข้าว",
+          "data": {
+            "name": "ข้าว",
+            "quantity": 16.0,
+            "unit": "กรัม",
+            "food_state": "unknown"
+          },
+          "origin": "self_report",
+          "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+          "evidence": {},
+          "previous_id": null,
+          "journal": {
+            "date": "2026-10-12",
+            "timezone": "Asia/Bangkok",
+            "period": "unspecified",
+            "clock": null,
+            "date_source": "capture_date",
+            "captured_at": "2026-10-12T19:50:47.068139+07:00",
+            "context_text": ""
+          }
+        }
+      ],
+      "compact": true,
+      "label": "ตรวจและบันทึก 1 รายการ"
+    },
+    {
+      "type": "journal",
+      "text": "กินข้าว 16.00 กรัม",
+      "label": "แก้ชื่อหรือเวลา"
+    }
+  ],
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "แนะนำเมนูมื้อเย็น",
+    "วันนี้ทำอะไรไปบ้าง",
+    "เปิดโปรไฟล์"
+  ],
+  "clinical_review": "not_reviewed"
+}

@@ -1,0 +1,144 @@
+{
+  "question": "ตอนเย็นกินอะไรดี",
+  "http_status": 200,
+  "status": "meal_ideas",
+  "route": "personalized_menu",
+  "mode": "read_only",
+  "citations": [
+    {
+      "publisher": "NIDDK",
+      "heading": "Healthy Living with Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "location": "Choose healthy foods / Plate method",
+      "accessed_at": "2026-10-12",
+      "text": "หลักฐานใช้การเลือกอาหารให้หลากหลายและจัดสัดส่วนผัก แหล่งคาร์โบไฮเดรต และโปรตีน โดยปรับร่วมกับทีมรักษา ไม่ใช้ค่าพลังงานจานอ้างอิงเป็นเป้าหมายเฉพาะบุคคล",
+      "content_type": "editorial_summary"
+    }
+  ],
+  "record_sources": [],
+  "suggestions": [
+    "วันนี้กินอะไรไปบ้าง",
+    "เปิดโปรไฟล์",
+    "จัดตารางของฉัน"
+  ],
+  "context": {
+    "profile": {
+      "age": null,
+      "weight_kg": null,
+      "height_cm": null,
+      "conditions": [],
+      "medications": [],
+      "timezone": "Asia/Bangkok",
+      "reported_type2": null,
+      "complex_care": false,
+      "pregnant": false,
+      "goals": [],
+      "allergies": null,
+      "preferences": [],
+      "mobility_limits": [],
+      "prohibited_catalog_ids": []
+    },
+    "source_record_ids": {},
+    "flags": [
+      "age_unknown"
+    ],
+    "bmi": null,
+    "bmi_label": null,
+    "daily_calorie_target": null,
+    "clinical_review": "not_reviewed"
+  },
+  "meal_references": [],
+  "menus": [
+    {
+      "id": "chicken_veg_rice",
+      "name": "ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม",
+      "ingredients": [
+        "ข้าว",
+        "ไก่",
+        "ผัก",
+        "เกลือ"
+      ],
+      "contains": [
+        "ไก่"
+      ],
+      "tags": [
+        "ต้ม",
+        "โปรตีน",
+        "ผัก"
+      ],
+      "note": "แยกน้ำจิ้ม เลือกผักที่กินได้",
+      "kcal": null,
+      "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+      "allergen_status": "requires_ingredient_check",
+      "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+    },
+    {
+      "id": "fish_veg_rice",
+      "name": "ข้าว + ปลานึ่ง + ผักต้ม",
+      "ingredients": [
+        "ข้าว",
+        "ปลา",
+        "ผัก",
+        "เกลือ"
+      ],
+      "contains": [
+        "ปลา"
+      ],
+      "tags": [
+        "นึ่ง",
+        "โปรตีน",
+        "ผัก"
+      ],
+      "note": "ตรวจชนิดปลาและเครื่องปรุงก่อนกิน",
+      "kcal": null,
+      "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+      "allergen_status": "requires_ingredient_check",
+      "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+    },
+    {
+      "id": "tofu_veg_rice",
+      "name": "ข้าว + เต้าหู้ผัดผักน้ำมันน้อย",
+      "ingredients": [
+        "ข้าว",
+        "ถั่วเหลือง",
+        "ผัก",
+        "น้ำมัน",
+        "เกลือ"
+      ],
+      "contains": [
+        "ถั่วเหลือง"
+      ],
+      "tags": [
+        "มังสวิรัติ",
+        "โปรตีน",
+        "ผัก"
+      ],
+      "note": "ใช้เต้าหู้ถั่วเหลืองและไม่เติมซอสที่ไม่ทราบส่วนผสม",
+      "kcal": null,
+      "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+      "allergen_status": "requires_ingredient_check",
+      "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+    }
+  ],
+  "clinical_review": "not_reviewed",
+  "used_record_ids": [],
+  "question_constraints": {
+    "allergies": [],
+    "stored": false
+  },
+  "care_context": [],
+  "meals_stated_in_question": [],
+  "answer": "มื้อเย็นลองเลือกหนึ่งอย่างจากนี้ได้ครับ:\n• ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม\n• ข้าว + ปลานึ่ง + ผักต้ม\n• ข้าว + เต้าหู้ผัดผักน้ำมันน้อย\n\nเลือกแบบที่ชอบได้เลยครับ แต่ละตัวเลือกมีผัก โปรตีน และข้าว\n\nถ้ามีอาหารที่แพ้ บอกฉันก่อนเลือกเมนูนะครับ",
+  "details": [
+    "ยังไม่มีบันทึกอาหารวันที่ 2026-10-12 จึงยังไม่ได้เทียบกับมื้อก่อนหน้า",
+    "ยังไม่ทราบอายุ จึงไม่กำหนดปริมาณหรือเป้าหมายพลังงานเฉพาะบุคคล"
+  ],
+  "engine": "local_ai_validated_selection",
+  "actions": [
+    {
+      "type": "navigate",
+      "page": "profile",
+      "label": "ปรับข้อมูลเพื่อเลือกเมนู"
+    }
+  ]
+}

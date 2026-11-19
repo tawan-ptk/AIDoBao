@@ -1,0 +1,240 @@
+{
+  "n_rows": 2779,
+  "unique_ids": 2638,
+  "duplicate_ids": 141,
+  "missing_codes": {
+    "Age": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "Height": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "Weight": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "Hip": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "WC": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "WC_gr": [
+      {
+        "lo": 9.0,
+        "hi": 9.0
+      }
+    ],
+    "WC_high": [
+      {
+        "lo": 999.0,
+        "hi": 999.0
+      }
+    ],
+    "Occup_gr": [
+      {
+        "lo": 88.0,
+        "hi": 88.0
+      }
+    ],
+    "LifeStyle": [
+      {
+        "lo": 9.0,
+        "hi": 9.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "SleepHour": [
+      {
+        "lo": 99.0,
+        "hi": 99.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "CigSmoker": [
+      {
+        "lo": 9.0,
+        "hi": 9.0
+      }
+    ],
+    "AlcoholUser": [
+      {
+        "lo": 9.0,
+        "hi": 9.0
+      }
+    ],
+    "ChickenEat": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      }
+    ],
+    "BeefEat": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      }
+    ],
+    "SausageEat": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      }
+    ],
+    "Active": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "Exercise": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "WatchTV": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      },
+      {
+        "lo": 9.0,
+        "hi": 9.0
+      }
+    ],
+    "Walking": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "Biking": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ],
+    "Sweat": [
+      {
+        "lo": 8.0,
+        "hi": 8.0
+      },
+      {
+        "lo": 0.0,
+        "hi": 0.0
+      }
+    ]
+  },
+  "nonmissing_after_codes": {
+    "ID": 2779,
+    "Diabetes": 2779,
+    "Sex": 2779,
+    "Age": 2779,
+    "Age_gr": 2779,
+    "Height": 2753,
+    "Weight": 2765,
+    "Hip": 2620,
+    "BMI": 2746,
+    "BMI_gr": 2675,
+    "BMI_high": 2675,
+    "WHR": 2618,
+    "WHR_gr": 2617,
+    "WHR_high": 2618,
+    "WC": 2754,
+    "WC_gr": 2753,
+    "WC_high": 2754,
+    "Occup_gr": 2684,
+    "LifeStyle": 2743,
+    "Eveningperson": 2743,
+    "SleepHour": 2779,
+    "Sleephour_gr": 2779,
+    "LongSleeper": 2779,
+    "ShortSleeper": 2779,
+    "PoorSleeper": 2779,
+    "CigSmoker": 2719,
+    "AlcoholUser": 2709,
+    "ChickenEat": 2175,
+    "BeefEat": 2594,
+    "SausageEat": 2024,
+    "VegetableEat": 2756,
+    "FruitEat": 2749,
+    "SweetEat": 2754,
+    "SugaryDrink": 2718,
+    "RiceEat": 2728,
+    "RiceEat_over1": 2678,
+    "Active": 2642,
+    "Exercise": 2638,
+    "WatchTV": 2622,
+    "Walking": 2631,
+    "Biking": 2637,
+    "Sweat": 2643
+  },
+  "sleep_hours_distribution": {
+    "8.0": 1142,
+    "9.0": 618,
+    "7.0": 522,
+    "10.0": 196,
+    "6.0": 188,
+    "5.0": 61,
+    "11.0": 25,
+    "12.0": 11,
+    "4.0": 11,
+    "2.0": 5
+  },
+  "diabetes_groups": {
+    "0.0": 1394,
+    "1.0": 1385
+  },
+  "measurement_provenance": {
+    "anthropometrics": "assessed by health volunteers per article Methods; WC unit consistency unresolved",
+    "sleep_food_activity": "interviewer-administered self report",
+    "BMI_WHR": "derived in original dataset"
+  },
+  "period": "February–May 2016; activity questionnaire reflects retrospective usual behavior, not daily timeline",
+  "limitations": [
+    "case-control source, convenience control sampling, ages 30–85, excludes specified chronic diseases",
+    "Dictionary WC unit cm conflicts with scale of reported mean; no silent conversion",
+    "Paper WHR cutoff text typo retained as source discrepancy; no clinical rule generated"
+  ]
+}

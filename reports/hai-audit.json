@@ -1,0 +1,32 @@
+{
+  "sha256": "d51a24f57c9f96b3ba71d86b176f62b9f4b6e39f319e81a8ba2d32ce6a60e507",
+  "rows": 2420,
+  "columns": [
+    "doc_no",
+    "annotator",
+    "struggle",
+    "cluster_expert",
+    "cluster_expert_merged",
+    "cluster_auto",
+    "struggle_original",
+    "OT",
+    "reflection_candidates",
+    "reflection_annotation",
+    "reflection_from_expert",
+    "reframing_candidates",
+    "reframing_annotation",
+    "reframing_from_expert",
+    "comfort_candidates",
+    "comfort_annotation",
+    "comfort_from_expert",
+    "suggestion_candidates",
+    "suggestion_annotation",
+    "suggestion_from_expert",
+    "reduced_embeddings",
+    "full_embeddings"
+  ],
+  "expert_rows": 246,
+  "unique_struggles": 246,
+  "status": "excluded",
+  "reason": "Repository LGPL-2.1 notice does not explicitly clarify dataset/adapter scope; dataset-specific rights pending. No candidates used."
+}

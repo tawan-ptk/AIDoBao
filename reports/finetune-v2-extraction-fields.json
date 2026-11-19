@@ -1,0 +1,18 @@
+{
+  "base": {
+    "cases": 31,
+    "all_data_fields_match_after_validation": 8,
+    "correct_fields": 103,
+    "total_fields": 130,
+    "invalid_envelope": 0,
+    "scope": "Synthetic command test only; includes null fields; not clinical accuracy"
+  },
+  "adapter": {
+    "cases": 31,
+    "all_data_fields_match_after_validation": 24,
+    "correct_fields": 123,
+    "total_fields": 130,
+    "invalid_envelope": 0,
+    "scope": "Synthetic command test only; includes null fields; not clinical accuracy"
+  }
+}

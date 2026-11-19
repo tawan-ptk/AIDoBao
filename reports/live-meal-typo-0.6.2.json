@@ -1,0 +1,75 @@
+{
+  "question": "วันนี้กินข้าวช้าวเป็นข้าวขาหมู ตอนเที่ยงกินต้มยำกุ้ง",
+  "http_status": 200,
+  "status": "agent_proposal",
+  "route": "website_assistant",
+  "mode": "proposal_only",
+  "answer": "แยกได้ 2 รายการครับ\n• ข้าวขาหมู · ตอนเช้า\n• ต้มยำกุ้ง · ตอนเที่ยง\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+  "actions": [
+    {
+      "type": "records",
+      "records": [
+        {
+          "kind": "meal",
+          "text": "ข้าวขาหมู",
+          "data": {
+            "name": "ข้าวขาหมู",
+            "food_state": "unknown"
+          },
+          "origin": "self_report",
+          "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+          "evidence": {},
+          "previous_id": null,
+          "journal": {
+            "date": "2026-10-12",
+            "timezone": "Asia/Bangkok",
+            "period": "morning",
+            "clock": null,
+            "date_source": "capture_date",
+            "captured_at": "2026-10-12T20:16:40.789355+07:00",
+            "context_text": ""
+          }
+        },
+        {
+          "kind": "meal",
+          "text": "ต้มยำกุ้ง",
+          "data": {
+            "name": "ต้มยำกุ้ง",
+            "food_state": "unknown"
+          },
+          "origin": "self_report",
+          "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+          "evidence": {},
+          "previous_id": null,
+          "journal": {
+            "date": "2026-10-12",
+            "timezone": "Asia/Bangkok",
+            "period": "noon",
+            "clock": null,
+            "date_source": "capture_date",
+            "captured_at": "2026-10-12T20:16:40.789355+07:00",
+            "context_text": ""
+          }
+        }
+      ],
+      "compact": true,
+      "label": "ตรวจและบันทึก 2 รายการ"
+    },
+    {
+      "type": "journal",
+      "text": "วันนี้กินข้าวช้าวเป็นข้าวขาหมู ตอนเที่ยงกินต้มยำกุ้ง",
+      "label": "แก้ชื่อหรือเวลา"
+    }
+  ],
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "แนะนำเมนูมื้อเย็น",
+    "วันนี้ทำอะไรไปบ้าง",
+    "เปิดโปรไฟล์"
+  ],
+  "clinical_review": "not_reviewed",
+  "details": [
+    "ตีความ “ข้าวช้าว” เป็นมื้อเช้า กรุณาตรวจช่วงเวลาก่อนยืนยัน"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "rows": 605,
+  "columns": 50,
+  "unique_ids": 605,
+  "duplicate_ids": 0,
+  "blank_cells": 0,
+  "dmcontrol_observed": {
+    "0": 360,
+    "1": 245
+  },
+  "dmcontrol_dictionary": {
+    "1": "Control",
+    "2": "Uncontrol"
+  },
+  "dmcontrol_status": "coding conflict; do not remap 0/1 silently",
+  "hl_out_of_range": {
+    "hl11": 0,
+    "hl12": 0,
+    "hl13": 0,
+    "hl14": 0,
+    "hl15": 0,
+    "hl21": 0,
+    "hl22": 0,
+    "hl23": 0,
+    "hl24": 0,
+    "hl25": 0,
+    "hl31": 0,
+    "hl32": 0,
+    "hl33": 0,
+    "hl34": 0,
+    "hl35": 0,
+    "hl41": 0,
+    "hl42": 0,
+    "hl43": 0,
+    "hl44": 0,
+    "hl45": 0,
+    "hl51": 0,
+    "hl52": 0,
+    "hl53": 0,
+    "hl54": 0,
+    "hl55": 0,
+    "hl61": 0,
+    "hl62": 0,
+    "hl63": 0,
+    "hl64": 0,
+    "hl65": 0
+  },
+  "totalhl_recompute": {
+    "formula": "sum(hl11..hl65), 30 original item columns",
+    "mismatch_rows": 51,
+    "missing_policy": "No blank HL cells observed; no missing values imputed"
+  },
+  "limitations": [
+    "No age column despite questionnaire age field",
+    "consumption column versus diet in dictionary needs explicit mapping",
+    "totalhl_g thresholds not documented in downloaded dictionary; not inferred",
+    "Blank count does not rule out undocumented missing codes"
+  ]
+}

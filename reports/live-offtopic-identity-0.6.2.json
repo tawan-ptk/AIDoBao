@@ -1,0 +1,15 @@
+{
+  "question": "คุณคือใคร",
+  "http_status": 200,
+  "route": "out_of_scope",
+  "status": "out_of_scope",
+  "mode": "read_only",
+  "answer": "คำถามนี้อยู่นอกเรื่องสุขภาพครับ ฉันช่วยเรื่องสุขภาพ เบาหวาน และบันทึกของคุณได้ ลองถามในเรื่องเหล่านี้นะครับ",
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "เป็นเบาหวานควรกินอะไร",
+    "วันนี้กินอะไรไปบ้าง"
+  ],
+  "clinical_review": "not_reviewed"
+}

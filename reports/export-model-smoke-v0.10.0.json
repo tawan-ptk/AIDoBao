@@ -1,0 +1,32 @@
+{
+  "label": "SOFTWARE EXPORT SMOKE ONLY; current installed environment, not fresh machine",
+  "integrity": {
+    "verified": true,
+    "files": 61,
+    "bytes": 2304432693,
+    "path": "/Users/tawan/aimuge/dist/ruamwan-ai-macos-0.10.0"
+  },
+  "generation": {
+    "output": "{\"intent\":\"usage_help\"}",
+    "metrics": {
+      "load_seconds": 1.8152207910025027,
+      "generation_seconds": 1.436688084009802,
+      "peak_memory_gb": 3.181330816,
+      "model_task": "intent",
+      "adapter": "finetune-v2-selected"
+    }
+  },
+  "backend": {
+    "backend_ready": true,
+    "composite_meal_ready": true,
+    "capture_default_ready": true,
+    "question_guard_ready": true,
+    "owner_records_written": false
+  },
+  "after_run_integrity": {
+    "verified": true,
+    "files": 61,
+    "bytes": 2304432693,
+    "path": "/Users/tawan/aimuge/dist/ruamwan-ai-macos-0.10.0"
+  }
+}

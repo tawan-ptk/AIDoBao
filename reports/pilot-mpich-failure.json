@@ -1,0 +1,27 @@
+{
+  "command": [
+    "/Users/tawan/aimuge/.venv/bin/mlx_lm.lora",
+    "--config",
+    "models/pilot.yaml"
+  ],
+  "exit_code": -6,
+  "elapsed_seconds": 4.018688583004405,
+  "finished_at": "2026-10-11T03:26:34.065220+00:00",
+  "samples": [
+    {
+      "seconds": 0.0019069160043727607,
+      "rss_bytes": 32768,
+      "available_bytes": 5636915200,
+      "swap_used_bytes": 5236719616,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 67%"
+    },
+    {
+      "seconds": 2.0108090830035508,
+      "rss_bytes": 94715904,
+      "available_bytes": 5629624320,
+      "swap_used_bytes": 5236719616,
+      "memory_pressure": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 67%"
+    }
+  ],
+  "resume_semantics": null
+}

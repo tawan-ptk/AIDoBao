@@ -1,0 +1,15 @@
+{
+  "question": "ราคาหุ้นวันนี้",
+  "http_status": 200,
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "เป็นเบาหวานจะอ้วนใช่ไหม",
+    "วันนี้ทำอะไรไปบ้าง"
+  ],
+  "mode": "read_only",
+  "clinical_review": "not_reviewed",
+  "route": "out_of_scope",
+  "status": "out_of_scope",
+  "answer": "ฉันตอบได้เฉพาะเรื่องสุขภาพ การดูแลตัวเอง และโรคเบาหวานครับ ลองถามเรื่องอาหาร อาการ การออกกำลังกาย หรือข้อมูลสุขภาพที่คุณบันทึกไว้ได้เลย"
+}

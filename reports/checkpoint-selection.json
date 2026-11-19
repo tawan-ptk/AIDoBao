@@ -1,0 +1,6 @@
+{
+  "selected": "adapters/pilot/0000006_adapters.safetensors",
+  "criterion": "lowest pilot validation loss (step 3: 2.106; step 6: 2.060); selected before test evaluation",
+  "test_used_for_selection": false,
+  "demo_policy": "base model for extraction; source-extractive RAG for health answers until adequate clinical/Thai evaluation"
+}

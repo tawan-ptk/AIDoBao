@@ -1,0 +1,157 @@
+{
+ "source": "finetune-v3 train (synthetic)",
+ "examples": {
+  "extract:activity": [
+   {
+    "user": "เดิน เริ่ม 2026-03-19T08:00:00+07:00 จบ 2026-03-19T08:30:00+07:00",
+    "assistant": "{\"data\":{\"name\":\"เดิน\",\"start\":\"2026-03-19T08:00:00+07:00\",\"end\":\"2026-03-19T08:30:00+07:00\",\"method\":null},\"evidence\":{\"name\":\"เดิน\",\"start\":\"2026-03-19T08:00:00+07:00\",\"end\":\"2026-03-19T08:30:00+07:00\"}}"
+   },
+   {
+    "user": "เพิ่งเตะฟุตบอลเสร็จ",
+    "assistant": "{\"data\":{\"name\":\"เตะฟุตบอล\",\"start\":null,\"end\":null,\"method\":null},\"evidence\":{\"name\":\"เตะฟุตบอล\"}}"
+   },
+   {
+    "user": "บันทึกแค่ชื่อรำวง",
+    "assistant": "{\"data\":{\"name\":\"รำวง\",\"start\":null,\"end\":null,\"method\":null},\"evidence\":{\"name\":\"รำวง\"}}"
+   },
+   {
+    "user": "ขอเก็บเต้นแอโรบิกไว้",
+    "assistant": "{\"data\":{\"name\":\"เต้นแอโรบิก\",\"start\":null,\"end\":null,\"method\":null},\"evidence\":{\"name\":\"เต้นแอโรบิก\"}}"
+   }
+  ],
+  "extract:appointment": [
+   {
+    "user": "นัด ตรวจสุขภาพ เริ่ม 2026-02-17T08:00:00+07:00 จบ 2026-02-17T08:30:00+07:00",
+    "assistant": "{\"data\":{\"name\":\"ตรวจสุขภาพ\",\"start\":\"2026-02-17T08:00:00+07:00\",\"end\":\"2026-02-17T08:30:00+07:00\"},\"evidence\":{\"name\":\"ตรวจสุขภาพ\",\"start\":\"2026-02-17T08:00:00+07:00\",\"end\":\"2026-02-17T08:30:00+07:00\"}}"
+   },
+   {
+    "user": "เพิ่งตรวจจอประสาทตาเสร็จ",
+    "assistant": "{\"data\":{\"name\":\"ตรวจจอประสาทตา\",\"start\":null,\"end\":null},\"evidence\":{\"name\":\"ตรวจจอประสาทตา\"}}"
+   },
+   {
+    "user": "ช่วยจดรายการเป็นติดตามอาการ",
+    "assistant": "{\"data\":{\"name\":\"ติดตามอาการ\",\"start\":null,\"end\":null},\"evidence\":{\"name\":\"ติดตามอาการ\"}}"
+   },
+   {
+    "user": "มีนัดตรวจฟัน",
+    "assistant": "{\"data\":{\"name\":\"ตรวจฟัน\",\"start\":null,\"end\":null},\"evidence\":{\"name\":\"ตรวจฟัน\"}}"
+   }
+  ],
+  "extract:meal": [
+   {
+    "user": "กินข้าวต้ม 1 ชาม เวลา 2026-02-17T08:00:00+07:00",
+    "assistant": "{\"data\":{\"name\":\"ข้าวต้ม\",\"quantity\":1,\"unit\":\"ชาม\",\"occurred_at\":\"2026-02-17T08:00:00+07:00\",\"food_state\":null},\"evidence\":{\"name\":\"ข้าวต้ม\",\"quantity\":\"1\",\"unit\":\"ชาม\",\"occurred_at\":\"2026-02-17T08:00:00+07:00\"}}"
+   },
+   {
+    "user": "วันนี้ทานข้าวขาหมู",
+    "assistant": "{\"data\":{\"name\":\"ข้าวขาหมู\",\"quantity\":null,\"unit\":null,\"occurred_at\":null,\"food_state\":null},\"evidence\":{\"name\":\"ข้าวขาหมู\"}}"
+   },
+   {
+    "user": "ขอเก็บแกงจืดฟักไว้",
+    "assistant": "{\"data\":{\"name\":\"แกงจืดฟัก\",\"quantity\":null,\"unit\":null,\"occurred_at\":null,\"food_state\":null},\"evidence\":{\"name\":\"แกงจืดฟัก\"}}"
+   },
+   {
+    "user": "เพิ่งรับประทานแกงจืดเต้าหู้เสร็จ",
+    "assistant": "{\"data\":{\"name\":\"แกงจืดเต้าหู้\",\"quantity\":null,\"unit\":null,\"occurred_at\":null,\"food_state\":null},\"evidence\":{\"name\":\"แกงจืดเต้าหู้\"}}"
+   }
+  ],
+  "extract:measurement": [
+   {
+    "user": "น้ำหนัก 70 kg เวลา 2026-03-19T08:00:00+07:00",
+    "assistant": "{\"data\":{\"name\":\"weight\",\"value\":70,\"unit\":\"kg\",\"occurred_at\":\"2026-03-19T08:00:00+07:00\",\"context\":null,\"method\":null},\"evidence\":{\"name\":\"น้ำหนัก\",\"value\":\"70\",\"unit\":\"kg\",\"occurred_at\":\"2026-03-19T08:00:00+07:00\"}}"
+   },
+   {
+    "user": "น้ำหนัก 61 กก.",
+    "assistant": "{\"data\":{\"name\":\"weight\",\"value\":61.0,\"unit\":\"kg\",\"occurred_at\":null,\"context\":null,\"method\":null},\"evidence\":{\"name\":\"น้ำหนัก\",\"value\":\"61\",\"unit\":\"กก.\"}}"
+   },
+   {
+    "user": "จดน้ำหนักเป็น 83 กก.",
+    "assistant": "{\"data\":{\"name\":\"weight\",\"value\":83.0,\"unit\":\"kg\",\"occurred_at\":null,\"context\":null,\"method\":null},\"evidence\":{\"name\":\"น้ำหนัก\",\"value\":\"83\",\"unit\":\"กก.\"}}"
+   },
+   {
+    "user": "จดค่าน้ำหนัก 60.8 กิโลกรัม",
+    "assistant": "{\"data\":{\"name\":\"weight\",\"value\":60.8,\"unit\":\"kg\",\"occurred_at\":null,\"context\":null,\"method\":null},\"evidence\":{\"name\":\"น้ำหนัก\",\"value\":\"60.8\",\"unit\":\"กิโลกรัม\"}}"
+   }
+  ],
+  "extract:medication": [
+   {
+    "user": "ชื่อยา ยาตามใบสั่ง เวลา 2026-03-19T08:00:00+07:00",
+    "assistant": "{\"data\":{\"name\":\"ยาตามใบสั่ง\",\"dose\":null,\"unit\":null,\"occurred_at\":\"2026-03-19T08:00:00+07:00\",\"instruction_source\":null,\"state\":null},\"evidence\":{\"name\":\"ยาตามใบสั่ง\",\"occurred_at\":\"2026-03-19T08:00:00+07:00\"}}"
+   },
+   {
+    "user": "ขอเก็บยากล่องเดิมไว้",
+    "assistant": "{\"data\":{\"name\":\"ยากล่องเดิม\",\"dose\":null,\"unit\":null,\"occurred_at\":null,\"instruction_source\":null,\"state\":null},\"evidence\":{\"name\":\"ยากล่องเดิม\"}}"
+   },
+   {
+    "user": "ขอเก็บยาจากร้านยาไว้",
+    "assistant": "{\"data\":{\"name\":\"ยาจากร้านยา\",\"dose\":null,\"unit\":null,\"occurred_at\":null,\"instruction_source\":null,\"state\":null},\"evidence\":{\"name\":\"ยาจากร้านยา\"}}"
+   },
+   {
+    "user": "ช่วยจดรายการเป็นยาตามใบนัด",
+    "assistant": "{\"data\":{\"name\":\"ยาตามใบนัด\",\"dose\":null,\"unit\":null,\"occurred_at\":null,\"instruction_source\":null,\"state\":null},\"evidence\":{\"name\":\"ยาตามใบนัด\"}}"
+   }
+  ],
+  "extract:sleep": [
+   {
+    "user": "นอน เริ่ม 2026-02-17T08:00:00+07:00 จบ 2026-02-17T08:30:00+07:00",
+    "assistant": "{\"data\":{\"start\":\"2026-02-17T08:00:00+07:00\",\"end\":\"2026-02-17T08:30:00+07:00\",\"method\":null,\"episode\":null},\"evidence\":{\"start\":\"2026-02-17T08:00:00+07:00\",\"end\":\"2026-02-17T08:30:00+07:00\"}}"
+   },
+   {
+    "user": "เมื่อคืนเข้านอน 23:00",
+    "assistant": "{\"data\":{\"start\":null,\"end\":null,\"method\":null,\"episode\":null},\"evidence\":{}}"
+   },
+   {
+    "user": "จดการนอนเมื่อคืนไว้",
+    "assistant": "{\"data\":{\"start\":null,\"end\":null,\"method\":null,\"episode\":null},\"evidence\":{}}"
+   },
+   {
+    "user": "งีบตอนบ่าย",
+    "assistant": "{\"data\":{\"start\":null,\"end\":null,\"method\":null,\"episode\":null},\"evidence\":{}}"
+   }
+  ],
+  "extract:wellbeing": [
+   {
+    "user": "รู้สึกสบายใจ เวลา 2026-01-13T08:00:00+07:00",
+    "assistant": "{\"data\":{\"note\":\"สบายใจ\",\"occurred_at\":\"2026-01-13T08:00:00+07:00\"},\"evidence\":{\"note\":\"สบายใจ\",\"occurred_at\":\"2026-01-13T08:00:00+07:00\"}}"
+   },
+   {
+    "user": "เพิ่งเศร้าเสร็จ",
+    "assistant": "{\"data\":{\"note\":\"เศร้า\",\"occurred_at\":null},\"evidence\":{\"note\":\"เศร้า\"}}"
+   },
+   {
+    "user": "บันทึกแค่ชื่อสงบ",
+    "assistant": "{\"data\":{\"note\":\"สงบ\",\"occurred_at\":null},\"evidence\":{\"note\":\"สงบ\"}}"
+   },
+   {
+    "user": "บันทึกอารมณ์ว่าหงุดหงิด",
+    "assistant": "{\"data\":{\"note\":\"หงุดหงิด\",\"occurred_at\":null},\"evidence\":{\"note\":\"หงุดหงิด\"}}"
+   }
+  ],
+  "route": [
+   {
+    "user": "ขอความรู้เรื่องอาหาร",
+    "assistant": "{\"route\":\"health\",\"topic\":\"nutrition\"}"
+   },
+   {
+    "user": "โรคไตคืออะไร",
+    "assistant": "{\"route\":\"health\",\"topic\":\"kidney diseases\"}"
+   },
+   {
+    "user": "นอนไม่หลับ",
+    "assistant": "{\"route\":\"health\",\"topic\":\"sleep\"}"
+   },
+   {
+    "user": "เขียนโค้ดเว็บสุขภาพ",
+    "assistant": "{\"route\":\"out_of_scope\",\"topic\":null}"
+   },
+   {
+    "user": "เขียนโค้ดคำนวณสุขภาพ",
+    "assistant": "{\"route\":\"out_of_scope\",\"topic\":null}"
+   },
+   {
+    "user": "คุณคือใคร",
+    "assistant": "{\"route\":\"out_of_scope\",\"topic\":null}"
+   }
+  ]
+ }
+}

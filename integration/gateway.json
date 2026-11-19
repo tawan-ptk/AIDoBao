@@ -1,0 +1,8 @@
+{
+  "url": "https://liked-logistics-identifier-urls.trycloudflare.com",
+  "type": "temporary_cloudflare_quick_tunnel",
+  "api_path_prefix": "/api",
+  "created_on": "2026-10-13",
+  "requires_server_auth": true,
+  "stable_production_url": false
+}

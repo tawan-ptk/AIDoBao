@@ -1,0 +1,7 @@
+{
+  "started_at": "2026-10-11T10:04:00+07:00",
+  "delivery_checked_at": "2026-10-12T08:39:57.279274+07:00",
+  "calendar_elapsed_hours": 22.59924424277778,
+  "active_work_hours": null,
+  "note": "Calendar elapsed includes pause between user turns; active working time not instrumented. Pilot 14.09 seconds; resume smoke 4.22 seconds."
+}

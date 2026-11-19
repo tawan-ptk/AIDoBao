@@ -1,0 +1,1286 @@
+{
+  "seed": 42,
+  "split_method": "document/topic grouped, explicitly fixed before pilot; diabetes-related documents grouped together to prevent overlap",
+  "counts": {
+    "train": 6,
+    "valid": 1,
+    "test": 1
+  },
+  "records": [
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000266/1",
+      "document_id": "4_MPlus_Health_Topics_QA/0000266",
+      "question_id": "0000266-1",
+      "file": "abachaa-MedQuAD-577bd37/4_MPlus_Health_Topics_QA/0000266.xml",
+      "file_sha256": "c1210a8ad2907f488eb476b5091d5f35f703ad276029b53747c40bbd7c2c70d1",
+      "source_url": "https://www.nlm.nih.gov/medlineplus/diabetes.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/diabetes.html",
+      "current_corroboration_location": "Summary: definitions, symptoms and management; no prescribed targets",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "56d16249709008e6af0121847ae032b5b1393bb8d2cded9d4f44612060d6b9ee",
+      "tokens": 285,
+      "split": "train"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000273/1",
+      "document_id": "4_MPlus_Health_Topics_QA/0000273",
+      "question_id": "0000273-1",
+      "file": "abachaa-MedQuAD-577bd37/4_MPlus_Health_Topics_QA/0000273.xml",
+      "file_sha256": "dc919e05e273b6feb970ff849746eafa33989048952423e497e92a8b474b4a6d",
+      "source_url": "https://www.nlm.nih.gov/medlineplus/diabetestype2.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/diabetestype2.html",
+      "current_corroboration_location": "Summary: type 2 definition, symptoms, lifestyle and prescribed medicines",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "bbab8473253aecb8198075e3ff7a3c14829b80dc3d467dc504ea34572dfb9221",
+      "tokens": 304,
+      "split": "train"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000339/1",
+      "document_id": "4_MPlus_Health_Topics_QA/0000339",
+      "question_id": "0000339-1",
+      "file": "abachaa-MedQuAD-577bd37/4_MPlus_Health_Topics_QA/0000339.xml",
+      "file_sha256": "bbac9e756e9d9d9145c30a4f2802b603ccc0fa95cf185864ca47a8aacd7b38b3",
+      "source_url": "https://www.nlm.nih.gov/medlineplus/exerciseandphysicalfitness.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+      "current_corroboration_location": "Summary: benefits, matching ability; ten minutes is permitted, not treated as a minimum",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "84f4945f71da647d93c27cb8f534ac2704c1027e282b53662783838fcc3bc106",
+      "tokens": 171,
+      "split": "valid"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000824/1",
+      "document_id": "4_MPlus_Health_Topics_QA/0000824",
+      "question_id": "0000824-1",
+      "file": "abachaa-MedQuAD-577bd37/4_MPlus_Health_Topics_QA/0000824.xml",
+      "file_sha256": "2764538e914780f7b5bdc1a70b1bd50563a4724b4e00791c603046685bc467d6",
+      "source_url": "https://www.nlm.nih.gov/medlineplus/sleepdisorders.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/sleepdisorders.html",
+      "current_corroboration_location": "Summary: educational sleep disorder categories only; not diagnosis",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "886d9f5f10460cec0d434dcf3424e88d62dc1af459dbb4da323697dac2002e8b",
+      "tokens": 171,
+      "split": "test"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/10",
+      "document_id": "7_SeniorHealth_QA/0000015",
+      "question_id": "0000015-10",
+      "file": "abachaa-MedQuAD-577bd37/7_SeniorHealth_QA/0000015.xml",
+      "file_sha256": "c5dc258dbf6df9a6c06c5518a4817e11ae35a46187cacf1578ac156bb8376969",
+      "source_url": "http://nihseniorhealth.gov/diabetes/toc.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/diabetes.html",
+      "current_corroboration_location": "What is diabetes?: glucose and insulin definition",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "5d3a0b69bd941e43dd3e7b27eb3849a98e05fa2c9bee7a16ab4baa04e4e43c50",
+      "tokens": 186,
+      "split": "train"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/15",
+      "document_id": "7_SeniorHealth_QA/0000015",
+      "question_id": "0000015-15",
+      "file": "abachaa-MedQuAD-577bd37/7_SeniorHealth_QA/0000015.xml",
+      "file_sha256": "c5dc258dbf6df9a6c06c5518a4817e11ae35a46187cacf1578ac156bb8376969",
+      "source_url": "http://nihseniorhealth.gov/diabetes/toc.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/diabetes.html",
+      "current_corroboration_location": "What are the symptoms?: symptoms and possible absence",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "c54c256c32a7255a49f5982eae4aa51e026bac77cb4a6139bab44015f45d21cc",
+      "tokens": 91,
+      "split": "train"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/16",
+      "document_id": "7_SeniorHealth_QA/0000015",
+      "question_id": "0000015-16",
+      "file": "abachaa-MedQuAD-577bd37/7_SeniorHealth_QA/0000015.xml",
+      "file_sha256": "c5dc258dbf6df9a6c06c5518a4817e11ae35a46187cacf1578ac156bb8376969",
+      "source_url": "http://nihseniorhealth.gov/diabetes/toc.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://medlineplus.gov/diabetes.html",
+      "current_corroboration_location": "What causes diabetes?: type 1 immune process and type 2 insulin resistance",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "d4a86157e6c6eb6bb978e81f7e13c197ef785374af7fdcd58575311f227b5c16",
+      "tokens": 199,
+      "split": "train"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/17",
+      "document_id": "7_SeniorHealth_QA/0000015",
+      "question_id": "0000015-17",
+      "file": "abachaa-MedQuAD-577bd37/7_SeniorHealth_QA/0000015.xml",
+      "file_sha256": "c5dc258dbf6df9a6c06c5518a4817e11ae35a46187cacf1578ac156bb8376969",
+      "source_url": "http://nihseniorhealth.gov/diabetes/toc.html",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "license": "CC-BY-4.0",
+      "creators": [
+        "Asma Ben Abacha",
+        "Dina Demner-Fushman"
+      ],
+      "current_corroboration_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "current_corroboration_location": "Healthy living introduction and smoking: complication prevention, no treatment dose",
+      "review_kind": "source comparison by coding assistant, not clinician review",
+      "origin": "original_source_answer",
+      "answer_sha256": "72a298b106abfb3dfe3913af45641e7ee66a0a331e3a50050659870f6ce3171c",
+      "tokens": 146,
+      "split": "train"
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "2_GARD_QA/0000212/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0000849/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0000849/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0000849/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0000849/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0001823/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0001824/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0001824/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0001824/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0002146/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0002565/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003826/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003826/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003826/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003829/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003831/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003833/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003834/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003835/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0003836/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004218/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004342/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004377/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004377/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004431/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004431/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004820/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0004820/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0005310/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0006154/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "2_GARD_QA/0006154/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000629/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000629/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000629/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000629/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000629/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000719/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000719/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000719/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000719/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000719/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000726/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000726/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000726/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000726/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000726/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000783/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000783/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000783/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000783/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0000783/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001003/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001003/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001003/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001003/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001003/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001100/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001100/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001100/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001100/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "3_GHR_QA/0001100/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000267/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000268/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000269/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000270/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000271/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000272/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000340/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000341/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000736/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "4_MPlus_Health_Topics_QA/0000823/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000018/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000022/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000027/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/13",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/14",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000032/15",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/12",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000034/13",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000035/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/15",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000036/16",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000037/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000043/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000043/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000043/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000043/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/12",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/16",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000044/17",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000048/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000049/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000049/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000049/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000049/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000054/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000054/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000054/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000054/12",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000054/14",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000055/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000055/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000057/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000058/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000058/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000058/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000058/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000058/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000059/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000060/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000060/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000060/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000060/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000060/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000061/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000061/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000061/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000070/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000071/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/13",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/15",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000078/18",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000079/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000080/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000080/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000081/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000082/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000082/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000082/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/9",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/10",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/15",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "5_NIDDK_QA/0000153/16",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "6_NINDS_QA/0000254/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "6_NINDS_QA/0000254/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "6_NINDS_QA/0000254/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "6_NINDS_QA/0000254/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/8",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/11",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/13",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/14",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/18",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/19",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/24",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/29",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/30",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/32",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "7_SeniorHealth_QA/0000015/33",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/3",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/4",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000118/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000119/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000119/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "8_NHLBI_QA_XML/0000119/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "9_CDC_QA/0000381/1",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "9_CDC_QA/0000381/2",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "9_CDC_QA/0000381/5",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "9_CDC_QA/0000381/6",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    },
+    {
+      "id": "9_CDC_QA/0000381/7",
+      "reason": "not positively audited: out-of-scope topic, malformed QA alignment, outdated statistics/contacts/targets, or current corroboration not established"
+    }
+  ],
+  "cross_split_checks": [
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000266/1",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.19736842105263158,
+      "word_jaccard": 0.1746987951807229
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000273/1",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.1893084845512506,
+      "word_jaccard": 0.15730337078651685
+    },
+    {
+      "a": "7_SeniorHealth_QA/0000015/10",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.3025879230258792,
+      "word_jaccard": 0.1417910447761194
+    },
+    {
+      "a": "7_SeniorHealth_QA/0000015/15",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.23778801843317973,
+      "word_jaccard": 0.08403361344537816
+    },
+    {
+      "a": "7_SeniorHealth_QA/0000015/16",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.17579771222155327,
+      "word_jaccard": 0.14102564102564102
+    },
+    {
+      "a": "7_SeniorHealth_QA/0000015/17",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.1829971181556196,
+      "word_jaccard": 0.15037593984962405
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "4_MPlus_Health_Topics_QA/0000266/1",
+      "sequence_ratio": 0.17360041088854647,
+      "word_jaccard": 0.13450292397660818
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "4_MPlus_Health_Topics_QA/0000273/1",
+      "sequence_ratio": 0.18109452736318407,
+      "word_jaccard": 0.1452513966480447
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "7_SeniorHealth_QA/0000015/10",
+      "sequence_ratio": 0.19891745602165087,
+      "word_jaccard": 0.11764705882352941
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "7_SeniorHealth_QA/0000015/15",
+      "sequence_ratio": 0.19128787878787878,
+      "word_jaccard": 0.0847457627118644
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "7_SeniorHealth_QA/0000015/16",
+      "sequence_ratio": 0.20955882352941177,
+      "word_jaccard": 0.09259259259259259
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "7_SeniorHealth_QA/0000015/17",
+      "sequence_ratio": 0.26490066225165565,
+      "word_jaccard": 0.1259259259259259
+    },
+    {
+      "a": "4_MPlus_Health_Topics_QA/0000824/1",
+      "b": "4_MPlus_Health_Topics_QA/0000339/1",
+      "sequence_ratio": 0.1726315789473684,
+      "word_jaccard": 0.1357142857142857
+    }
+  ],
+  "context": 1024,
+  "truncated_answers": 0,
+  "limitations": [
+    "Engineering pilot only: six training pairs, one validation topic and one held-out test topic cannot establish general health accuracy.",
+    "No Thai human-reference evaluation set.",
+    "No plan/extraction/replanning paired labels.",
+    "Pretraining overlap unknown.",
+    "Source audit is not clinical approval."
+  ]
+}

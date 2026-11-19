@@ -1,0 +1,226 @@
+{
+  "label": "SOFTWARE LIVE SMOKE ONLY; not fine-tuning or clinical evaluation",
+  "checks": [
+    {
+      "request": "แนะนำหน่อยว่าฉันจะถามคุณว่าอะไรได้บ้าง",
+      "status": "usage_help",
+      "answer": "ถามหรือสั่งได้แบบนี้ครับ\n• “ตอนเย็นกินอะไรดี”\n• “วันนี้กินอะไรไปบ้าง”\n• “บันทึกตอนเช้ากินโจ๊ก ตอนเย็นเดิน”\n• “จัดตารางพรุ่งนี้เดิน 30 นาทีตอนเย็น”\n• “แก้ข้าวขาหมูเป็นโจ๊ก” หรือ “ลบบันทึกล่าสุด”\n\nพิมพ์ได้เลยครับ ถ้าจะเก็บ แก้ หรือลบข้อมูล ฉันจะให้ตรวจยืนยันก่อน",
+      "intent_engine": null,
+      "actions": []
+    },
+    {
+      "request": "ดอกไม้คืออะไร",
+      "status": "out_of_scope",
+      "answer": "คำถามนี้อยู่นอกเรื่องสุขภาพครับ ฉันช่วยเรื่องสุขภาพ เบาหวาน และบันทึกของคุณได้ ลองถามในเรื่องเหล่านี้นะครับ",
+      "intent_engine": null,
+      "actions": []
+    },
+    {
+      "request": "คุยกับคุณเรื่องไหนได้บ้าง",
+      "status": "usage_help",
+      "answer": "ถามหรือสั่งได้แบบนี้ครับ\n• “ตอนเย็นกินอะไรดี”\n• “วันนี้กินอะไรไปบ้าง”\n• “บันทึกตอนเช้ากินโจ๊ก ตอนเย็นเดิน”\n• “จัดตารางพรุ่งนี้เดิน 30 นาทีตอนเย็น”\n• “แก้ข้าวขาหมูเป็นโจ๊ก” หรือ “ลบบันทึกล่าสุด”\n\nพิมพ์ได้เลยครับ ถ้าจะเก็บ แก้ หรือลบข้อมูล ฉันจะให้ตรวจยืนยันก่อน",
+      "intent_engine": "fine_tuned_local_model",
+      "actions": []
+    },
+    {
+      "request": "พาไปหน้าโปรไฟล์",
+      "status": "agent_proposal",
+      "answer": "เปิดหน้าที่ต้องการได้จากปุ่มนี้ครับ",
+      "intent_engine": "fine_tuned_local_model",
+      "actions": [
+        "navigate"
+      ]
+    },
+    {
+      "request": "ลบข้อมูลทั้งหมด",
+      "status": "management_proposal",
+      "answer": "จะลบข้อมูลที่เก็บในเว็บทั้งหมดของคุณ รวมโปรไฟล์ บันทึก และแผนครับ ตรวจจำนวนก่อนกดยืนยันได้เลย",
+      "intent_engine": null,
+      "actions": [
+        "delete_records"
+      ]
+    },
+    {
+      "request": "เดิน 16.00",
+      "record": {
+        "kind": "activity",
+        "text": "เดิน 16.00",
+        "data": {
+          "name": "เดิน",
+          "start": null,
+          "end": null,
+          "method": null
+        },
+        "origin": "model_proposal",
+        "source": "ข้อความผู้ใช้; โมเดลเสนอการแยกข้อมูล",
+        "evidence": {
+          "name": "เดิน"
+        },
+        "previous_id": null,
+        "journal": null
+      },
+      "model_status": "proposal",
+      "metrics": {
+        "load_seconds": 1.019456917012576,
+        "generation_seconds": 1.894397291005589,
+        "peak_memory_gb": 2.622717948,
+        "model_task": "extract",
+        "adapter": null,
+        "extraction_status": "proposal"
+      }
+    },
+    {
+      "request": "explicit ISO time regression, synthetic software check only",
+      "passed": false,
+      "expected": {
+        "name": "เดิน",
+        "start": "2026-05-23T08:00:00+07:00",
+        "end": "2026-05-23T08:30:00+07:00"
+      },
+      "record": {
+        "kind": "activity",
+        "text": "เดิน เริ่ม 2026-05-23T08:00:00+07:00 จบ 2026-05-23T08:30:00+07:00",
+        "data": {
+          "name": null,
+          "start": null,
+          "end": null,
+          "method": null
+        },
+        "origin": "model_proposal",
+        "source": "ข้อความผู้ใช้; โมเดลเสนอการแยกข้อมูล",
+        "evidence": {},
+        "previous_id": null,
+        "journal": null
+      },
+      "metrics": {
+        "load_seconds": 0.8902574579988141,
+        "generation_seconds": 2.770296792004956,
+        "peak_memory_gb": 2.690728084,
+        "model_task": "extract",
+        "adapter": null,
+        "extraction_status": "no_supported_fields"
+      }
+    },
+    {
+      "request": "multi-category journal regression",
+      "items": [
+        {
+          "kind": "meal",
+          "text": "ข้าวขาหมู",
+          "data": {
+            "name": "ข้าวขาหมู",
+            "food_state": "unknown"
+          },
+          "origin": "self_report",
+          "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+          "evidence": {},
+          "previous_id": null,
+          "journal": {
+            "date": "2026-10-12",
+            "timezone": "Asia/Bangkok",
+            "period": "morning",
+            "clock": null,
+            "date_source": "capture_date",
+            "captured_at": "2026-10-12T22:02:00.110979+07:00",
+            "context_text": ""
+          }
+        },
+        {
+          "kind": "meal",
+          "text": "ต้มยำกุ้ง",
+          "data": {
+            "name": "ต้มยำกุ้ง",
+            "food_state": "unknown"
+          },
+          "origin": "self_report",
+          "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+          "evidence": {},
+          "previous_id": null,
+          "journal": {
+            "date": "2026-10-12",
+            "timezone": "Asia/Bangkok",
+            "period": "noon",
+            "clock": null,
+            "date_source": "capture_date",
+            "captured_at": "2026-10-12T22:02:00.110979+07:00",
+            "context_text": ""
+          }
+        }
+      ]
+    },
+    {
+      "request": "real journal model fallback, synthetic software check only",
+      "passed": false,
+      "engine": "rules+model",
+      "items": [
+        {
+          "record": {
+            "kind": "meal",
+            "text": "รำไทเก๊ก",
+            "data": {
+              "name": "รำไทเก๊ก",
+              "food_state": "unknown"
+            },
+            "origin": "self_report",
+            "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+            "evidence": {},
+            "previous_id": null,
+            "journal": {
+              "date": "2026-10-12",
+              "timezone": "Asia/Bangkok",
+              "period": "unspecified",
+              "clock": null,
+              "date_source": "capture_date",
+              "captured_at": "2026-10-12T22:02:00.112336+07:00",
+              "context_text": ""
+            }
+          },
+          "check": {
+            "status": "unknown",
+            "can_record": true,
+            "missing": [
+              "quantity",
+              "unit",
+              "occurred_at"
+            ],
+            "errors": [],
+            "calculated": {},
+            "clinical_status": "not_reviewed"
+          },
+          "warnings": [],
+          "source_index": 0
+        }
+      ],
+      "unparsed": [],
+      "metrics": {
+        "load_seconds": 1.0041191249911208,
+        "generation_seconds": 0.990466125018429,
+        "peak_memory_gb": 2.66114644,
+        "model_task": "journal",
+        "adapter": "finetune-v2-selected"
+      }
+    },
+    {
+      "request": "real menu catalog integration, not clinical evaluation",
+      "status": "meal_ideas",
+      "engine": "local_ai_validated_selection",
+      "menu_ids": [
+        "chicken_veg_rice",
+        "fish_veg_rice",
+        "tofu_veg_rice"
+      ]
+    }
+  ],
+  "model_runtime": {
+    "enabled_tasks": [
+      "intent",
+      "journal",
+      "menu"
+    ],
+    "health_chat": "base_with_retrieved_evidence",
+    "adapter_active": true,
+    "clinical_validation": false
+  },
+  "records_changed": false,
+  "finished_at": "2026-10-12T15:02:08.230258+00:00"
+}

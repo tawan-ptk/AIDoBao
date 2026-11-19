@@ -1,0 +1,55 @@
+{
+  "status": "evaluated",
+  "adapter": "adapters/finetune-v2-selected",
+  "sha256": "c55686b8c44ae09de4e57a69b218a49f7eda6cc37e3b70079b87e3e0e7b4cabb",
+  "enabled_tasks": [
+    "intent",
+    "menu",
+    "journal"
+  ],
+  "gates": {
+    "extract": {
+      "passed": false,
+      "generated_count": 31,
+      "adapter_exact": 24,
+      "base_exact": 0,
+      "all_json_valid": true,
+      "complete_generations": 31
+    },
+    "intent": {
+      "passed": true,
+      "generated_count": 36,
+      "adapter_exact": 36,
+      "base_exact": 36,
+      "all_json_valid": true,
+      "complete_generations": 36
+    },
+    "route": {
+      "passed": false,
+      "generated_count": 6,
+      "adapter_exact": 5,
+      "base_exact": 5,
+      "all_json_valid": true,
+      "complete_generations": 6
+    },
+    "menu": {
+      "passed": true,
+      "generated_count": 4,
+      "adapter_exact": 4,
+      "base_exact": 4,
+      "all_json_valid": true,
+      "complete_generations": 4
+    },
+    "journal": {
+      "passed": true,
+      "generated_count": 2,
+      "adapter_exact": 2,
+      "base_exact": 2,
+      "all_json_valid": true,
+      "complete_generations": 2
+    }
+  },
+  "health_chat_enabled": false,
+  "scope": "Engineering rollout based on synthetic command tests; not real-user or clinical validation",
+  "created_at": "2026-10-12T14:26:08.447013+00:00"
+}

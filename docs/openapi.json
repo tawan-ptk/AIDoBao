@@ -1,0 +1,1477 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Baobuddy AI API",
+    "description": "Health assistant and reviewable actions. Server integration: Bearer API key + X-Ruamwan-User from authenticated backend. Local demo: cookie + CSRF. Writes always require preview and explicit user confirmation.",
+    "version": "0.10.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "Index",
+        "operationId": "index__get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/session": {
+      "get": {
+        "summary": "New Session",
+        "operationId": "new_session_api_session_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/records/preview": {
+      "post": {
+        "summary": "Preview",
+        "operationId": "preview_api_records_preview_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Record"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/journal/prepare": {
+      "post": {
+        "summary": "Journal Prepare",
+        "operationId": "journal_prepare_api_journal_prepare_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/JournalRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/records/batch-preview": {
+      "post": {
+        "summary": "Batch Preview",
+        "operationId": "batch_preview_api_records_batch_preview_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BatchRecords"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/records/delete-preview": {
+      "post": {
+        "summary": "Delete Preview",
+        "operationId": "delete_preview_api_records_delete_preview_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeleteRecordsRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/confirm": {
+      "post": {
+        "summary": "Confirm",
+        "operationId": "confirm_api_confirm_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Confirmation"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/records": {
+      "get": {
+        "summary": "Records",
+        "operationId": "records_api_records_get",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 100,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 0,
+              "title": "Offset"
+            }
+          },
+          {
+            "name": "history",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "boolean",
+              "default": false,
+              "title": "History"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/food-energy": {
+      "post": {
+        "summary": "Food Energy",
+        "operationId": "food_energy_api_food_energy_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FoodEnergyRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/plans/preview": {
+      "post": {
+        "summary": "Plan Preview",
+        "operationId": "plan_preview_api_plans_preview_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/plans": {
+      "get": {
+        "summary": "Plans",
+        "operationId": "plans_api_plans_get",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 20,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 0,
+              "title": "Offset"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/plans/{ident}/recheck": {
+      "get": {
+        "summary": "Recheck",
+        "operationId": "recheck_api_plans__ident__recheck_get",
+        "parameters": [
+          {
+            "name": "ident",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Ident"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/knowledge": {
+      "post": {
+        "summary": "Knowledge",
+        "operationId": "knowledge_api_knowledge_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Question"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/chat": {
+      "post": {
+        "summary": "Chat",
+        "operationId": "chat_api_chat_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChatRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/extract": {
+      "post": {
+        "summary": "Extract",
+        "operationId": "extract_api_extract_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Extract"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    },
+    "/api/summary": {
+      "get": {
+        "summary": "Summary",
+        "operationId": "summary_api_summary_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/personal-context": {
+      "get": {
+        "summary": "Context",
+        "operationId": "context_api_personal_context_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/food-catalog": {
+      "get": {
+        "summary": "Food Catalog",
+        "operationId": "food_catalog_api_food_catalog_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/readiness": {
+      "get": {
+        "summary": "Readiness",
+        "operationId": "readiness_api_readiness_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/export": {
+      "get": {
+        "summary": "Export",
+        "operationId": "export_api_export_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": []
+          }
+        ]
+      }
+    },
+    "/api/delete": {
+      "post": {
+        "summary": "Delete",
+        "operationId": "delete_api_delete_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Delete"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "ServerKey": [],
+            "AuthenticatedUser": []
+          },
+          {
+            "LocalSession": [],
+            "LocalCSRF": []
+          }
+        ]
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BatchRecords": {
+        "properties": {
+          "records": {
+            "items": {
+              "$ref": "#/components/schemas/Record"
+            },
+            "type": "array",
+            "maxItems": 30,
+            "minItems": 1,
+            "title": "Records"
+          },
+          "compact": {
+            "type": "boolean",
+            "title": "Compact",
+            "default": false
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "records"
+        ],
+        "title": "BatchRecords"
+      },
+      "ChatMessage": {
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "user",
+              "assistant"
+            ],
+            "title": "Role"
+          },
+          "content": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Content"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "role",
+          "content"
+        ],
+        "title": "ChatMessage"
+      },
+      "ChatRequest": {
+        "properties": {
+          "messages": {
+            "items": {
+              "$ref": "#/components/schemas/ChatMessage"
+            },
+            "type": "array",
+            "maxItems": 20,
+            "minItems": 1,
+            "title": "Messages"
+          },
+          "scope": {
+            "type": "string",
+            "enum": [
+              "auto",
+              "my_data",
+              "knowledge"
+            ],
+            "title": "Scope",
+            "default": "auto"
+          },
+          "captured_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Captured At"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "messages"
+        ],
+        "title": "ChatRequest"
+      },
+      "Confirmation": {
+        "properties": {
+          "draft_id": {
+            "type": "string",
+            "title": "Draft Id"
+          },
+          "idempotency_key": {
+            "type": "string",
+            "title": "Idempotency Key"
+          },
+          "confirmed": {
+            "type": "boolean",
+            "title": "Confirmed"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "draft_id",
+          "idempotency_key",
+          "confirmed"
+        ],
+        "title": "Confirmation"
+      },
+      "Delete": {
+        "properties": {
+          "confirmation": {
+            "type": "string",
+            "title": "Confirmation"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "confirmation"
+        ],
+        "title": "Delete"
+      },
+      "DeleteRecordsRequest": {
+        "properties": {
+          "scope": {
+            "type": "string",
+            "enum": [
+              "records",
+              "all"
+            ],
+            "title": "Scope",
+            "default": "records"
+          },
+          "record_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "maxItems": 30,
+            "title": "Record Ids"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "DeleteRecordsRequest"
+      },
+      "Extract": {
+        "properties": {
+          "kind": {
+            "type": "string",
+            "title": "Kind"
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Text"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "kind",
+          "text"
+        ],
+        "title": "Extract"
+      },
+      "FoodEnergyRequest": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "maxLength": 120,
+            "minLength": 1,
+            "title": "Name"
+          },
+          "quantity": {
+            "anyOf": [
+              {
+                "type": "number",
+                "maximum": 100000.0,
+                "exclusiveMinimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Quantity"
+          },
+          "unit": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 40
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Unit"
+          },
+          "food_state": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "raw",
+                  "cooked",
+                  "packaged",
+                  "unknown"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Food State"
+          },
+          "components": {
+            "anyOf": [
+              {
+                "items": {
+                  "$ref": "#/components/schemas/MealComponent"
+                },
+                "type": "array",
+                "maxItems": 30,
+                "minItems": 2
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Components"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "title": "FoodEnergyRequest"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "JournalRequest": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Text"
+          },
+          "captured_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Captured At"
+          },
+          "use_model": {
+            "type": "boolean",
+            "title": "Use Model",
+            "default": true
+          },
+          "compact": {
+            "type": "boolean",
+            "title": "Compact",
+            "default": true
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "text"
+        ],
+        "title": "JournalRequest"
+      },
+      "JournalTime": {
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date",
+            "title": "Date"
+          },
+          "timezone": {
+            "type": "string",
+            "const": "Asia/Bangkok",
+            "title": "Timezone",
+            "default": "Asia/Bangkok"
+          },
+          "period": {
+            "type": "string",
+            "enum": [
+              "unspecified",
+              "morning",
+              "noon",
+              "afternoon",
+              "evening",
+              "night"
+            ],
+            "title": "Period",
+            "default": "unspecified"
+          },
+          "clock": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Clock"
+          },
+          "clock_source": {
+            "type": "string",
+            "enum": [
+              "unspecified",
+              "explicit",
+              "capture_time",
+              "user_edited"
+            ],
+            "title": "Clock Source",
+            "default": "unspecified"
+          },
+          "date_source": {
+            "type": "string",
+            "enum": [
+              "capture_date",
+              "explicit",
+              "user_edited"
+            ],
+            "title": "Date Source",
+            "default": "capture_date"
+          },
+          "captured_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Captured At"
+          },
+          "context_text": {
+            "type": "string",
+            "maxLength": 4000,
+            "title": "Context Text",
+            "default": ""
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "date",
+          "captured_at"
+        ],
+        "title": "JournalTime"
+      },
+      "MealComponent": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "maxLength": 120,
+            "minLength": 1,
+            "title": "Name"
+          },
+          "quantity": {
+            "anyOf": [
+              {
+                "type": "number",
+                "maximum": 100000.0,
+                "exclusiveMinimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Quantity"
+          },
+          "unit": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 40
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Unit"
+          },
+          "food_state": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "raw",
+                  "cooked",
+                  "packaged",
+                  "unknown"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Food State"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "title": "MealComponent"
+      },
+      "PlanRequest": {
+        "properties": {
+          "start_date": {
+            "type": "string",
+            "format": "date",
+            "title": "Start Date"
+          },
+          "previous_plan_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Previous Plan Id"
+          },
+          "reason": {
+            "type": "string",
+            "maxLength": 1000,
+            "title": "Reason",
+            "default": ""
+          },
+          "general_time_only": {
+            "type": "boolean",
+            "title": "General Time Only",
+            "default": false
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "start_date"
+        ],
+        "title": "PlanRequest"
+      },
+      "Question": {
+        "properties": {
+          "query": {
+            "type": "string",
+            "maxLength": 1500,
+            "minLength": 1,
+            "title": "Query"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "query"
+        ],
+        "title": "Question"
+      },
+      "Record": {
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "profile",
+              "consent",
+              "constraint",
+              "routine",
+              "feedback",
+              "meal",
+              "activity",
+              "sleep",
+              "medication",
+              "appointment",
+              "measurement",
+              "wellbeing"
+            ],
+            "title": "Kind"
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 8000,
+            "title": "Text",
+            "default": ""
+          },
+          "data": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Data"
+          },
+          "origin": {
+            "type": "string",
+            "enum": [
+              "self_report",
+              "measured",
+              "device_estimate",
+              "calculated",
+              "clinician_document",
+              "model_proposal"
+            ],
+            "title": "Origin",
+            "default": "self_report"
+          },
+          "source": {
+            "type": "string",
+            "maxLength": 1000,
+            "minLength": 1,
+            "title": "Source"
+          },
+          "evidence": {
+            "additionalProperties": {
+              "type": "string"
+            },
+            "type": "object",
+            "title": "Evidence"
+          },
+          "previous_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Previous Id"
+          },
+          "journal": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/JournalTime"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "kind",
+          "data",
+          "source"
+        ],
+        "title": "Record"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    },
+    "securitySchemes": {
+      "ServerKey": {
+        "type": "http",
+        "scheme": "bearer",
+        "description": "RUAMWAN_API_KEY, server-to-server only"
+      },
+      "AuthenticatedUser": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-Ruamwan-User",
+        "description": "Stable opaque user ID supplied by trusted authenticated backend, never a browser-selected account"
+      },
+      "LocalSession": {
+        "type": "apiKey",
+        "in": "cookie",
+        "name": "routine_session"
+      },
+      "LocalCSRF": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-CSRF-Token"
+      }
+    }
+  }
+}

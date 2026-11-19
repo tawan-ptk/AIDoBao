@@ -1,0 +1,2225 @@
+{
+  "label": "Editorial nutrition reference audit; not clinical validation",
+  "accessed_at": "2026-10-12",
+  "catalog_count": 98,
+  "scalable_count": 97,
+  "source_pdf": {
+    "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+    "sha256": "18a4f889252ad32c8bcb34f842112afd2f563134dd663d88510caabc23c60727",
+    "pages": 60,
+    "copied_full_pdf_to_runtime": false,
+    "method": "Downloaded official PDF; read per-person nutrition rows, retained selected numeric facts and page references only"
+  },
+  "new_recipe_facts": [
+    {
+      "name": "ไข่ยัดไส้",
+      "kcal": 181.6,
+      "pdf_page": 21,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ไข่ลูกเขย",
+      "kcal": 276.8,
+      "pdf_page": 22,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ไข่ตุ๋นทรงเครื่อง",
+      "kcal": 81.6,
+      "pdf_page": 23,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ไข่ระเบิด",
+      "kcal": 100.8,
+      "pdf_page": 24,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ไข่เจียวแหนม",
+      "kcal": 323.9,
+      "pdf_page": 25,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ยำไข่ดาว",
+      "kcal": 100.5,
+      "pdf_page": 28,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "มะละกอผัดไข่",
+      "kcal": 152.1,
+      "pdf_page": 30,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "มะระผัดไข่",
+      "kcal": 111.3,
+      "pdf_page": 31,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "แตงกวาผัดไข่",
+      "kcal": 111.3,
+      "pdf_page": 33,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "บวบผัดไข่",
+      "kcal": 112.3,
+      "pdf_page": 34,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "เห็ดหูหนูผัดไข่",
+      "kcal": 127.3,
+      "pdf_page": 35,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "หน่อไม้ผัดไข่",
+      "kcal": 118.7,
+      "pdf_page": 36,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ผักกาดดองผัดไข่",
+      "kcal": 140.2,
+      "pdf_page": 37,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ผัดวุ้นเส้นใส่ไข่",
+      "kcal": 212.8,
+      "pdf_page": 38,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "มะระยัดไส้ไข่",
+      "kcal": 238.5,
+      "pdf_page": 39,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "แกงจืดไข่น้ำ",
+      "kcal": 223.4,
+      "pdf_page": 41,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ไข่พะโล้",
+      "kcal": 352.9,
+      "pdf_page": 42,
+      "unit": "ส่วน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ผัดไทยห่อไข่",
+      "kcal": 603.3,
+      "pdf_page": 45,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ข้าวไข่ดาวทรงเครื่อง",
+      "kcal": 683.38,
+      "pdf_page": 46,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ข้าวคลุกกะปิ",
+      "kcal": 463,
+      "pdf_page": 47,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ขนมจีนน้ำยาปักษ์ใต้",
+      "kcal": 346.8,
+      "pdf_page": 49,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ขนมจีนน้ำยา",
+      "kcal": 370,
+      "pdf_page": 50,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "ข้าวหมูแดงไข่ต้ม",
+      "kcal": 351.1,
+      "pdf_page": 51,
+      "unit": "จาน",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "กวยจั๊บญวน",
+      "kcal": 272.9,
+      "pdf_page": 52,
+      "unit": "ชาม",
+      "basis": "school meal recipe per person"
+    },
+    {
+      "name": "สุกี้น้ำทะเล",
+      "kcal": 235.4,
+      "pdf_page": 53,
+      "unit": "ชาม",
+      "basis": "school meal recipe per person"
+    }
+  ],
+  "catalog_checks": [
+    {
+      "name": "ข้าวมันไก่",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวสวยกับไก่ต้ม",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มพะโล้",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ยำไข่ต้มใส่ถั่วแดง",
+      "status": "unknown_serving",
+      "url": "https://multimedia.anamai.moph.go.th/news/news141065/",
+      "serving": null
+    },
+    {
+      "name": "ฟักทองผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ชานมไข่มุก",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/infographics/bubble-milk-tea/",
+      "serving": {
+        "quantity": 1,
+        "unit": "แก้ว",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวขาหมู",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวไข่เจียว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวมันไก่ทอด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวผัด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดซีอิ๊ว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ก๋วยเตี๋ยวคั่วไก่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดมักกะโรนี",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดไทย",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวหมกไก่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวกะเพราไก่ไข่ดาว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สปาเกตตี้คาโบนาร่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวสวย",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ทัพพีเล็ก",
+        "unit_factors": {
+          "ทัพพี": 1,
+          "ถ้วย": 3
+        }
+      }
+    },
+    {
+      "name": "ไข่ต้ม",
+      "status": "estimated",
+      "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+      "serving": {
+        "quantity": 1,
+        "unit": "ฟอง",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมจืดไขมันเต็ม",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {
+          "กล่อง": 240
+        }
+      }
+    },
+    {
+      "name": "นมขาดมันเนย",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมจืดพร่องมันเนย",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมถั่วเหลืองไม่เติมน้ำตาล",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้ง",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้งน้ำใส",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้งน้ำข้นใส่กะทิ",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ฝรั่ง",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "ชมพู่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 2,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "เงาะ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 4,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "มะละกอ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 6,
+        "unit": "ชิ้นคำ",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สับปะรด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 6,
+        "unit": "ชิ้นคำ",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ยัดไส้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ลูกเขย",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ตุ๋นทรงเครื่อง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ระเบิด",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่เจียวแหนม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ยำไข่ดาว",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะละกอผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะระผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "แตงกวาผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "บวบผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "เห็ดหูหนูผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "หน่อไม้ผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผักกาดดองผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดวุ้นเส้นใส่ไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะระยัดไส้ไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "แกงจืดไข่น้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่พะโล้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดไทยห่อไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวไข่ดาวทรงเครื่อง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวคลุกกะปิ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ขนมจีนน้ำยาปักษ์ใต้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ขนมจีนน้ำยา",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวหมูแดงไข่ต้ม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "กวยจั๊บญวน",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ชาม",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สุกี้น้ำทะเล",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ชาม",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะม่วงสุก",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 0.5,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "มะม่วงดิบ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "องุ่น",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 15,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "แคนตาลูป",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 0.3333333333333333,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "ข้าวต้มเปล่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 2,
+        "unit": "ทัพพีเล็ก",
+        "unit_factors": {
+          "ทัพพี": 1
+        }
+      }
+    },
+    {
+      "name": "ขนมจีนเปล่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1.5,
+        "unit": "จับ",
+        "unit_factors": {}
+      }
+    }
+  ],
+  "thai_dish_study": {
+    "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+    "title": "ปริมาณสารอาหารในอาหารจานเดียวที่จำหน่ายในกระทรวงสาธารณสุข",
+    "study_year": 2008,
+    "sha256": "161f0d85a2c7bdaa94f85a388edd39d987868638c796a28c0b9ec312e6ffbe32",
+    "pages": 19,
+    "method": "Read selected rows and per-plate columns from official PDF. Rechecked weight/energy pairs on cited pages. Facts describe sampled recipes, not universal Thai serving sizes. Full PDF is not redistributed.",
+    "facts": [
+      {
+        "name": "ข้าวราดแกงเขียวหวานไก่",
+        "sample_weight_g": 278,
+        "kcal_per_sample_plate": 313,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดแกงพะแนงหมู",
+        "sample_weight_g": 288,
+        "kcal_per_sample_plate": 393,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดแกงมัสมั่นไก่",
+        "sample_weight_g": 353,
+        "kcal_per_sample_plate": 487,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดแกงส้มผักรวม",
+        "sample_weight_g": 371,
+        "kcal_per_sample_plate": 315,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดไข่เจียวหมูสับ",
+        "sample_weight_g": 342,
+        "kcal_per_sample_plate": 808,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดต้มจืดเต้าหู้หมูสับ",
+        "sample_weight_g": 473,
+        "kcal_per_sample_plate": 263,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดต้มหมูพะโล้กับไข่",
+        "sample_weight_g": 338,
+        "kcal_per_sample_plate": 535,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดผัดกระเพราไก่",
+        "sample_weight_g": 270,
+        "kcal_per_sample_plate": 469,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดผัดคะน้าหมูกรอบ",
+        "sample_weight_g": 331,
+        "kcal_per_sample_plate": 546,
+        "pdf_page": 6,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดผัดผักรวม",
+        "sample_weight_g": 282,
+        "kcal_per_sample_plate": 332,
+        "pdf_page": 7,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดหมูทอดกระเทียม",
+        "sample_weight_g": 228,
+        "kcal_per_sample_plate": 441,
+        "pdf_page": 7,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวราดยำไข่ดาว",
+        "sample_weight_g": 366,
+        "kcal_per_sample_plate": 638,
+        "pdf_page": 7,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "เกาเหลาเนื้อตุ๋น",
+        "sample_weight_g": 310,
+        "kcal_per_sample_plate": 149,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "เกาเหลาหมู",
+        "sample_weight_g": 506,
+        "kcal_per_sample_plate": 163,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "แกงเลียง",
+        "sample_weight_g": 392,
+        "kcal_per_sample_plate": 119,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ลาบปลาดุก",
+        "sample_weight_g": 109,
+        "kcal_per_sample_plate": 167,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ต้มเลือดหมู",
+        "sample_weight_g": 600,
+        "kcal_per_sample_plate": 216,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ซุปเนื้อวัว",
+        "sample_weight_g": 443,
+        "kcal_per_sample_plate": 214,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ปลาทู 3 รส",
+        "sample_weight_g": 136,
+        "kcal_per_sample_plate": 203,
+        "pdf_page": 7,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "เกี๊ยวน้ำ",
+        "sample_weight_g": 523,
+        "kcal_per_sample_plate": 141,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "บะหมี่เกี๊ยวหมูแดง",
+        "sample_weight_g": 485,
+        "kcal_per_sample_plate": 332,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "บะหมี่แห้งหมู",
+        "sample_weight_g": 244,
+        "kcal_per_sample_plate": 463,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ก๋วยจั๊บน้ำข้น",
+        "sample_weight_g": 553,
+        "kcal_per_sample_plate": 368,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ขนมจีนน้ำเงี้ยว",
+        "sample_weight_g": 480,
+        "kcal_per_sample_plate": 308,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ขนมจีนแกงเขียวหวาน",
+        "sample_weight_g": 370,
+        "kcal_per_sample_plate": 416,
+        "pdf_page": 8,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวผัดหมู",
+        "sample_weight_g": 315,
+        "kcal_per_sample_plate": 581,
+        "pdf_page": 9,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวหมูแดงราดน้ำ",
+        "sample_weight_g": 352,
+        "kcal_per_sample_plate": 521,
+        "pdf_page": 9,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ข้าวหมูอบ",
+        "sample_weight_g": 248,
+        "kcal_per_sample_plate": 432,
+        "pdf_page": 9,
+        "includes_rice": true,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "ผัดไทยกุ้งสด",
+        "sample_weight_g": 281,
+        "kcal_per_sample_plate": 486,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "สุกี้ไก่น้ำ",
+        "sample_weight_g": 540,
+        "kcal_per_sample_plate": 253,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "สุกี้รวมมิตรน้ำ",
+        "sample_weight_g": 530,
+        "kcal_per_sample_plate": 207,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "สุกี้รวมมิตรแห้ง",
+        "sample_weight_g": 384,
+        "kcal_per_sample_plate": 399,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "เส้นใหญ่ราดหน้าหมู",
+        "sample_weight_g": 450,
+        "kcal_per_sample_plate": 506,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      },
+      {
+        "name": "หอยทอด",
+        "sample_weight_g": 261,
+        "kcal_per_sample_plate": 812,
+        "pdf_page": 9,
+        "includes_rice": false,
+        "numeric_pair_found_on_page": true
+      }
+    ]
+  },
+  "generic_milk": {
+    "definition": "unspecified plain cow milk only",
+    "range_kcal_per_240ml": [
+      90,
+      150
+    ],
+    "based_on_existing_sources_for": [
+      "skim_milk",
+      "lowfat_milk",
+      "whole_milk"
+    ],
+    "is_statistical_confidence_interval": false,
+    "no_flavoured_condensed_or_plant_milk_substitution": true
+  },
+  "serving_checks": [
+    {
+      "name": "ข้าวมันไก่",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวสวยกับไก่ต้ม",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มพะโล้",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/news/120865-2/",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ยำไข่ต้มใส่ถั่วแดง",
+      "status": "unknown_serving",
+      "url": "https://multimedia.anamai.moph.go.th/news/news141065/",
+      "serving": null
+    },
+    {
+      "name": "ฟักทองผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ชานมไข่มุก",
+      "status": "estimated",
+      "url": "https://multimedia.anamai.moph.go.th/infographics/bubble-milk-tea/",
+      "serving": {
+        "quantity": 1,
+        "unit": "แก้ว",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวขาหมู",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวไข่เจียว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวมันไก่ทอด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวผัด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดซีอิ๊ว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ก๋วยเตี๋ยวคั่วไก่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดมักกะโรนี",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดไทย",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวหมกไก่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวกะเพราไก่ไข่ดาว",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สปาเกตตี้คาโบนาร่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/th/division/hph/admin/news_files/689_49_1.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวสวย",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ทัพพีเล็ก",
+        "unit_factors": {
+          "ทัพพี": 1,
+          "ถ้วย": 3
+        }
+      }
+    },
+    {
+      "name": "ไข่ต้ม",
+      "status": "estimated",
+      "url": "https://anamai.moph.go.th/th/news-anamai/37872",
+      "serving": {
+        "quantity": 1,
+        "unit": "ฟอง",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมจืดไขมันเต็ม",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {
+          "กล่อง": 240
+        }
+      }
+    },
+    {
+      "name": "นมขาดมันเนย",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมจืดพร่องมันเนย",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "นมถั่วเหลืองไม่เติมน้ำตาล",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้ง",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้งน้ำใส",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ต้มยำกุ้งน้ำข้นใส่กะทิ",
+      "status": "estimated",
+      "url": "https://region8.prd.go.th/th/content/category/detail/id/495/iid/346138",
+      "serving": {
+        "quantity": 1,
+        "unit": "ถ้วย",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ฝรั่ง",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "ชมพู่",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 2,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "เงาะ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 4,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "มะละกอ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 6,
+        "unit": "ชิ้นคำ",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สับปะรด",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 6,
+        "unit": "ชิ้นคำ",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ยัดไส้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ลูกเขย",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ตุ๋นทรงเครื่อง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่ระเบิด",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่เจียวแหนม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ยำไข่ดาว",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะละกอผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะระผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "แตงกวาผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "บวบผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "เห็ดหูหนูผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "หน่อไม้ผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผักกาดดองผัดไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดวุ้นเส้นใส่ไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะระยัดไส้ไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "แกงจืดไข่น้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ไข่พะโล้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ผัดไทยห่อไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวไข่ดาวทรงเครื่อง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวคลุกกะปิ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ขนมจีนน้ำยาปักษ์ใต้",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ขนมจีนน้ำยา",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวหมูแดงไข่ต้ม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "กวยจั๊บญวน",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ชาม",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "สุกี้น้ำทะเล",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/web-upload/6x22caac0452648c8dd1f534819ba2f16c/202012/m_news/9419/194519/file_download/a7030e407e74664054ab01f09ced363c.pdf",
+      "serving": {
+        "quantity": 1,
+        "unit": "ชาม",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "มะม่วงสุก",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 0.5,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "มะม่วงดิบ",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "องุ่น",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 15,
+        "unit": "ผลเล็ก",
+        "unit_factors": {
+          "ผล": 1,
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "แคนตาลูป",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 0.3333333333333333,
+        "unit": "ผล",
+        "unit_factors": {
+          "ลูก": 1
+        }
+      }
+    },
+    {
+      "name": "ข้าวต้มเปล่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 2,
+        "unit": "ทัพพีเล็ก",
+        "unit_factors": {
+          "ทัพพี": 1
+        }
+      }
+    },
+    {
+      "name": "ขนมจีนเปล่า",
+      "status": "estimated",
+      "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+      "serving": {
+        "quantity": 1.5,
+        "unit": "จับ",
+        "unit_factors": {}
+      }
+    },
+    {
+      "name": "ข้าวราดแกงเขียวหวานไก่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0035971223021582736
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดแกงพะแนงหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.003472222222222222
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดแกงมัสมั่นไก่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0028328611898017
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดแกงส้มผักรวม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0026954177897574125
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดไข่เจียวหมูสับ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0029239766081871343
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดต้มจืดเต้าหู้หมูสับ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0021141649048625794
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดต้มหมูพะโล้กับไข่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0029585798816568047
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดผัดกระเพราไก่",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.003703703703703704
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดผัดคะน้าหมูกรอบ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0030211480362537764
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดผัดผักรวม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0035460992907801418
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดหมูทอดกระเทียม",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0043859649122807015
+        }
+      }
+    },
+    {
+      "name": "ข้าวราดยำไข่ดาว",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.00273224043715847
+        }
+      }
+    },
+    {
+      "name": "เกาเหลาเนื้อตุ๋น",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0032258064516129032,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "เกาเหลาหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.001976284584980237,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "แกงเลียง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.002551020408163265,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ลาบปลาดุก",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.009174311926605505,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ต้มเลือดหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0016666666666666668,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ซุปเนื้อวัว",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.002257336343115124,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ปลาทู 3 รส",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.007352941176470588,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "เกี๊ยวน้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0019120458891013384,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "บะหมี่เกี๊ยวหมูแดง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.002061855670103093,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "บะหมี่แห้งหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.004098360655737705
+        }
+      }
+    },
+    {
+      "name": "ก๋วยจั๊บน้ำข้น",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0018083182640144665,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ขนมจีนน้ำเงี้ยว",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0020833333333333333,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ขนมจีนแกงเขียวหวาน",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.002702702702702703,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "ข้าวผัดหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0031746031746031746
+        }
+      }
+    },
+    {
+      "name": "ข้าวหมูแดงราดน้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.002840909090909091
+        }
+      }
+    },
+    {
+      "name": "ข้าวหมูอบ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.004032258064516129
+        }
+      }
+    },
+    {
+      "name": "ผัดไทยกุ้งสด",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0035587188612099642
+        }
+      }
+    },
+    {
+      "name": "สุกี้ไก่น้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.001851851851851852,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "สุกี้รวมมิตรน้ำ",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0018867924528301887,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "สุกี้รวมมิตรแห้ง",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "ส่วน",
+        "unit_factors": {
+          "กรัม": 0.0026041666666666665,
+          "จาน": 1
+        }
+      }
+    },
+    {
+      "name": "เส้นใหญ่ราดหน้าหมู",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0022222222222222222
+        }
+      }
+    },
+    {
+      "name": "หอยทอด",
+      "status": "estimated",
+      "url": "https://nutrition2.anamai.moph.go.th/th/research2/download?did=25214&id=78322&lang=th&mid=35886&mkey=m_document",
+      "serving": {
+        "quantity": 1,
+        "unit": "จาน",
+        "unit_factors": {
+          "กรัม": 0.0038314176245210726
+        }
+      }
+    },
+    {
+      "name": "นมจืดไม่ระบุไขมัน",
+      "status": "estimated",
+      "url": "https://sriphat.med.cmu.ac.th/th/knowledge-68",
+      "serving": {
+        "quantity": 240,
+        "unit": "มล.",
+        "unit_factors": {}
+      }
+    }
+  ]
+}

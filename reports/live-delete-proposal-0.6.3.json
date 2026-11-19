@@ -1,0 +1,23 @@
+{
+  "question": "ลบข้อมูลทั้งหมด",
+  "http_status": 200,
+  "status": "management_proposal",
+  "route": "website_assistant",
+  "mode": "proposal_only",
+  "answer": "จะลบข้อมูลที่เก็บในเว็บทั้งหมดของคุณ รวมโปรไฟล์ บันทึก และแผนครับ ตรวจจำนวนก่อนกดยืนยันได้เลย",
+  "actions": [
+    {
+      "type": "delete_records",
+      "scope": "all",
+      "record_ids": [],
+      "label": "ตรวจการลบข้อมูลทั้งหมด"
+    }
+  ],
+  "citations": [],
+  "record_sources": [],
+  "suggestions": [
+    "ใช้งานยังไง",
+    "วันนี้กินอะไรไปบ้าง"
+  ],
+  "clinical_review": "not_reviewed"
+}

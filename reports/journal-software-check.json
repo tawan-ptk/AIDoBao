@@ -1,0 +1,935 @@
+{
+  "label": "SOFTWARE TEST ONLY; no clinical or real-user accuracy estimate",
+  "date_policy": "Bangkok capture date unless explicitly specified",
+  "cases": [
+    {
+      "text": "เดิน 16.00",
+      "expected_kinds": [
+        "activity"
+      ],
+      "actual_kinds": [
+        "activity"
+      ],
+      "pass": true,
+      "elapsed_ms": 1.0625419963616878,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "activity",
+              "text": "เดิน 16.00",
+              "data": {
+                "name": "เดิน 16.00",
+                "method": "self_report",
+                "start": "2026-10-12T16:00:00+07:00"
+              },
+              "evidence": {
+                "name": "เดิน 16.00",
+                "start": "16.00"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": "16:00",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "ตอนเช้ากินข้าว 1 จาน ตอนบ่ายเดิน",
+      "expected_kinds": [
+        "meal",
+        "activity"
+      ],
+      "actual_kinds": [
+        "meal",
+        "activity"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.11824999819509685,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ตอนเช้ากินข้าว 1 จาน",
+              "data": {
+                "name": "ตอนเช้ากินข้าว 1 จาน",
+                "quantity": 1.0,
+                "unit": "จาน",
+                "food_state": "unknown"
+              },
+              "evidence": {
+                "name": "ตอนเช้ากินข้าว 1 จาน",
+                "quantity": "1",
+                "unit": "จาน"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          },
+          {
+            "record": {
+              "kind": "activity",
+              "text": "ตอนบ่ายเดิน",
+              "data": {
+                "name": "ตอนบ่ายเดิน",
+                "method": "self_report"
+              },
+              "evidence": {
+                "name": "ตอนบ่ายเดิน"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "afternoon",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "start",
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 21
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "ช่วงเช้า กินข้าว\nช่วงบ่าย งีบ",
+      "expected_kinds": [
+        "meal",
+        "sleep"
+      ],
+      "actual_kinds": [
+        "meal",
+        "sleep"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.036416007787920535,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ช่วงเช้า กินข้าว",
+              "data": {
+                "name": "ช่วงเช้า กินข้าว",
+                "food_state": "unknown"
+              },
+              "evidence": {
+                "name": "ช่วงเช้า กินข้าว"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "quantity",
+                "unit",
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          },
+          {
+            "record": {
+              "kind": "sleep",
+              "text": "ช่วงบ่าย งีบ",
+              "data": {
+                "method": "self_report_sleep",
+                "episode": "nap"
+              },
+              "evidence": {},
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "afternoon",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "start",
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 17
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "กินยา 1 เม็ด ตอนเย็น",
+      "expected_kinds": [
+        "medication"
+      ],
+      "actual_kinds": [
+        "medication"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.07166698924265802,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "medication",
+              "text": "กินยา 1 เม็ด ตอนเย็น",
+              "data": {
+                "name": "กินยา 1 เม็ด ตอนเย็น",
+                "state": "unknown",
+                "dose": 1.0,
+                "unit": "เม็ด"
+              },
+              "evidence": {
+                "name": "กินยา 1 เม็ด ตอนเย็น",
+                "dose": "1",
+                "unit": "เม็ด"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "evening",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at",
+                "instruction_source"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "นัดหมอ 10:30",
+      "expected_kinds": [
+        "appointment"
+      ],
+      "actual_kinds": [
+        "appointment"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.026165987947024405,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "appointment",
+              "text": "นัดหมอ 10:30",
+              "data": {
+                "name": "นัดหมอ 10:30",
+                "start": "2026-10-12T10:30:00+07:00"
+              },
+              "evidence": {
+                "name": "นัดหมอ 10:30",
+                "start": "10:30"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": "10:30",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "ชั่งน้ำหนัก 65 กิโลกรัม",
+      "expected_kinds": [
+        "measurement"
+      ],
+      "actual_kinds": [
+        "measurement"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.09145800140686333,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "measurement",
+              "text": "ชั่งน้ำหนัก 65 กิโลกรัม",
+              "data": {
+                "name": "weight",
+                "value": 65.0,
+                "unit": "kg",
+                "context": null,
+                "method": "scale"
+              },
+              "evidence": {
+                "name": "ชั่งน้ำหนัก 65 กิโลกรัม",
+                "value": "65",
+                "unit": "กิโลกรัม"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at",
+                "context"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "รู้สึกเหนื่อยและเครียด",
+      "expected_kinds": [
+        "wellbeing"
+      ],
+      "actual_kinds": [
+        "wellbeing"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.02566599869169295,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "wellbeing",
+              "text": "รู้สึกเหนื่อยและเครียด",
+              "data": {
+                "note": "รู้สึกเหนื่อยและเครียด"
+              },
+              "evidence": {
+                "note": "รู้สึกเหนื่อยและเครียด"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "นอน 23.00-07.00",
+      "expected_kinds": [
+        "sleep"
+      ],
+      "actual_kinds": [
+        "sleep"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.038583006244152784,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "sleep",
+              "text": "นอน 23.00-07.00",
+              "data": {
+                "method": "self_report_sleep",
+                "episode": null,
+                "start": "2026-10-12T23:00:00+07:00",
+                "end": "2026-10-13T07:00:00+07:00"
+              },
+              "evidence": {
+                "start": "23.00",
+                "end": "07.00"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": "23:00",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "episode"
+              ],
+              "errors": [],
+              "calculated": {
+                "interval_minutes": 480.0,
+                "label": "ช่วงการนอนตามวิธีที่ระบุ"
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [
+              "ช่วงการนอนนี้ตีความว่าสิ้นสุดวันถัดไป กรุณาตรวจวันที่ก่อนยืนยัน"
+            ],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "เมื่อวานตอนเช้า\nกินข้าว\nเดิน",
+      "expected_kinds": [
+        "meal",
+        "activity"
+      ],
+      "actual_kinds": [
+        "meal",
+        "activity"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.04116600030101836,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "กินข้าว",
+              "data": {
+                "name": "กินข้าว",
+                "food_state": "unknown"
+              },
+              "evidence": {
+                "name": "กินข้าว"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-11",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "date_source": "explicit",
+                "captured_at": "2026-10-12T09:00:00+07:00",
+                "context_text": "เมื่อวานตอนเช้า"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "quantity",
+                "unit",
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 16
+          },
+          {
+            "record": {
+              "kind": "activity",
+              "text": "เดิน",
+              "data": {
+                "name": "เดิน",
+                "method": "self_report"
+              },
+              "evidence": {
+                "name": "เดิน"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-11",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "date_source": "explicit",
+                "captured_at": "2026-10-12T09:00:00+07:00",
+                "context_text": "เมื่อวานตอนเช้า"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "start",
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 24
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "น้ำหนัก 16.00 กก",
+      "expected_kinds": [
+        "measurement"
+      ],
+      "actual_kinds": [
+        "measurement"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.02058300015050918,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "measurement",
+              "text": "น้ำหนัก 16.00 กก",
+              "data": {
+                "name": "weight",
+                "value": 16.0,
+                "unit": "kg",
+                "context": null,
+                "method": null
+              },
+              "evidence": {
+                "name": "น้ำหนัก 16.00 กก",
+                "value": "16.00",
+                "unit": "กก"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "occurred_at",
+                "context",
+                "method"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "ไม่ได้เดิน",
+      "expected_kinds": [],
+      "actual_kinds": [],
+      "pass": true,
+      "elapsed_ms": 0.007499998901039362,
+      "result": {
+        "items": [],
+        "unparsed": [
+          {
+            "text": "ไม่ได้เดิน",
+            "reason": "เป็นข้อความปฏิเสธ แผน หรือเงื่อนไข กรุณาเลือกหมวดและตรวจความหมายเอง",
+            "source_index": 0,
+            "journal": {
+              "date": "2026-10-12",
+              "timezone": "Asia/Bangkok",
+              "period": "unspecified",
+              "clock": null,
+              "date_source": "capture_date",
+              "captured_at": "2026-10-12T09:00:00+07:00"
+            }
+          }
+        ],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "พรุ่งนี้จะเดิน",
+      "expected_kinds": [],
+      "actual_kinds": [],
+      "pass": true,
+      "elapsed_ms": 0.008583010639995337,
+      "result": {
+        "items": [],
+        "unparsed": [
+          {
+            "text": "พรุ่งนี้จะเดิน",
+            "reason": "เป็นข้อความปฏิเสธ แผน หรือเงื่อนไข กรุณาเลือกหมวดและตรวจความหมายเอง",
+            "source_index": 0,
+            "journal": {
+              "date": "2026-10-13",
+              "timezone": "Asia/Bangkok",
+              "period": "unspecified",
+              "clock": null,
+              "date_source": "explicit",
+              "captured_at": "2026-10-12T09:00:00+07:00"
+            }
+          }
+        ],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "text": "กินน้ำตาล 1 ช้อน",
+      "expected_kinds": [
+        "meal"
+      ],
+      "actual_kinds": [
+        "meal"
+      ],
+      "pass": true,
+      "elapsed_ms": 0.015416997484862804,
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "กินน้ำตาล 1 ช้อน",
+              "data": {
+                "name": "กินน้ำตาล 1 ช้อน",
+                "food_state": "unknown"
+              },
+              "evidence": {
+                "name": "กินน้ำตาล 1 ช้อน"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้เล่า; แยกหมวดและเวลาโดยโปรแกรม; ใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+              "journal": {
+                "date": "2026-10-12",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": null,
+                "date_source": "capture_date",
+                "captured_at": "2026-10-12T09:00:00+07:00"
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "quantity",
+                "unit",
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-12T09:00:00+07:00",
+        "default_date": "2026-10-12",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    }
+  ],
+  "rules_passed": 13,
+  "rules_total": 13,
+  "model_smoke": {
+    "raw_fixture_output": "{\"items\":[{\"text\":\"มื้อเช้าเป็นข้าวต้มปลา 1 ถ้วย\",\"kind\":\"meal\"},{\"text\":\"ปวดหัวตอนบ่าย\",\"kind\":\"wellbeing\"}]}",
+    "metrics": {
+      "load_seconds": 1.3716929579968564,
+      "generation_seconds": 1.7916034590016352,
+      "peak_memory_gb": 2.539191996
+    },
+    "result": {
+      "items": [
+        {
+          "record": {
+            "kind": "meal",
+            "text": "มื้อเช้าเป็นข้าวต้มปลา 1 ถ้วย",
+            "data": {
+              "name": "มื้อเช้าเป็นข้าวต้มปลา 1 ถ้วย",
+              "quantity": 1.0,
+              "unit": "ถ้วย",
+              "food_state": "unknown"
+            },
+            "evidence": {
+              "name": "มื้อเช้าเป็นข้าวต้มปลา 1 ถ้วย",
+              "quantity": "1",
+              "unit": "ถ้วย"
+            },
+            "origin": "self_report",
+            "source": "ผู้ใช้เล่า; โมเดลเสนอหมวดจากข้อความเดิม; โปรแกรมตรวจเวลาและใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+            "journal": {
+              "date": "2026-10-12",
+              "timezone": "Asia/Bangkok",
+              "period": "morning",
+              "clock": null,
+              "date_source": "capture_date",
+              "captured_at": "2026-10-12T09:00:00+07:00"
+            }
+          },
+          "check": {
+            "status": "unknown",
+            "can_record": true,
+            "missing": [
+              "occurred_at"
+            ],
+            "errors": [],
+            "calculated": {},
+            "clinical_status": "not_reviewed"
+          },
+          "warnings": [],
+          "source_index": 0
+        },
+        {
+          "record": {
+            "kind": "wellbeing",
+            "text": "ปวดหัวตอนบ่าย",
+            "data": {
+              "note": "ปวดหัวตอนบ่าย"
+            },
+            "evidence": {
+              "note": "ปวดหัวตอนบ่าย"
+            },
+            "origin": "self_report",
+            "source": "ผู้ใช้เล่า; โมเดลเสนอหมวดจากข้อความเดิม; โปรแกรมตรวจเวลาและใช้วันที่พิมพ์เมื่อไม่ระบุวัน",
+            "journal": {
+              "date": "2026-10-12",
+              "timezone": "Asia/Bangkok",
+              "period": "afternoon",
+              "clock": null,
+              "date_source": "capture_date",
+              "captured_at": "2026-10-12T09:00:00+07:00"
+            }
+          },
+          "check": {
+            "status": "unknown",
+            "can_record": true,
+            "missing": [
+              "occurred_at"
+            ],
+            "errors": [],
+            "calculated": {},
+            "clinical_status": "not_reviewed"
+          },
+          "warnings": [],
+          "source_index": 30
+        }
+      ],
+      "unparsed": [],
+      "captured_at": "2026-10-12T09:00:00+07:00",
+      "default_date": "2026-10-12",
+      "timezone": "Asia/Bangkok",
+      "engine": "rules+model",
+      "requires_confirmation": true
+    },
+    "expected_kinds": [
+      "meal",
+      "wellbeing"
+    ],
+    "actual_kinds": [
+      "meal",
+      "wellbeing"
+    ]
+  }
+}

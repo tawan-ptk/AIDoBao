@@ -1,0 +1,199 @@
+No.   (        ) (        ) (        )   
+
+Data key/dictionary  for Interview Form
+“Health literacy and behaviors influencing blood sugar level control among type 2 diabetes patients in primary care units, Thailand: A Cross-Sectional Study”
+
+sex : Gender
+1 = Male         2 = Female
+age : Age of participants ……………… years old
+marital : Marital status
+1 = Single      
+2 = Married         
+3 = Separated/Widowed/ Divorced 
+edu : Education level
+ 1 = Not education
+2 = Primary education  
+ 3 = Lower secondary education    
+4 = Upper secondary education   
+ 5 = Vocational/Diploma 
+6 = Bachelor's Degree   
+ 7 = Postgraduate                       
+occu : Occupational 
+ 1 = Agriculture
+2 = Private business
+3 = Government officer
+4 = Company staff
+ 5 = General employment
+  6 = Housewife / not working 
+income : Income..................................... Baht per month
+fhis : Hereditary illnesses with diabetes    
+1 = Yes    
+2 = Not
+dmt : Duration of illness with diabetes...........................years old
+
+
+smoking
+1 = Yes
+2 = Not  
+alcohol : Alcohol consumption
+1 = Yes
+2 = Not  
+bmi : Weight ………………….……….Kilograms, Height ………………….……… Centimeters
+Body Mass Index : BMI
+1 = Lower BMI
+2 = Normal BMI
+3 = Over BMI
+diet : diet behaviors
+1 = Normal diet behaviors
+2 = Abnormal diet behaviors
+exercise : exercise behaviors
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+Health Literacy
+Part 1 : Access to information and health services about diabetes.
+hl11 = You can find health information about diabetes from a variety of sources, such as knowledgeable, print media, online, etc.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl12 = You can visit your doctor or health care provider whenever you want.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl13 = You always receive health information for you will be healthy.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl14 = You can search for health information by yourself without relying on anyone.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl15 = You receive health information from listening to others speak or telling from others people.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+Part 2 : Cognitive about diabetes.
+hl21 = Diabetes is a hereditary disease.
+1 = Yes 
+0 = Not / Not sure 
+hl22 = Diabetes patients have wounds that are difficult to heal.
+1 = Yes 
+0 = Not / Not sure 
+hl23 = Diabetes patients have a higher risk of kidney failure.
+1 = Yes 
+0 = Not / Not sure
+hl24 = Diabetics patients with high blood glucose levels for a long time can cause abnormal vision.
+1 = Yes 
+0 = Not / Not sure
+hl25 = Hand, foot numbness is a complication that can occur in diabetics with high blood glucose levels for a long time.
+1 = Yes 
+0 = Not / Not sure
+Part 3 : Communication skill about diabetes.
+hl31 = You chat/communicate with people or groups with health knowledge.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl32 = You ask your concerns would like to know with health care provider.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl33 = You discuss and exchange knowledge or your health care practices with health care providers.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl34 = You ask health information to resolve your any doubts with health care provider.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl35 = You transmit health information to others for acceptance and understanding.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+Part 4 : Decision skill about diabetes. 
+hl41 = You decide to choose the source of health care that your expectations.
+1 = Yes 
+0 = Not / Not sure 
+hl42 = You can be confident that the health service where you choose, can solve your health problems.
+1 = Yes 
+0 = Not / Not sure 
+hl43 = You can choose appropriate exercise methods that is suitable for you. By doing moderate-intensity exercises such as running, aerobic dancing, cycling, yoga, etc.
+1 = Yes 
+0 = Not / Not sure
+hl44 = You can make decisions about the health information you receive and can choose the correct information to practice.
+1 = Yes 
+0 = Not / Not sure
+hl45 = You can choose some healthy food, such as such as avoiding foods that are very sweet or seasonings or saturated fat food.
+1 = Yes 
+0 = Not / Not sure
+
+
+
+
+Part 5 : Self-management about diabetes. 
+hl51 = You plan the activities necessary for your own good health.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl52 = You improve the environment to the right place for a good health.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl53 = You can set aside time to take care of your own health.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl54 = You regularly observes abnormalities in your body, mind in order to better supervise your health.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl55 = You bring health care advice from your health care provider into your daily routine.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+Part 6 : Media literacy  about diabetes. 
+hl61 = You search for health information to confirm the accuracy of the information before believing and complying.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl62 = You consult an expert or health care provider regarding the quality and accuracy of information or health practices.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl63 = You check before making a purchase when you see advertisements for health-related products of your interest, such as reading additional product labels.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl64 = You compare health information from multiple sources to confirm your correct understanding.
+1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+hl65 = You compare that health information before making a decision to believe or practice.1 = Never practice
+2 = Sometime practice
+3 = Regularly practice
+dmcontrol : Blood sugar level control assessment
+1 = Control
+2 = Uncontrol
+age_g : Group of age 
+1 = ≥ 80 years old 
+2 =  60 - 79 years old
+3 = 40 - 59 years old
+4 = < 40 years old
+marital_g : Group of marital
+ 1 = Single
+ 2 = Married
+ 3 = Widowed/Separated
+edu_g = Group of education level
+1 = Elementary school
+2 = Junior high school
+3 = Senior high school and above
+income_g = Group of Income per month
+1 = < 1,000 Baht
+2 = 1,001-5,000 Baht
+3 = 5,001-10,000 Baht
+4 =  10,001 Baht and above
+dmt_g = Group of duration for diabetes mellitus
+1 = 1-10 Years
+2 = 11-20 Years
+3 = 21 Years and above
+totalHL : Total of Health literacy assessment 
+

@@ -1,0 +1,53 @@
+{
+  "question": "ฉันเป็นเบาหวานฉันจะกินอะไร",
+  "http_status": 200,
+  "citations": [
+    {
+      "document_id": "niddk-healthy",
+      "chunk_id": "niddk-chat-food-summary",
+      "heading": "Food meal diet: eating with diabetes",
+      "location": "Editorial paraphrase of meal planning, carbohydrate and plate-method sections; not a quotation",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "text": "A diabetes meal plan considers food choices, amounts and timing. Include nonstarchy vegetables, whole grains, protein foods, fruit and suitable dairy or alternatives. A plate-method example is half nonstarchy vegetables, one quarter high-fiber carbohydrate foods such as brown rice, and one quarter protein such as fish or tofu. Choose water or unsweetened drinks; limit sugary drinks and foods high in salt or saturated fat. Carbohydrate foods affect blood glucose; having diabetes does not require giving up every favorite food, but portions matter. Meal timing depends on medicines, activity and other conditions. Skipping or delaying meals can cause low glucose with insulin or certain medicines. Work with the health care team on an individual meal plan.",
+      "publisher": "NIDDK, National Institutes of Health",
+      "accessed_at": "2026-10-12",
+      "content_type": "editorial_summary",
+      "clinical_review": "not_reviewed",
+      "text_sha256": "a0724bc65113ba572c7e72b9be01e810b068e9792c6dd1986d68a096f9b930cd",
+      "score": 12.8754687373539
+    },
+    {
+      "document_id": "niddk-healthy",
+      "chunk_id": "niddk-healthy-h2-0",
+      "heading": "How can I plan what to eat or drink when I have diabetes?",
+      "location": "h2 index 0; How can I plan what to eat or drink when I have diabetes?",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "publisher": "NIDDK, National Institutes of Health",
+      "accessed_at": "2026-10-11",
+      "document_sha256": "6eef6f2dc8b3de70dbcb9c9695854fbc75201c5b506bd466102e0cb48484e8a0",
+      "text_sha256": "b8e8d08c31684b5a2918030622cb88ac61d5e5034657fc9641bc22331b9c33f4",
+      "text": "What you choose to eat, how much you eat, and when you eat are parts of a meal plan. Having healthy foods and drinks can help keep your blood glucose, blood pressure, and cholesterol levels in the ranges your health care professional recommends. If you have overweight or obesity, a healthy meal plan—along with regular physical activity, getting enough sleep, and other healthy behaviors—may help you reach and maintain a healthy weight. In some cases, health care professionals may also recommend diabetes medicines that may help you lose weight, or weight-loss surgery, also called metabolic and bariatric surgery.\nChoose healthy foods and drinks\nThere is no right or wrong way to choose healthy foods and drinks that may help manage your diabetes. Healthy meal plans for people who have diabetes may include\ndairy or plant-based dairy products fruits nonstarchy vegetables protein foods whole grains\nTry to choose foods that include nutrients such as vitamins, calcium , fiber , and healthy fats . Also try to choose drinks with little or no added sugar , such as tap or bottled water, low-fat or non-fat milk, and unsweetened tea, coffee, or sparkling water.\nTry to plan meals and snacks that have fewer\nfoods high in saturated fat foods high in sodium, a mineral found in salt sugary foods , such as cookies and cakes, and sweet drinks, such as soda, juice, flavored coffee, and sports drinks\nYour body turns carbohydrates , or carbs, from food into glucose, which can raise your blood glucose level. Some fruits, beans, and starchy vegetables—such as potatoes and corn—have more carbs than other foods. Keep carbs in mind when planning your meals.\nYou should also limit how much alcohol you drink. If you take insulin or certain diabetes medicines , drinking alcohol can make your blood glucose level drop too low, which is called hypoglycemia . If you do drink alcohol, be sure to eat food when you drink and remember to check your blood glucose level after drinking. Talk with your health care team about your alcohol-drinking habits.\nTry to choose foods that include nutrients such as vitamins, calcium, fiber, and healthy fats.\nFind the best times to eat or drink\nTalk with your health care professional or health care team about when you should eat or drink. The best time to have meals and snacks may depend on\nwhat medicines you take for diabetes what your level of physical activity or your work schedule is whether you have other health conditions or diseases\nAsk your health care team if you should eat before, during, or after physical activity. Some diabetes medicines, such as sulfonylureas or insulin, may make your blood glucose level drop too low during exercise or if you skip or delay a meal.\nPlan how much to eat or drink\nYou may worry that having diabetes means giving up foods and drinks you enjoy. The good news is you can still have your favorite foods and drinks, but you might need to have them in smaller portions or enjoy them less often.\nFor people who have diabetes, carb counting and the plate method are two common ways to plan how much to eat or drink. Talk with your health care professional or health care team to find a method that works for you.\nCarb counting\nCarbohydrate counting , or carb counting, means planning and keeping track of the amount of carbs you eat and drink in each meal or snack. Not all people with diabetes need to count carbs. However, if you take insulin, counting carbs can help you know how much insulin to take.\nPlate method\nThe plate method helps you control portion sizes without counting and measuring. This method divides a 9-inch plate into the following three sections to help you choose the types and amounts of foods to eat for each meal.\nNonstarchy vegetables—such as leafy greens, peppers, carrots, or green beans—should make up half of your plate. Carb foods that are high in fiber—such as brown rice, whole grains, beans, or fruits—should make up one-quarter of your plate. Protein foods—such as lean meats, fish, dairy, or tofu or other soy products—should make up one quarter of your plate.\nIf you are not taking insulin, you may not need to count carbs when using the plate method.\nSource: Centers for Disease Control and Prevention The plate method may help you control your blood glucose without counting carbs.\nWork with your health care team to create a meal plan that works for you. You may want to have a diabetes educator or a registered dietitian on your team. A registered dietitian can provide medical nutrition therapy , which includes counseling to help you create and follow a meal plan. Your health care team may be able to recommend other resources, such as a healthy lifestyle coach, to help you with making changes. Ask your health care team or your insurance company if your benefits include medical nutrition therapy or other diabetes care resources.\nTalk with your health care professional before taking dietary supplements\nThere is no clear proof that specific foods, herbs, spices, or dietary supplements —such as vitamins or minerals—can help manage diabetes. Your health care professional may ask you to take vitamins or minerals if you can’t get enough from foods. Talk with your health care professional before you take any supplements, because some may cause side effects or affect how well your diabetes medicines work.",
+      "license": "NIDDK copyright-free text subject to exceptions; no images/logos imported",
+      "rights_url": "https://www.niddk.nih.gov/copyright",
+      "population": "people with diabetes; section-specific exceptions retained",
+      "clinical_review": "not_reviewed",
+      "score": 4.079441541679836
+    }
+  ],
+  "record_sources": [],
+  "suggestions": [
+    "เป็นเบาหวานควรกินอะไร",
+    "เบาหวานเข้าสู่ภาวะสงบได้ไหม",
+    "วันนี้ทำอะไรไปบ้าง"
+  ],
+  "mode": "read_only",
+  "clinical_review": "not_reviewed",
+  "status": "answered_by_model",
+  "answer": "คุณสามารถกินอาหารได้หลากหลาย โดยควรเลือกอาหารที่มีประโยชน์ต่อสุขภาพ เช่น ผักใบเขียว (nonstarchy vegetables) ซึ่งเป็นแหล่งอาหารที่มีแป้งน้อย ควรกินเป็นครึ่งจานของจานอาหาร รวมถึงโปรตีน เช่น ปลา ไก่ หรือถั่ว ซึ่งควรกินเป็นสี่ส่วนหนึ่งของจาน พร้อมกับคาร์โบไฮเดรตที่มีใยอาหารสูง เช่น ข้าวกล้อง หรือถั่ว ซึ่งควรกินเป็นสี่ส่วนหนึ่งของจานอีกส่วนหนึ่ง\n\nหากต้องการวางแผนอาหารให้เหมาะสมกับระดับน้ำตาลในเลือด แนะนำให้ใช้วิธีแบ่งจานเป็นสามส่วน คือ ครึ่งจานเป็นผักใบเขียว หนึ่งส่วนเป็นโปรตีน และหนึ่งส่วนเป็นคาร์โบไฮเดรตที่มีใยอาหารสูง พร้อมด้วยเครื่องดื่มที่ไม่มีน้ำตาล เช่น น้ำเปล่า น้ำอัดลมไม่หวาน หรือน้ำอัดลมไม่มีน้ำตาล\n\nควรหลีกเลี่ยงอาหารที่มีน้ำตาลสูง ไขมันอิ่มต่ำ และเกลือมาก เช่น ช็อกโกแลต ขนมปังขาว หรือเครื่องดื่มแอลกอฮอล์ โดยเฉพาะหากกำลังใช้ยาลดน้ำตาลหรืออินซูลิน เพราะอาจทำให้ระดับน้ำตาลในเลือดต่ำเกินไปได้",
+  "model": "Typhoon 2.5 Qwen3 4B · local MLX 4-bit",
+  "metrics": {
+    "load_seconds": 1.723058542003855,
+    "generation_seconds": 17.417515958019067,
+    "peak_memory_gb": 3.129645212
+  }
+}

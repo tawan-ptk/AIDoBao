@@ -1,0 +1,82 @@
+  Data Dictionary
+Column
+Description
+ID
+Number of questionnaire (Responder’s number)
+Diabetes
+Diabetic status of the responder (1 refers to having diabetes, 0 refers to not having the disease)
+Sex
+Gender/sex of the responder (1 refers to men, 2 refers to women)
+Age (yr)
+The responder’s age in years
+Weight (kg)
+Weight of the responder in kilograms
+Height (cm)
+Height of the responder in centimeters
+Hip (cm)
+Hip circumference of the responder in centimeters
+BMI (kg/m2)
+Body Mass Index value of the responder (weight in kg/height in m2)
+BMI_high
+Responder with a high BMI or those who have a BMI of 25.0 kg/m2 or higher (1 refers to those with BMI of 25 kg/m2or more, 0 refers to those with BMI that is lower than 25.0 kg/m2
+WHR
+Waist to hip ratio (WHR) of the responder
+WHR_high
+Responder with a high WHR (1 refers to those with WHR of 0.9 or more for men or 0.85 or more for women, 0 refers those with WHR less than 0.9 for men or less than 0.85 for women)
+WC (cm)
+Waist circumference of the responder in centimeters
+WC_high
+Responder with a high WC (1 refers to those with WC of 90 cm or more for men or 80 cm or more for women, 0 refers to those with WC lower than 90 cm for men or WC lower than 80 cm for women)
+Occup_gr
+Occupation of the responder (1 refers to retired, housewife or unemployed, 2 refers to farmers, 3 refers to business owners or civil servants, 4 refers to general employees)
+LifeStyle 
+Lifestyle of the responder (1 refers to an evening person, 2 refers to a morning person)
+Eveningperson
+Responder who has an evening lifestyle (1 refers to those who are evening persons, 0 refers to those who are not evening persons)
+Sleephour (h)
+Number of hours that the responder usually sleeps per day
+Sleephour_gr
+Sleep hours group (1 refers to those who sleep for 6-7 hours, 2 refers to those who sleep for 5 hours or less, 3 refers to those who sleep for 8 hours or more per day)
+LongSleeper
+Responder who sleeps for 8 h or more (long sleeper) 
+(1 refers to long sleepers, 0 refers to not long sleepers)
+ShortSleeper
+Responder who sleeps for 5 h or less (short sleeper) 
+(1 refers to short sleepers, 0 refers to not short sleepers)
+PoorSleeper
+Responder who is either a long sleeper or short sleeper (poor sleeper) (1 refers to poor sleepers, 0 refers to not poor sleepers)
+CigSmoker
+Responder who has smoked more than 100 cigarettes over their lifetime (cigarette smoker) (1 refers to cigarette smokers, 0 refers to not cigarette smokers)
+AlcoholUser
+Responder who drinks alcohol 2-4 times or more per week (alcohol user)  (1 refers to alcohol users, 0 refers to not alcohol users)
+ChickenEat
+Responder who eats chicken (1 refers to those who eat chicken, 0 refers to those who do not eat chicken) 
+BeefEat
+Responder who eats beef (1 refers to those who eat beef, 0 refers to those who do not eat beef )
+SausageEat
+Responder who eats sausage (1 refers to those who eat sausage, 0 refers to those who do not eat sausage) 
+VegetableEat
+Responder who eats vegetable (1 refers to those who eat vegetable, 0 refers to those who do not eat vegetable) 
+FruitEat
+Responder who eats fruit (1 refers to those who eat fruit, 0 refers to those who do not eat fruit)
+SweetEat
+Responder who eats dessert (1 refers to those who eat dessert, 0 refers to those who do not eat dessert)
+SugaryDrink
+Responder who drinks sugary drinks (1 refers to those who drink sugary drinks, 0 refers to those who do not drink sugary drinks) 
+RiceEat
+Responder who eats rice (1 refers to those who eat rice, 0 refers to those who do not eat rice) 
+RiceEat_over1
+Responder who eats more than one cup of rice per meal (1 refers to those who eat more than one cup of rice per meal, 0 refers to those who do not eat more than one cup of rice per meal) 
+Active
+Responder who does exercises or has vigorous physical activities compared with people at the same age group during their leisure time (1 refers to those who do exercises far less, 2 refers to those who do exercises less, 3 refers to those who do exercises about the same, 4 refers to those who do exercises more than, 5 refers to those who do exercises far more than the people at the same age)
+Exercise
+Responder who does exercises and/or plays sports during their leisure time (1 refers to those who never, 2 refers to those who rarely, 3 refers to those who sometimes, 4 refers to those who often, 5 refers to those who almost always do exercises and/or plays sports during leisure time)
+WatchTV
+Responder who watches television during their leisure time (1 refers to those who never watch television, 2 refers to those who rarely watch television, 3 refers to those who sometimes watch television, 4 refers to those who often watch television, 5 refers to those who almost always watch television during leisure time)
+Walking
+Responder who walks during their leisure time (1 refers to those who never walk, 2 refers to those who rarely walk, 3 refers to those who sometimes walk, 4 refers to those who often walk, 5 refers to those who almost always walk during leisure time)
+Biking
+Responder who rides a bicycle during their leisure time (1 refers to those who never ride a bicycle, 2 refers to those who rarely ride a bicycle, 3 refers to those who sometimes ride a bicycle, 4 refers to those who often ride a bicycle, 5 refers to those who almost always ride a bicycle during leisure time)
+Sweat
+Responder who sweats during leisure time (1 refers to those who never sweat, 2 refers to those who rarely sweat, 3 refers to those who sometimes sweat, 4 refers to those who often sweat, 5 refers to those who almost always sweat
+Note: Each column represents one individual

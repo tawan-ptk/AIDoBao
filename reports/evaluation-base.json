@@ -1,0 +1,99 @@
+{
+  "mode": "base",
+  "fresh_process_pid": 53744,
+  "model_revision": "ce0a7416fe82d4404b2b4a253ce3ac095ab1252c",
+  "adapter_sha256": null,
+  "quantization": "4-bit affine group 64",
+  "seed": 42,
+  "temperature": 0,
+  "context_limit_loss": 1024,
+  "assistant_only_loss": true,
+  "test_count": 1,
+  "heldout_loss": 2.036879777908325,
+  "load_seconds": 1.6514158339996357,
+  "elapsed_seconds": 28.17277804200421,
+  "peak_memory_gb": 2.991900212,
+  "heldout_generations": [
+    {
+      "provenance": {
+        "id": "4_MPlus_Health_Topics_QA/0000824/1",
+        "document_id": "4_MPlus_Health_Topics_QA/0000824",
+        "question_id": "0000824-1",
+        "file": "abachaa-MedQuAD-577bd37/4_MPlus_Health_Topics_QA/0000824.xml",
+        "file_sha256": "2764538e914780f7b5bdc1a70b1bd50563a4724b4e00791c603046685bc467d6",
+        "source_url": "https://www.nlm.nih.gov/medlineplus/sleepdisorders.html",
+        "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+        "license": "CC-BY-4.0",
+        "creators": [
+          "Asma Ben Abacha",
+          "Dina Demner-Fushman"
+        ],
+        "current_corroboration_url": "https://medlineplus.gov/sleepdisorders.html",
+        "current_corroboration_location": "Summary: educational sleep disorder categories only; not diagnosis",
+        "review_kind": "source comparison by coding assistant, not clinician review",
+        "origin": "original_source_answer",
+        "answer_sha256": "886d9f5f10460cec0d434dcf3424e88d62dc1af459dbb4da323697dac2002e8b",
+        "tokens": 171
+      },
+      "prompt": [
+        {
+          "role": "user",
+          "content": "What is (are) Sleep Disorders ?"
+        }
+      ],
+      "reference": "Is it hard for you to fall asleep or stay asleep through the night? Do you wake up feeling tired or feel very sleepy during the day, even if you have had enough sleep? You might have a sleep disorder. The most common kinds are       - Insomnia - a hard time falling or staying asleep    - Sleep apnea - breathing interruptions during sleep    -  Restless legs syndrome - a tingling or prickly sensation in the legs     - Narcolepsy - daytime \"sleep attacks\"       Nightmares, night terrors, sleepwalking, sleep talking, head banging, wetting the bed and grinding your teeth are kinds of sleep problems called parasomnias. There are treatments for most sleep disorders. Sometimes just having regular sleep habits can help.",
+      "answer": "Sleep disorders are conditions that interfere with the ability to fall asleep, stay asleep, or achieve restorative sleep. They can affect the quality, duration, and timing of sleep, leading to daytime fatigue, impaired concentration, mood disturbances, and other health issues. Sleep disorders are broadly categorized into several types:\n\n1. **Insomnia**: Difficulty falling asleep, staying asleep, or waking too early and not being able to return to sleep. It can be chronic or acute.\n\n2. **Hypersomnia**: Excessive sleepiness or prolonged sleep duration, such as in narcolepsy, which causes sudden sleep attacks.\n\n3. **Sleep Apnea**: A condition where breathing repeatedly stops and starts during sleep, most commonly obstructive sleep apnea (OSA), due to airway blockage.\n\n4. **Restless Legs Syndrome (RLS)**: An urge to move the legs, often accompanied by uncomfortable sensations, which worsens during rest and improves with movement.\n\n5. **Periodic Limb Movement Disorder (PLMD)**: Repetitive jerking movements of the limbs during sleep, causing sleep fragmentation.\n\n6. **Circadian Rhythm Disorders**: Disruptions in the body’s internal clock, such as delayed sleep phase syndrome (late bedtime) or jet lag.\n\n7. Sleepwalking, sleep terrors, and nightmares: These are parasomnias—abnormal behaviors or experiences during sleep.\n\n8. **Narcolepsy**: A neurological disorder causing overwhelming daytime drowsiness and sudden sleep attacks.\n\n9. **Parasomnias**: A group of sleep disorders involving abnormal movements, behaviors, emotions, or perceptions that occur while falling asleep, during sleep, or upon waking.\n\n10. **Sleep-related breathing disorders**: Includes central sleep apnea and other rare forms.\n\nThese disorders can be caused by medical, psychological, or lifestyle factors and may require diagnosis by a sleep specialist,",
+      "generation_seconds": 10.442767375003314,
+      "output_tokens": 384,
+      "new_numeric_strings": [
+        "1",
+        "10",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "review_status": "requires_human_review",
+      "generation_cap": 384
+    }
+  ],
+  "rag_smoke": {
+    "question": "How can I take care of my mental health?",
+    "reference": {
+      "document_id": "niddk-healthy",
+      "chunk_id": "niddk-healthy-h2-4",
+      "heading": "How can I take care of my mental health?",
+      "location": "h2 index 4; How can I take care of my mental health?",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "publisher": "NIDDK, National Institutes of Health",
+      "accessed_at": "2026-10-11",
+      "document_sha256": "6eef6f2dc8b3de70dbcb9c9695854fbc75201c5b506bd466102e0cb48484e8a0",
+      "text_sha256": "90c70476b9080454b2c3c86fd07d84143b33a48aefadf62878f463e5c9f6f8e9",
+      "text": "Feeling stressed, sad, or angry can be common for people with diabetes. Managing diabetes or learning to cope with new information about your health can be hard. People with chronic illnesses such as diabetes may develop anxiety or other mental health conditions .\nLearn healthy ways to lower your stress , and ask for help from your health care team or a mental health professional. While it may be uncomfortable to talk about your feelings, finding a health care professional whom you trust and want to talk with may help you\nlower your feelings of stress, depression, or anxiety manage problems sleeping or remembering things see how diabetes affects your family, school, work, or financial situation\nAsk your health care team for mental health resources for people with diabetes.\nSleeping too much or too little may raise your blood glucose levels. Your sleep habits may also affect your mental health and vice versa. People with diabetes and overweight or obesity can also have other health conditions that affect sleep, such as sleep apnea , which can raise your blood pressure and risk of heart disease.\nHaving diabetes can be stressful. Talk with your health care professional or health care team if you need help.",
+      "license": "NIDDK copyright-free text subject to exceptions; no images/logos imported",
+      "rights_url": "https://www.niddk.nih.gov/copyright",
+      "population": "people with diabetes; section-specific exceptions retained",
+      "clinical_review": "not_reviewed"
+    },
+    "retrieved_chunk_ids": [
+      "niddk-healthy-h2-4"
+    ],
+    "outputs": {
+      "without_rag": {
+        "answer": "Taking care of your mental health is essential for overall well-being. Here are some practical and effective strategies:\n\n1. **Practice Self-Compassion**: Treat yourself with kindness, especially during difficult times. Be patient and understanding—everyone struggles sometimes.\n\n2. **Stay Physically Active**: Regular exercise (like walking, yoga, or dancing) boosts endorphins, reduces stress, and improves mood.\n\n3. **Maintain a Consistent Routine**: Structure helps reduce anxiety. Set regular sleep, meal, and work hours—even on days off.\n\n4. **Limit Screen Time**: Excessive social media or news consumption can increase anxiety. Set boundaries and prioritize rest.\n\n5. **Connect with Others**: Spend time with supportive friends or family. Social connection reduces feelings of isolation.\n\n6. **Set Realistic Goals**: Break tasks into manageable steps. Celebrate small wins to build confidence and motivation.\n\n7. **Practice Mindfulness or Meditation**: Techniques like deep breathing, meditation, or journaling can help manage stress and improve focus.\n\n8. **Get Enough Sleep**: Aim for 7–9 hours per night. Poor sleep disrupts mood and cognitive function.\n\n9. **Limit Caffeine and Alcohol**: These can worsen anxiety and disrupt sleep patterns.\n\n10. **Seek Professional Help When Needed**: Therapy or counseling can provide tools to manage stress, anxiety, depression, or other concerns. It’s a sign of strength, not weakness.\n\n11. **Engage in Hobbies**: Do things that bring you joy—reading, painting, cooking, gardening, etc.\n\n12. **Learn to Say No**: Protect your time and energy by setting healthy boundaries.\n\n13. **Monitor Your Thoughts**: Notice negative or irrational patterns and gently challenge them with balanced thinking.\n\n14. **Practice Gratitude**: Keep a gratitude journal—each day, write down three things you’re thankful for.\n\nRemember",
+        "generation_seconds": 10.343315000005532,
+        "output_tokens": 384
+      },
+      "with_rag": {
+        "answer": "To take care of your mental health, you can learn healthy ways to lower your stress, ask for help from your health care team or a mental health professional, and talk with your health care professional or health care team if you need help. Managing diabetes or coping with new health information can be stressful, and people with diabetes may develop anxiety or other mental health conditions. Additionally, sleeping too much or too little can affect your blood glucose levels, and your sleep habits may impact your mental health. If you're experiencing stress, sadness, or anger, it's important to seek support. Your health care team can provide resources for mental health support specific to people with diabetes.",
+        "generation_seconds": 5.085239791005733,
+        "output_tokens": 133
+      }
+    }
+  },
+  "finished_at": "2026-10-12T01:24:56.209412+00:00"
+}

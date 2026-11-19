@@ -1,0 +1,746 @@
+{
+  "generated_at": "2026-10-12T01:39:21.519703+00:00",
+  "statuses": [
+    "candidate",
+    "downloaded",
+    "inspected",
+    "eligible",
+    "used",
+    "excluded",
+    "access_pending"
+  ],
+  "sources": [
+    {
+      "id": "medquad",
+      "name": "MedQuAD",
+      "creator": "Asma Ben Abacha; Dina Demner-Fushman",
+      "url": "https://github.com/abachaa/MedQuAD",
+      "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+      "status": "used",
+      "license": "CC-BY-4.0",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": true,
+        "redistribute_data": "with attribution",
+        "redistribute_adapter": "with attribution and base-model terms"
+      },
+      "role": "Original English QA pilot only",
+      "counts": {
+        "candidate_qa": 262,
+        "prepared": {
+          "train": 6,
+          "valid": 1,
+          "test": 1
+        },
+        "actually_trained_unique_pairs": 6,
+        "persons": null
+      },
+      "limitations": [
+        "No recovered answers from collections 10/11/12",
+        "Source comparison is not clinician review",
+        "6/1/1 is not an adequate clinical benchmark"
+      ],
+      "files": [
+        {
+          "file": "data/raw/medquad.tar.gz",
+          "sha256": "9863eb7ed83bcebb5c712f686ae10440c06c8e640016352ce2e3cc7cdb776195",
+          "bytes": 7292431
+        },
+        {
+          "file": "data/raw/medquad-LICENSE.txt",
+          "sha256": "5b63c5abb5f4218f79230730b3733ce681383e2d656044069b8c73cbdb8e7fb7",
+          "bytes": 16391
+        },
+        {
+          "file": "data/raw/medquad-readme.txt",
+          "sha256": "e51e3ef59ec8aa923dd79f2b4132bb3cb1deccbf1b1aca59f3dd668e001397d8",
+          "bytes": 3056
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "hai",
+      "name": "HAI-Coaching",
+      "creator": "Balloccu et al.; uccollab",
+      "url": "https://github.com/uccollab/hai-coaching",
+      "revision": null,
+      "status": "excluded",
+      "license": "Repository LGPL-2.1; dataset-specific application not clear",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Inspection only",
+      "counts": {
+        "rows": 2420,
+        "expert_rows": 246,
+        "training_used": 0,
+        "persons": null
+      },
+      "limitations": [
+        "Only struggle_original and suggestion_from_expert considered",
+        "ChatGPT candidates excluded",
+        "Local workbook revision unverified; no training rights assumed"
+      ],
+      "files": [
+        {
+          "file": "/Users/tawan/Documents/Codex/2026-10-10/l/work/dataset-research/hai-coaching.xlsx",
+          "sha256": "d51a24f57c9f96b3ba71d86b176f62b9f4b6e39f319e81a8ba2d32ce6a60e507",
+          "bytes": 23574216
+        },
+        {
+          "file": "data/raw/hai-LICENSE",
+          "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+          "bytes": 26526
+        },
+        {
+          "file": "data/raw/hai-README.md",
+          "sha256": "a4e2ec203f9030840d0fe7bad162a694db8159802c145c449674a470ba679ea1",
+          "bytes": 6296
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "thai-behavior",
+      "name": "Sleep and health behaviors among diabetic and non-diabetic groups",
+      "creator": "Chudchawal Juntarawijit",
+      "url": "https://doi.org/10.6084/m9.figshare.8246780",
+      "revision": "2",
+      "status": "used",
+      "license": "CC0",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": true,
+        "redistribute_data": true,
+        "redistribute_adapter": true
+      },
+      "role": "Row distributions and unambiguous-ID importer audit only",
+      "counts": {
+        "rows": 2779,
+        "unique_identifiers": 2638,
+        "persons": null,
+        "imported_unambiguous_id_rows": 2497,
+        "training_used": 0
+      },
+      "limitations": [
+        "case-control source, convenience control sampling, ages 30–85, excludes specified chronic diseases",
+        "Dictionary WC unit cm conflicts with scale of reported mean; no silent conversion",
+        "Paper WHR cutoff text typo retained as source discrepancy; no clinical rule generated",
+        "Duplicate source IDs: person count not independently verified; all duplicate-ID rows excluded from person-level import"
+      ],
+      "files": [
+        {
+          "file": "data/raw/figshare-data-Diabete-dataset.sav",
+          "sha256": "4297f74a28294c629abecca87c0c60656b7529b818609c909acf3f4da41aa98c",
+          "bytes": 206407
+        },
+        {
+          "file": "data/raw/figshare-data-Data Dictionary.docx",
+          "sha256": "fccc94ebe4ca8fa25357ee6cfae9f15346fbea12a7ad4d4f094f75c037575713",
+          "bytes": 16718
+        },
+        {
+          "file": "data/raw/figshare-data.json",
+          "sha256": "ffb153db7628947e0c08c5323497e3c65aecd49e7c905f9c540211a743b34378",
+          "bytes": 3102
+        },
+        {
+          "file": "data/raw/figshare-questionnaire-questionnaire-Thai.docx",
+          "sha256": "8b612bc86a8798963e72b955fae03684d3ffed3752e89b0781b65eb13370f162",
+          "bytes": 50049
+        },
+        {
+          "file": "data/raw/figshare-questionnaire-Questionnaire-English.docx",
+          "sha256": "6b157850fb859a438ec65796fc2c0c6f6912da341133cbcd960cf11c1ae8ad52",
+          "bytes": 47114
+        },
+        {
+          "file": "data/raw/figshare-questionnaire.json",
+          "sha256": "3d1af9e49e6b5ef3067b56a6a9bd5dd31b70b05a7e03da4c9ae60bd35561c306",
+          "bytes": 3208
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "thai-literacy",
+      "name": "Health literacy and behaviors influencing blood sugar level control",
+      "creator": "Atthawit Singsalasang",
+      "url": "https://zenodo.org/records/6325536",
+      "revision": "record 6325536 revision 2",
+      "status": "inspected",
+      "license": "CC-BY-4.0",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": true,
+        "redistribute_data": "with attribution",
+        "redistribute_adapter": "with attribution"
+      },
+      "role": "Structure inspection only",
+      "counts": {
+        "rows": 605,
+        "columns": 50,
+        "training_used": 0,
+        "unique_identifiers": 605,
+        "persons": 605
+      },
+      "limitations": [
+        "605 unique IDs; consistent with article sample size; see zenodo-definition-audit.json",
+        "dmcontrol is a coded outcome; no invented raw blood glucose or medication data",
+        "Original dictionary dmcontrol 1/2 conflicts with observed 0/1; no silent recode; totalhl item-sum checked in definition audit"
+      ],
+      "files": [
+        {
+          "file": "data/raw/zenodo-5864806.json",
+          "sha256": "ab9519eb6be2ea79b1872eb9b5dcb1f78ac7c90f3d509e4e0f0d000ddadcc997",
+          "bytes": 4013
+        },
+        {
+          "file": "data/raw/zenodo-5914387.json",
+          "sha256": "889537518b493429b5482cde5d5f094d69380c1627bd22a609429d7af4cb2637",
+          "bytes": 3810
+        },
+        {
+          "file": "data/raw/zenodo-5864806-Questionnaire_HL_DM_Final.docx",
+          "sha256": "75a40b0014e59eec3d7a03a324590ad099ccf78b4ad5770bb0da754a7b042146",
+          "bytes": 41799
+        },
+        {
+          "file": "data/raw/zenodo-paper.html",
+          "sha256": "a336aff70d3313420bb5fe56c82269c9e87667a5fc9eb5cc962cb02448143319",
+          "bytes": 359712
+        },
+        {
+          "file": "data/raw/zenodo-Final_Health literacy among type 2 diabetes patients in primary care units, Thailand.xlsx",
+          "sha256": "29d66070635345c9f4d5cc8ccc41bd596e873aed67489fc40f188b79a592f9ed",
+          "bytes": 120278
+        },
+        {
+          "file": "data/raw/zenodo.json",
+          "sha256": "ec6981c71c7fa13ecf8d5541826e861791672d209e0a5c2082bf125388d030c3",
+          "bytes": 3958
+        },
+        {
+          "file": "data/raw/zenodo-5914387-Data key or dictionary for Questionnaire_HL_DM.docx",
+          "sha256": "8135d32aaee8aba37ce443d1c2e718d8a885b5aa9dfd5755bc6c0403e11ba6e8",
+          "bytes": 32489
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "nhanes",
+      "name": "NHANES 2021–2023 local merged artifacts",
+      "creator": "CDC/NCHS; prior local research merge",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/",
+      "revision": "2021–2023",
+      "status": "used",
+      "license": "US federal public-use data; source-specific terms apply",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": true,
+        "redistribute_data": "retain source notices",
+        "redistribute_adapter": null
+      },
+      "role": "Join cardinality verification only",
+      "counts": {
+        "persons": 4714,
+        "food_rows": 72224,
+        "food_persons": 4711,
+        "training_used": 0
+      },
+      "limitations": [
+        "US observed intake is not Thai food advice",
+        "No population estimates without appropriate weights/design",
+        "No cross-dataset subject merges"
+      ],
+      "files": [
+        {
+          "file": "/Users/tawan/Documents/Codex/2026-10-10/l/outputs/nhanes-adult-health-diet-merged.csv",
+          "sha256": "4f96d962ff19ea5acdfa3cf3eb4af3f0e9a31381feb6ead4d8fd0950b8967d16",
+          "bytes": 1013296
+        },
+        {
+          "file": "/Users/tawan/Documents/Codex/2026-10-10/l/outputs/nhanes-food-records-linked.csv",
+          "sha256": "c0bc515aee0cffd2d77d9ffe090c37471b12d12a81f2af9f9dc30cd586a1f505",
+          "bytes": 11020921
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "thaifcd",
+      "name": "Thai Food Composition Database",
+      "creator": "Institute of Nutrition, Mahidol University",
+      "url": "https://inmu.mahidol.ac.th/thaifcd/home",
+      "revision": "Online version 3, August 2025",
+      "status": "access_pending",
+      "license": "All rights reserved; noncommercial use with acknowledgement, other uses require permission",
+      "permissions": {
+        "download_process": "noncommercial access",
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Schema/importer only",
+      "counts": {
+        "food_rows_imported": 0,
+        "training_used": 0
+      },
+      "limitations": [
+        "No assumed API or bulk access",
+        "Need permission for intended app, redistribution and processing route",
+        "No fabricated nutrient/portion values"
+      ],
+      "files": [
+        {
+          "file": "data/raw/thaifcd.html",
+          "sha256": "57ca56ab5c6e40b0b95cb7878380f5f4cc5c9dc84cc77c6ba639ed933c71b57c",
+          "bytes": 32833
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "nhes",
+      "name": "NHES 7 summary",
+      "creator": "HSRI / survey partners",
+      "url": "https://opendata.hsri.or.th/dataset/nhes7-summary",
+      "revision": "NHES 7",
+      "status": "access_pending",
+      "license": "Portal terms; microdata access unverified",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Summary source candidate, no microdata",
+      "counts": {
+        "microdata_rows": 0,
+        "training_used": 0
+      },
+      "limitations": [
+        "Landing page and PDF link are not individual-level data",
+        "No participant microdata requested"
+      ],
+      "files": [
+        {
+          "file": "data/raw/nhes.html",
+          "sha256": "683a12c3f2faf0526374059757e7ce41bd40717738591505519a07d8b4915e3b",
+          "bytes": 50288
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "niddk-healthy",
+      "name": "Healthy Living with Diabetes",
+      "creator": "NIDDK/NIH",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "revision": null,
+      "status": "used",
+      "license": "Copyright-free NIDDK text with exceptions and attribution",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": true,
+        "redistribute_data": "text with attribution; no third-party graphics",
+        "redistribute_adapter": null
+      },
+      "role": "Exact-section RAG",
+      "counts": {
+        "documents": 1,
+        "chunks": 5,
+        "training_used": 0
+      },
+      "limitations": [
+        "English evidence only",
+        "No claim of NIDDK endorsement",
+        "No clinical review of individualized recommendation rules"
+      ],
+      "files": [
+        {
+          "file": "data/raw/niddk.html",
+          "sha256": "6eef6f2dc8b3de70dbcb9c9695854fbc75201c5b506bd466102e0cb48484e8a0",
+          "bytes": 71867
+        },
+        {
+          "file": "data/raw/niddk-copyright.html",
+          "sha256": "c11dd24f95f04af9eaf3c54513f61d8c2b995b682b7550750e8f5e82127bf1b5",
+          "bytes": 31550
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "who-activity",
+      "name": "who-activity",
+      "creator": "who-activity",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "revision": null,
+      "status": "candidate",
+      "license": "not cleared for import",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Source review only",
+      "counts": {
+        "training_used": 0,
+        "rag_chunks": 0
+      },
+      "limitations": [
+        "Read for source review; not indexed; reuse terms pending"
+      ],
+      "files": [
+        {
+          "file": "data/raw/who-activity.html",
+          "sha256": "e2f3e5b7edaea79dcce40c06b55608304e855f493721f140c2c2c72be5065a21",
+          "bytes": 114077
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "cdc-sleep",
+      "name": "cdc-sleep",
+      "creator": "cdc-sleep",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "revision": null,
+      "status": "candidate",
+      "license": "not cleared for import",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Source review only",
+      "counts": {
+        "training_used": 0,
+        "rag_chunks": 0
+      },
+      "limitations": [
+        "Browser source read; download returned 403; not indexed"
+      ],
+      "files": [],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "dmthai",
+      "name": "dmthai",
+      "creator": "dmthai",
+      "url": "https://dmthai.org/new/index.php/activities-and-news/news-pr/naewthang-wech-ptibati-sahrab-rokh-bea-hwan-2566-chbab-prabprung-kph-67",
+      "revision": null,
+      "status": "candidate",
+      "license": "not cleared for import",
+      "permissions": {
+        "download_process": true,
+        "training": null,
+        "rag": null,
+        "redistribute_data": null,
+        "redistribute_adapter": null
+      },
+      "role": "Source review only",
+      "counts": {
+        "training_used": 0,
+        "rag_chunks": 0
+      },
+      "limitations": [
+        "Landing page inspected; full guideline reuse/review pending"
+      ],
+      "files": [
+        {
+          "file": "data/raw/dmthai.html",
+          "sha256": "6062f369a3b705604fbdff3ec6a05dc72646b30cb283e4479624e1b289305fb9",
+          "bytes": 44558
+        }
+      ],
+      "accessed_dates": [
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "variables_units_missing": "See corresponding reports/*-audit.json and original dictionaries; unknown definitions remain unknown"
+    },
+    {
+      "id": "medlineplus-finetune-v2",
+      "name": "MedlinePlus current summary original QA",
+      "creator": "National Library of Medicine / source federal agencies",
+      "url": "https://medlineplus.gov/",
+      "revision": "SHA256 snapshots in data/raw/finetune-v1/downloads.json",
+      "status": "used",
+      "license": "US federal public-domain health-topic summaries only",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": true,
+        "redistribute_data": "with source acknowledgement",
+        "redistribute_adapter": "retain base terms and source acknowledgement"
+      },
+      "role": "Original English QA, no AI translation/paraphrase",
+      "counts": {
+        "training_used": 53,
+        "validation": 12,
+        "test": 7
+      },
+      "limitations": [
+        "Not clinician reviewed; no Thai medical paired answers; no real-user accuracy claim"
+      ],
+      "files": [
+        {
+          "requested_url": "https://medlineplus.gov/diabetes.html",
+          "url": "https://medlineplus.gov/diabetes.html",
+          "accessed_at": "2026-10-12T13:53:40.238365+00:00",
+          "file": "data/raw/finetune-v1/diabetes.html",
+          "sha256": "0c80c51f70a2609855196588dfeab86bef23c5d513dd4abb3e1707176eb60f0f"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/diabetestype2.html",
+          "url": "https://medlineplus.gov/diabetestype2.html",
+          "accessed_at": "2026-10-12T13:53:41.780692+00:00",
+          "file": "data/raw/finetune-v1/diabetestype2.html",
+          "sha256": "157cc75b0c48b1e9ef793599274c783e80d257dde0389519b2464a1c54e70691"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/diabeticdiet.html",
+          "url": "https://medlineplus.gov/diabeticdiet.html",
+          "accessed_at": "2026-10-12T13:53:43.137085+00:00",
+          "file": "data/raw/finetune-v1/diabeticdiet.html",
+          "sha256": "48140d711f99f31d4b610ab8d742fdff76fd007a3c150e7b7d51ef39b9eb6ed2"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/carbohydrates.html",
+          "url": "https://medlineplus.gov/carbohydrates.html",
+          "accessed_at": "2026-10-12T13:53:44.504301+00:00",
+          "file": "data/raw/finetune-v1/carbohydrates.html",
+          "sha256": "368f94a5f3d8e156b0505672ad0fdfecf6140406dda4054af3f92b57c0f661c2"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/nutrition.html",
+          "url": "https://medlineplus.gov/nutrition.html",
+          "accessed_at": "2026-10-12T13:53:46.159383+00:00",
+          "file": "data/raw/finetune-v1/nutrition.html",
+          "sha256": "c44528845fd0b47006d2973e71edc60fc8f2690f7204b7cd17d93a2c39c88317"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/cholesterol.html",
+          "url": "https://medlineplus.gov/cholesterol.html",
+          "accessed_at": "2026-10-12T13:53:47.675805+00:00",
+          "file": "data/raw/finetune-v1/cholesterol.html",
+          "sha256": "e00dd748cb166308a4a4a61cad4af7de4f5e91cbae0270ba0b7b40501143b1f4"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+          "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+          "accessed_at": "2026-10-12T13:53:49.541109+00:00",
+          "file": "data/raw/finetune-v1/exerciseandphysicalfitness.html",
+          "sha256": "da576d681c7d3514a3687c616fb3ec85e54132262f11a0d1ad6713ecb07b21ac"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/healthyliving.html",
+          "url": "https://medlineplus.gov/healthyliving.html",
+          "accessed_at": "2026-10-12T13:53:50.971108+00:00",
+          "file": "data/raw/finetune-v1/healthyliving.html",
+          "sha256": "f795caebc6edfa89a80e958c51f203aa9a4103b9363c6660f0ae8d9ee8ac2297"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/metabolicsyndrome.html",
+          "url": "https://medlineplus.gov/metabolicsyndrome.html",
+          "accessed_at": "2026-10-12T13:53:52.392431+00:00",
+          "file": "data/raw/finetune-v1/metabolicsyndrome.html",
+          "sha256": "e5f3bd85a1476630811711bf4301c2829f66d9283ca4e9a4c085e9bb3ac1f8ae"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/foodallergy.html",
+          "url": "https://medlineplus.gov/foodallergy.html",
+          "accessed_at": "2026-10-12T13:53:54.024451+00:00",
+          "file": "data/raw/finetune-v1/foodallergy.html",
+          "sha256": "ccfba0065f3a7ade2fe425ab5ffecfcd21bc4b71e9dc7e5df34e6b4341a70828"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/dehydration.html",
+          "url": "https://medlineplus.gov/dehydration.html",
+          "accessed_at": "2026-10-12T13:53:55.393969+00:00",
+          "file": "data/raw/finetune-v1/dehydration.html",
+          "sha256": "1c035d197ef34750f1a94ab43c852c460504669e063f69c3457a3ec82bcf850d"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/mentalhealth.html",
+          "url": "https://medlineplus.gov/mentalhealth.html",
+          "accessed_at": "2026-10-12T13:53:56.745989+00:00",
+          "file": "data/raw/finetune-v1/mentalhealth.html",
+          "sha256": "f08285c903f7318b763debab63e70965aed64ecc552e2d1a34b0082cfcd2f4ed"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/sleepapnea.html",
+          "url": "https://medlineplus.gov/sleepapnea.html",
+          "accessed_at": "2026-10-12T13:53:58.316616+00:00",
+          "file": "data/raw/finetune-v1/sleepapnea.html",
+          "sha256": "1bb6580e215b993d16f6832745d3b95ee9254188350c4c86591b1b74a466be5c"
+        },
+        {
+          "requested_url": "https://medlineplus.gov/about/using/usingcontent/",
+          "url": "https://medlineplus.gov/about/using/usingcontent/",
+          "accessed_at": "2026-10-12T13:53:59.483236+00:00",
+          "file": "data/raw/finetune-v1/usingcontent-policy.html",
+          "sha256": "395448c1bd29d61919a77a0481aa4ae7775a22bd42fb921d3d5303c332befb85"
+        }
+      ]
+    },
+    {
+      "id": "synthetic-commands-finetune-v2",
+      "name": "Authorized Thai website/extraction command examples",
+      "creator": "Coding assistant with explicit user authorization 2026-10-12",
+      "url": null,
+      "status": "used",
+      "revision": {
+        "train": {
+          "path": "data/prepared/finetune-v2/train.jsonl",
+          "sha256": "078b9e581a57387d3144ebdba67e79a3eaae080e930839fd76c49a73ecb7e155"
+        },
+        "valid": {
+          "path": "data/prepared/finetune-v2/valid.jsonl",
+          "sha256": "579a0a12a5451a70253eec72b01d08f8c19f54506539e28ea000e8b628f39917"
+        },
+        "test": {
+          "path": "data/prepared/finetune-v2/test.jsonl",
+          "sha256": "acaf2cd878aa044dda628c3ee1f27f7f60ec2065e0dd49f0b34be775b92e6da0"
+        }
+      },
+      "license": "Project-authored synthetic commands; no third-party patient data",
+      "permissions": {
+        "download_process": true,
+        "training": true,
+        "rag": false,
+        "redistribute_data": true,
+        "redistribute_adapter": "base terms apply"
+      },
+      "counts": {
+        "training_used": 249,
+        "validation": 65,
+        "test": 79
+      },
+      "role": "Literal extraction and intent/catalog labels only; no synthetic medical advice",
+      "limitations": [
+        "Not real patients; not evidence of clinical accuracy; held-out date templates share structure"
+      ],
+      "files": [
+        {
+          "path": "data/prepared/finetune-v2/train.jsonl",
+          "sha256": "078b9e581a57387d3144ebdba67e79a3eaae080e930839fd76c49a73ecb7e155"
+        },
+        {
+          "path": "data/prepared/finetune-v2/valid.jsonl",
+          "sha256": "579a0a12a5451a70253eec72b01d08f8c19f54506539e28ea000e8b628f39917"
+        },
+        {
+          "path": "data/prepared/finetune-v2/test.jsonl",
+          "sha256": "acaf2cd878aa044dda628c3ee1f27f7f60ec2065e0dd49f0b34be775b92e6da0"
+        }
+      ]
+    },
+    {
+      "id": "synthetic-commands-finetune-v3",
+      "name": "Authorized extraction/route specialist command examples",
+      "creator": "Coding assistant; user explicitly permitted website/extraction synthetic examples 2026-10-12",
+      "url": null,
+      "status": "used",
+      "revision": {
+        "train": {
+          "path": "data/prepared/finetune-v3/train.jsonl",
+          "sha256": "86e9cf913fab6ad9c91613dceab04106120ce5d4ed9c30a4cfeef1e6eb262ca2"
+        },
+        "valid": {
+          "path": "data/prepared/finetune-v3/valid.jsonl",
+          "sha256": "365bfb6959fb685a362b76c4dd89bc9eace9b185a705d4527d70a08fb7284855"
+        },
+        "test": {
+          "path": "data/prepared/finetune-v3/test.jsonl",
+          "sha256": "101cc3b9efb7825d421d22375df304ae4f711824dddaa83f88d004fb907a59f6"
+        }
+      },
+      "license": "Project-authored synthetic command labels; base terms apply to adapter",
+      "counts": {
+        "training_used": 457,
+        "validation": 28,
+        "test": 44
+      },
+      "role": "Literal extraction and scope classification only",
+      "limitations": [
+        "Synthetic command evaluation only; no clinical/real-user accuracy.",
+        "Measurement supports literal weight examples, not a representative medical measurements dataset.",
+        "v2 command train/valid/test now ALL development training; v3 validation/test use newly authored phrasings and lexical fillers. Never describe v2 test as held-out for v3."
+      ],
+      "files": [
+        {
+          "path": "data/prepared/finetune-v3/train.jsonl",
+          "sha256": "86e9cf913fab6ad9c91613dceab04106120ce5d4ed9c30a4cfeef1e6eb262ca2"
+        },
+        {
+          "path": "data/prepared/finetune-v3/valid.jsonl",
+          "sha256": "365bfb6959fb685a362b76c4dd89bc9eace9b185a705d4527d70a08fb7284855"
+        },
+        {
+          "path": "data/prepared/finetune-v3/test.jsonl",
+          "sha256": "101cc3b9efb7825d421d22375df304ae4f711824dddaa83f88d004fb907a59f6"
+        }
+      ]
+    }
+  ]
+}

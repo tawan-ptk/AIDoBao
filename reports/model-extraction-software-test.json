@@ -1,0 +1,41 @@
+{
+  "label": "SOFTWARE TEST ONLY; never training or clinical validation",
+  "exit_code": 0,
+  "result": {
+    "record": {
+      "kind": "measurement",
+      "text": "SOFTWARE TEST ONLY ไม่ใช่ข้อมูลผู้ป่วยจริง: glucose 120 mg/dL fasting fingerstick 2026-10-12T07:00:00+07:00",
+      "data": {
+        "name": null,
+        "value": null,
+        "unit": null,
+        "occurred_at": null,
+        "context": null,
+        "method": null
+      },
+      "evidence": {},
+      "source": "แยกข้อความไม่ผ่าน กรุณากรอกฟอร์ม",
+      "origin": "model_proposal"
+    },
+    "metrics": {
+      "load_seconds": 1.6290522920025978,
+      "generation_seconds": 5.265271791999112,
+      "peak_memory_gb": 2.616246252,
+      "extraction_status": "invalid_model_output"
+    }
+  },
+  "schema_check": {
+    "status": "unknown",
+    "missing": [
+      "name",
+      "value",
+      "unit",
+      "occurred_at",
+      "context",
+      "method"
+    ],
+    "errors": [],
+    "calculated": {},
+    "clinical_status": "not_reviewed"
+  }
+}

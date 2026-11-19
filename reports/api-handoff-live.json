@@ -1,0 +1,467 @@
+{
+  "label": "SOFTWARE LIVE API ONLY; synthetic input, no health confirmations",
+  "checks": [
+    {
+      "case": "capture_default",
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ข้าว",
+              "data": {
+                "name": "ข้าว",
+                "food_state": "unknown",
+                "occurred_at": "2026-10-13T00:02:00+07:00"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-13",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": "00:02:00",
+                "clock_source": "capture_time",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-13T00:02:59+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "quantity",
+                "unit"
+              ],
+              "errors": [],
+              "calculated": {
+                "energy": {
+                  "name": "ข้าว",
+                  "status": "estimated",
+                  "kcal": [
+                    80,
+                    80
+                  ],
+                  "actual_consumed_kcal": null,
+                  "catalog_version": "2026-10-12-v2",
+                  "assumed_portion": true,
+                  "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                  "reference": {
+                    "id": "plain_rice",
+                    "name": "ข้าวสวย",
+                    "aliases": [
+                      "ข้าว"
+                    ],
+                    "kcal": [
+                      80,
+                      80
+                    ],
+                    "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                    "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                    "published": null,
+                    "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                    "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                    "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                    "serving": {
+                      "quantity": 1,
+                      "unit": "ทัพพีเล็ก",
+                      "unit_factors": {
+                        "ทัพพี": 1,
+                        "ถ้วย": 3
+                      }
+                    },
+                    "status": "reference_only",
+                    "actual_consumed_kcal": null,
+                    "accessed_at": "2026-10-12",
+                    "health_score": null
+                  },
+                  "quantity": 1,
+                  "unit": "ทัพพีเล็ก",
+                  "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                  "unit_factor": 1,
+                  "assumption": "ยังไม่ระบุปริมาณ ใช้ 1 ทัพพีเล็ก อ้างอิง แก้ได้"
+                }
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-13T00:02:59+07:00",
+        "default_date": "2026-10-13",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "case": "period_preserved",
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "meal",
+              "text": "ข้าว",
+              "data": {
+                "name": "ข้าว",
+                "food_state": "unknown"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-13",
+                "timezone": "Asia/Bangkok",
+                "period": "morning",
+                "clock": null,
+                "clock_source": "unspecified",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-13T00:02:59+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "quantity",
+                "unit",
+                "occurred_at"
+              ],
+              "errors": [],
+              "calculated": {
+                "energy": {
+                  "name": "ข้าว",
+                  "status": "estimated",
+                  "kcal": [
+                    80,
+                    80
+                  ],
+                  "actual_consumed_kcal": null,
+                  "catalog_version": "2026-10-12-v2",
+                  "assumed_portion": true,
+                  "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                  "reference": {
+                    "id": "plain_rice",
+                    "name": "ข้าวสวย",
+                    "aliases": [
+                      "ข้าว"
+                    ],
+                    "kcal": [
+                      80,
+                      80
+                    ],
+                    "basis": "1 ทัพพีเล็ก (1/3 ถ้วย)",
+                    "url": "https://www.si.mahidol.ac.th/sirirajdoctor/article_detail.aspx?ID=1477",
+                    "published": null,
+                    "publisher": "ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+                    "location": "อาหารแลกเปลี่ยน หมวดข้าว แป้ง ขนมปัง",
+                    "note": "ใช้ทัพพีเล็กตามแหล่งอ้างอิง ไม่แปลงจานหรือชามเป็นทัพพีเอง",
+                    "serving": {
+                      "quantity": 1,
+                      "unit": "ทัพพีเล็ก",
+                      "unit_factors": {
+                        "ทัพพี": 1,
+                        "ถ้วย": 3
+                      }
+                    },
+                    "status": "reference_only",
+                    "actual_consumed_kcal": null,
+                    "accessed_at": "2026-10-12",
+                    "health_score": null
+                  },
+                  "quantity": 1,
+                  "unit": "ทัพพีเล็ก",
+                  "formula": "reference_kcal * quantity * unit_factor / reference_quantity",
+                  "unit_factor": 1,
+                  "assumption": "ยังไม่ระบุปริมาณ ใช้ 1 ทัพพีเล็ก อ้างอิง แก้ได้"
+                }
+              },
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-13T00:02:59+07:00",
+        "default_date": "2026-10-13",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "case": "explicit_clock",
+      "result": {
+        "items": [
+          {
+            "record": {
+              "kind": "activity",
+              "text": "เดิน",
+              "data": {
+                "name": "เดิน",
+                "method": "self_report",
+                "start": "2026-10-13T16:00:00+07:00"
+              },
+              "origin": "self_report",
+              "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+              "evidence": {},
+              "previous_id": null,
+              "journal": {
+                "date": "2026-10-13",
+                "timezone": "Asia/Bangkok",
+                "period": "unspecified",
+                "clock": "16:00:00",
+                "clock_source": "explicit",
+                "date_source": "capture_date",
+                "captured_at": "2026-10-13T00:02:59+07:00",
+                "context_text": ""
+              }
+            },
+            "check": {
+              "status": "unknown",
+              "can_record": true,
+              "missing": [
+                "end"
+              ],
+              "errors": [],
+              "calculated": {},
+              "clinical_status": "not_reviewed"
+            },
+            "warnings": [],
+            "source_index": 0
+          }
+        ],
+        "unparsed": [],
+        "captured_at": "2026-10-13T00:02:59+07:00",
+        "default_date": "2026-10-13",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    },
+    {
+      "case": "chat_capture",
+      "result": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 1 รายการครับ\n• ข้าว · 00:02:00 (เวลาที่พิมพ์) · ประมาณ 80 kcal · 1 ทัพพีเล็ก (ใช้ปริมาณอ้างอิง แก้ได้)\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าว",
+                "data": {
+                  "name": "ข้าว",
+                  "food_state": "unknown",
+                  "occurred_at": "2026-10-13T00:02:00+07:00"
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-13",
+                  "timezone": "Asia/Bangkok",
+                  "period": "unspecified",
+                  "clock": "00:02:00",
+                  "clock_source": "capture_time",
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-13T00:02:59+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 1 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "กินข้าว",
+            "captured_at": "2026-10-13T00:02:59+07:00",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": []
+      }
+    },
+    {
+      "case": "advice_is_read_only",
+      "result": {
+        "status": "meal_ideas",
+        "route": "personalized_menu",
+        "mode": "read_only",
+        "citations": [
+          {
+            "publisher": "NIDDK",
+            "heading": "Healthy Living with Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+            "location": "Choose healthy foods / Plate method",
+            "accessed_at": "2026-10-12",
+            "text": "หลักฐานใช้การเลือกอาหารให้หลากหลายและจัดสัดส่วนผัก แหล่งคาร์โบไฮเดรต และโปรตีน โดยปรับร่วมกับทีมรักษา ไม่ใช้ค่าพลังงานจานอ้างอิงเป็นเป้าหมายเฉพาะบุคคล",
+            "content_type": "editorial_summary"
+          }
+        ],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้กินอะไรไปบ้าง",
+          "เปิดโปรไฟล์",
+          "จัดตารางของฉัน"
+        ],
+        "context": {
+          "profile": {
+            "age": null,
+            "weight_kg": null,
+            "height_cm": null,
+            "conditions": [],
+            "medications": [],
+            "timezone": "Asia/Bangkok",
+            "reported_type2": null,
+            "complex_care": false,
+            "pregnant": false,
+            "goals": [],
+            "allergies": null,
+            "preferences": [],
+            "mobility_limits": [],
+            "prohibited_catalog_ids": []
+          },
+          "source_record_ids": {},
+          "flags": [
+            "age_unknown"
+          ],
+          "bmi": null,
+          "bmi_label": null,
+          "daily_calorie_target": null,
+          "clinical_review": "not_reviewed"
+        },
+        "meal_references": [],
+        "menus": [
+          {
+            "id": "chicken_veg_rice",
+            "name": "ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ไก่",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ไก่"
+            ],
+            "tags": [
+              "ต้ม",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "แยกน้ำจิ้ม เลือกผักที่กินได้",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "fish_veg_rice",
+            "name": "ข้าว + ปลานึ่ง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ปลา",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ปลา"
+            ],
+            "tags": [
+              "นึ่ง",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ตรวจชนิดปลาและเครื่องปรุงก่อนกิน",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "tofu_veg_rice",
+            "name": "ข้าว + เต้าหู้ผัดผักน้ำมันน้อย",
+            "ingredients": [
+              "ข้าว",
+              "ถั่วเหลือง",
+              "ผัก",
+              "น้ำมัน",
+              "เกลือ"
+            ],
+            "contains": [
+              "ถั่วเหลือง"
+            ],
+            "tags": [
+              "มังสวิรัติ",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ใช้เต้าหู้ถั่วเหลืองและไม่เติมซอสที่ไม่ทราบส่วนผสม",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          }
+        ],
+        "clinical_review": "not_reviewed",
+        "used_record_ids": [],
+        "question_constraints": {
+          "allergies": [],
+          "stored": false
+        },
+        "care_context": [],
+        "meals_stated_in_question": [],
+        "answer": "ลองเลือกหนึ่งอย่างจากนี้ได้ครับ:\n• ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม\n• ข้าว + ปลานึ่ง + ผักต้ม\n• ข้าว + เต้าหู้ผัดผักน้ำมันน้อย\n\nเลือกแบบที่ชอบได้เลยครับ แต่ละตัวเลือกมีผัก โปรตีน และข้าว\n\nถ้ามีอาหารที่แพ้ บอกฉันก่อนเลือกเมนูนะครับ",
+        "details": [
+          "ยังไม่มีบันทึกอาหารวันที่ 2026-10-13 จึงยังไม่ได้เทียบกับมื้อก่อนหน้า",
+          "ยังไม่ทราบอายุ จึงไม่กำหนดปริมาณหรือเป้าหมายพลังงานเฉพาะบุคคล"
+        ],
+        "engine": "local_ai_validated_selection",
+        "actions": [
+          {
+            "type": "navigate",
+            "page": "profile",
+            "label": "ปรับข้อมูลเพื่อเลือกเมนู"
+          }
+        ]
+      }
+    },
+    {
+      "case": "other_account_cannot_confirm",
+      "passed": true
+    },
+    {
+      "case": "composite_energy",
+      "kcal": [
+        432.9,
+        432.9
+      ]
+    },
+    {
+      "case": "anonymous_denied_and_no_health_writes",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"output": "{\"intent\":\"usage_help\"}", "metrics": {"load_seconds": 1.5480134999961592, "generation_seconds": 1.5457985410175752, "peak_memory_gb": 3.118137712, "model_task": "intent", "adapter": "finetune-v2-selected"}}

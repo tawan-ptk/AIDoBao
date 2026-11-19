@@ -1,0 +1,48 @@
+{
+  "label": "SOFTWARE TEST ONLY; not clinical validation",
+  "cases": [
+    {
+      "case": "persistent owner session",
+      "result": "pass"
+    },
+    {
+      "case": "all seven domains, seven days, atomic confirmation",
+      "result": "pass"
+    },
+    {
+      "case": "new constraints recheck and before-after",
+      "result": "pass"
+    },
+    {
+      "case": "stale proposal rejection",
+      "result": "pass"
+    },
+    {
+      "case": "Thai query retrieval and unsupported-query abstention",
+      "result": "pass"
+    },
+    {
+      "case": "export and owner-scoped delete",
+      "result": "pass"
+    },
+    {
+      "case": "notebook schema valid; no fabricated outputs",
+      "result": "pass"
+    },
+    {
+      "case": "frontend JavaScript syntax",
+      "result": "pass"
+    }
+  ],
+  "migration": {
+    "sql_statement_count": 144,
+    "syntax": "parsed",
+    "sha256": "06a4dec63bd3545ddc7907b8c2ac2898e9fa175ef6e2e8f39ca4645865c37032",
+    "executed_on_postgres": false,
+    "rls_runtime_tested": false
+  },
+  "visual_ui_test": {
+    "status": "blocked",
+    "reason": "No available browser connector; native Computer Use permissions not granted"
+  }
+}

@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.secrets/
+dist/
+data/raw/
+data/prepared/
+data/local*
+models/
+adapters/
+logs/
+.cache/
+node_modules/
+*.sqlite*
+
+# never commit secrets or deployment links
+.env*
+!.env.example
+.vercel/
+*.rar
+reports/thaifcd-links.json
+reports/thaifcd.txt

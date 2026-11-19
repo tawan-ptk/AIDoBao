@@ -1,0 +1,633 @@
+{
+  "label": "SOFTWARE LIVE REGRESSION ONLY; actual local menu model path, no clinical accuracy claim",
+  "checks": [
+    {
+      "question": "กินข้าวกับอะไรดี",
+      "result": {
+        "status": "meal_ideas",
+        "route": "personalized_menu",
+        "mode": "read_only",
+        "citations": [
+          {
+            "publisher": "NIDDK",
+            "heading": "Healthy Living with Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+            "location": "Choose healthy foods / Plate method",
+            "accessed_at": "2026-10-12",
+            "text": "หลักฐานใช้การเลือกอาหารให้หลากหลายและจัดสัดส่วนผัก แหล่งคาร์โบไฮเดรต และโปรตีน โดยปรับร่วมกับทีมรักษา ไม่ใช้ค่าพลังงานจานอ้างอิงเป็นเป้าหมายเฉพาะบุคคล",
+            "content_type": "editorial_summary"
+          }
+        ],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้กินอะไรไปบ้าง",
+          "เปิดโปรไฟล์",
+          "จัดตารางของฉัน"
+        ],
+        "context": {
+          "profile": {
+            "age": null,
+            "weight_kg": null,
+            "height_cm": null,
+            "conditions": [],
+            "medications": [],
+            "timezone": "Asia/Bangkok",
+            "reported_type2": null,
+            "complex_care": false,
+            "pregnant": false,
+            "goals": [],
+            "allergies": null,
+            "preferences": [],
+            "mobility_limits": [],
+            "prohibited_catalog_ids": []
+          },
+          "source_record_ids": {},
+          "flags": [
+            "age_unknown"
+          ],
+          "bmi": null,
+          "bmi_label": null,
+          "daily_calorie_target": null,
+          "clinical_review": "not_reviewed"
+        },
+        "meal_references": [],
+        "menus": [
+          {
+            "id": "chicken_veg_rice",
+            "name": "ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ไก่",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ไก่"
+            ],
+            "tags": [
+              "ต้ม",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "แยกน้ำจิ้ม เลือกผักที่กินได้",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "fish_veg_rice",
+            "name": "ข้าว + ปลานึ่ง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ปลา",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ปลา"
+            ],
+            "tags": [
+              "นึ่ง",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ตรวจชนิดปลาและเครื่องปรุงก่อนกิน",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "tofu_veg_rice",
+            "name": "ข้าว + เต้าหู้ผัดผักน้ำมันน้อย",
+            "ingredients": [
+              "ข้าว",
+              "ถั่วเหลือง",
+              "ผัก",
+              "น้ำมัน",
+              "เกลือ"
+            ],
+            "contains": [
+              "ถั่วเหลือง"
+            ],
+            "tags": [
+              "มังสวิรัติ",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ใช้เต้าหู้ถั่วเหลืองและไม่เติมซอสที่ไม่ทราบส่วนผสม",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          }
+        ],
+        "clinical_review": "not_reviewed",
+        "used_record_ids": [],
+        "question_constraints": {
+          "allergies": [],
+          "stored": false
+        },
+        "care_context": [],
+        "meals_stated_in_question": [],
+        "answer": "ลองเลือกหนึ่งอย่างจากนี้ได้ครับ:\n• ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม\n• ข้าว + ปลานึ่ง + ผักต้ม\n• ข้าว + เต้าหู้ผัดผักน้ำมันน้อย\n\nเลือกแบบที่ชอบได้เลยครับ แต่ละตัวเลือกมีผัก โปรตีน และข้าว\n\nถ้ามีอาหารที่แพ้ บอกฉันก่อนเลือกเมนูนะครับ",
+        "details": [
+          "ยังไม่มีบันทึกอาหารวันที่ 2026-10-13 จึงยังไม่ได้เทียบกับมื้อก่อนหน้า",
+          "ยังไม่ทราบอายุ จึงไม่กำหนดปริมาณหรือเป้าหมายพลังงานเฉพาะบุคคล"
+        ],
+        "engine": "local_ai_validated_selection",
+        "actions": [
+          {
+            "type": "navigate",
+            "page": "profile",
+            "label": "ปรับข้อมูลเพื่อเลือกเมนู"
+          }
+        ]
+      }
+    },
+    {
+      "question": "ข้าวกับอะไรดี",
+      "result": {
+        "status": "meal_ideas",
+        "route": "personalized_menu",
+        "mode": "read_only",
+        "citations": [
+          {
+            "publisher": "NIDDK",
+            "heading": "Healthy Living with Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+            "location": "Choose healthy foods / Plate method",
+            "accessed_at": "2026-10-12",
+            "text": "หลักฐานใช้การเลือกอาหารให้หลากหลายและจัดสัดส่วนผัก แหล่งคาร์โบไฮเดรต และโปรตีน โดยปรับร่วมกับทีมรักษา ไม่ใช้ค่าพลังงานจานอ้างอิงเป็นเป้าหมายเฉพาะบุคคล",
+            "content_type": "editorial_summary"
+          }
+        ],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้กินอะไรไปบ้าง",
+          "เปิดโปรไฟล์",
+          "จัดตารางของฉัน"
+        ],
+        "context": {
+          "profile": {
+            "age": null,
+            "weight_kg": null,
+            "height_cm": null,
+            "conditions": [],
+            "medications": [],
+            "timezone": "Asia/Bangkok",
+            "reported_type2": null,
+            "complex_care": false,
+            "pregnant": false,
+            "goals": [],
+            "allergies": null,
+            "preferences": [],
+            "mobility_limits": [],
+            "prohibited_catalog_ids": []
+          },
+          "source_record_ids": {},
+          "flags": [
+            "age_unknown"
+          ],
+          "bmi": null,
+          "bmi_label": null,
+          "daily_calorie_target": null,
+          "clinical_review": "not_reviewed"
+        },
+        "meal_references": [],
+        "menus": [
+          {
+            "id": "chicken_veg_rice",
+            "name": "ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ไก่",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ไก่"
+            ],
+            "tags": [
+              "ต้ม",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "แยกน้ำจิ้ม เลือกผักที่กินได้",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "fish_veg_rice",
+            "name": "ข้าว + ปลานึ่ง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ปลา",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ปลา"
+            ],
+            "tags": [
+              "นึ่ง",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ตรวจชนิดปลาและเครื่องปรุงก่อนกิน",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "tofu_veg_rice",
+            "name": "ข้าว + เต้าหู้ผัดผักน้ำมันน้อย",
+            "ingredients": [
+              "ข้าว",
+              "ถั่วเหลือง",
+              "ผัก",
+              "น้ำมัน",
+              "เกลือ"
+            ],
+            "contains": [
+              "ถั่วเหลือง"
+            ],
+            "tags": [
+              "มังสวิรัติ",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ใช้เต้าหู้ถั่วเหลืองและไม่เติมซอสที่ไม่ทราบส่วนผสม",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          }
+        ],
+        "clinical_review": "not_reviewed",
+        "used_record_ids": [],
+        "question_constraints": {
+          "allergies": [],
+          "stored": false
+        },
+        "care_context": [],
+        "meals_stated_in_question": [],
+        "answer": "ลองเลือกหนึ่งอย่างจากนี้ได้ครับ:\n• ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม\n• ข้าว + ปลานึ่ง + ผักต้ม\n• ข้าว + เต้าหู้ผัดผักน้ำมันน้อย\n\nเลือกแบบที่ชอบได้เลยครับ แต่ละตัวเลือกมีผัก โปรตีน และข้าว\n\nถ้ามีอาหารที่แพ้ บอกฉันก่อนเลือกเมนูนะครับ",
+        "details": [
+          "ยังไม่มีบันทึกอาหารวันที่ 2026-10-13 จึงยังไม่ได้เทียบกับมื้อก่อนหน้า",
+          "ยังไม่ทราบอายุ จึงไม่กำหนดปริมาณหรือเป้าหมายพลังงานเฉพาะบุคคล"
+        ],
+        "engine": "local_ai_validated_selection",
+        "actions": [
+          {
+            "type": "navigate",
+            "page": "profile",
+            "label": "ปรับข้อมูลเพื่อเลือกเมนู"
+          }
+        ]
+      }
+    },
+    {
+      "question": "วันนี้กินข้าวกับอะไรดี",
+      "result": {
+        "status": "meal_ideas",
+        "route": "personalized_menu",
+        "mode": "read_only",
+        "citations": [
+          {
+            "publisher": "NIDDK",
+            "heading": "Healthy Living with Diabetes",
+            "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+            "location": "Choose healthy foods / Plate method",
+            "accessed_at": "2026-10-12",
+            "text": "หลักฐานใช้การเลือกอาหารให้หลากหลายและจัดสัดส่วนผัก แหล่งคาร์โบไฮเดรต และโปรตีน โดยปรับร่วมกับทีมรักษา ไม่ใช้ค่าพลังงานจานอ้างอิงเป็นเป้าหมายเฉพาะบุคคล",
+            "content_type": "editorial_summary"
+          }
+        ],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้กินอะไรไปบ้าง",
+          "เปิดโปรไฟล์",
+          "จัดตารางของฉัน"
+        ],
+        "context": {
+          "profile": {
+            "age": null,
+            "weight_kg": null,
+            "height_cm": null,
+            "conditions": [],
+            "medications": [],
+            "timezone": "Asia/Bangkok",
+            "reported_type2": null,
+            "complex_care": false,
+            "pregnant": false,
+            "goals": [],
+            "allergies": null,
+            "preferences": [],
+            "mobility_limits": [],
+            "prohibited_catalog_ids": []
+          },
+          "source_record_ids": {},
+          "flags": [
+            "age_unknown"
+          ],
+          "bmi": null,
+          "bmi_label": null,
+          "daily_calorie_target": null,
+          "clinical_review": "not_reviewed"
+        },
+        "meal_references": [],
+        "menus": [
+          {
+            "id": "chicken_veg_rice",
+            "name": "ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ไก่",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ไก่"
+            ],
+            "tags": [
+              "ต้ม",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "แยกน้ำจิ้ม เลือกผักที่กินได้",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "fish_veg_rice",
+            "name": "ข้าว + ปลานึ่ง + ผักต้ม",
+            "ingredients": [
+              "ข้าว",
+              "ปลา",
+              "ผัก",
+              "เกลือ"
+            ],
+            "contains": [
+              "ปลา"
+            ],
+            "tags": [
+              "นึ่ง",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ตรวจชนิดปลาและเครื่องปรุงก่อนกิน",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          },
+          {
+            "id": "tofu_veg_rice",
+            "name": "ข้าว + เต้าหู้ผัดผักน้ำมันน้อย",
+            "ingredients": [
+              "ข้าว",
+              "ถั่วเหลือง",
+              "ผัก",
+              "น้ำมัน",
+              "เกลือ"
+            ],
+            "contains": [
+              "ถั่วเหลือง"
+            ],
+            "tags": [
+              "มังสวิรัติ",
+              "โปรตีน",
+              "ผัก"
+            ],
+            "note": "ใช้เต้าหู้ถั่วเหลืองและไม่เติมซอสที่ไม่ทราบส่วนผสม",
+            "kcal": null,
+            "kcal_note": "ยังไม่มีสูตรและปริมาณที่ยืนยัน จึงไม่ใส่แคลอรีของมื้อนี้",
+            "allergen_status": "requires_ingredient_check",
+            "source_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+          }
+        ],
+        "clinical_review": "not_reviewed",
+        "used_record_ids": [],
+        "question_constraints": {
+          "allergies": [],
+          "stored": false
+        },
+        "care_context": [],
+        "meals_stated_in_question": [],
+        "answer": "ลองเลือกหนึ่งอย่างจากนี้ได้ครับ:\n• ข้าว + ไก่ต้มไม่ติดหนัง + ผักต้ม\n• ข้าว + ปลานึ่ง + ผักต้ม\n• ข้าว + เต้าหู้ผัดผักน้ำมันน้อย\n\nเลือกแบบที่ชอบได้เลยครับ แต่ละตัวเลือกมีผัก โปรตีน และข้าว\n\nถ้ามีอาหารที่แพ้ บอกฉันก่อนเลือกเมนูนะครับ",
+        "details": [
+          "ยังไม่มีบันทึกอาหารวันที่ 2026-10-13 จึงยังไม่ได้เทียบกับมื้อก่อนหน้า",
+          "ยังไม่ทราบอายุ จึงไม่กำหนดปริมาณหรือเป้าหมายพลังงานเฉพาะบุคคล"
+        ],
+        "engine": "local_ai_validated_selection",
+        "actions": [
+          {
+            "type": "navigate",
+            "page": "profile",
+            "label": "ปรับข้อมูลเพื่อเลือกเมนู"
+          }
+        ]
+      }
+    },
+    {
+      "question": "วันนี้กินอะไรไปบ้าง",
+      "result": {
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "วันนี้ทำอะไรไปบ้าง",
+          "ค่าตรวจล่าสุดของฉัน",
+          "วันนี้ออกกำลังกายกี่นาที"
+        ],
+        "mode": "read_only",
+        "clinical_review": "not_reviewed",
+        "route": "my_data",
+        "status": "no_records",
+        "answer": "ยังไม่พบบันทึก อาหาร วันที่ 2026-10-13 ครับ คุณเพิ่มข้อมูลได้ที่หน้า “บันทึกวันนี้” แล้วกลับมาถามได้เลย"
+      }
+    },
+    {
+      "question": "กินข้าวกับไข่พะโล้",
+      "result": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 1 รายการครับ\n• ข้าว กับ ไข่พะโล้ · ประมาณ 432.9 kcal · รวมในมื้อนี้ (ใช้ปริมาณอ้างอิง แก้ได้)\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าว กับ ไข่พะโล้",
+                "data": {
+                  "name": "ข้าว กับ ไข่พะโล้",
+                  "food_state": "unknown",
+                  "components": [
+                    {
+                      "name": "ข้าว",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    },
+                    {
+                      "name": "ไข่พะโล้",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    }
+                  ]
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-13",
+                  "timezone": "Asia/Bangkok",
+                  "period": "unspecified",
+                  "clock": null,
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-13T00:00:40.615078+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 1 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "กินข้าวกับไข่พะโล้",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": []
+      }
+    },
+    {
+      "question": "ข้าวกับไข่พะโล้",
+      "result": {
+        "status": "agent_proposal",
+        "route": "website_assistant",
+        "mode": "proposal_only",
+        "answer": "แยกได้ 1 รายการครับ\n• ข้าว กับ ไข่พะโล้ · ประมาณ 432.9 kcal · รวมในมื้อนี้ (ใช้ปริมาณอ้างอิง แก้ได้)\n\nตรวจชื่อและเวลา แล้วกดยืนยันเพื่อบันทึกได้เลยครับ",
+        "actions": [
+          {
+            "type": "records",
+            "records": [
+              {
+                "kind": "meal",
+                "text": "ข้าว กับ ไข่พะโล้",
+                "data": {
+                  "name": "ข้าว กับ ไข่พะโล้",
+                  "food_state": "unknown",
+                  "components": [
+                    {
+                      "name": "ข้าว",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    },
+                    {
+                      "name": "ไข่พะโล้",
+                      "quantity": null,
+                      "unit": null,
+                      "food_state": "unknown"
+                    }
+                  ]
+                },
+                "origin": "self_report",
+                "source": "ผู้ใช้ตรวจชื่อรายการและข้อมูลแยกช่อง; ไม่เก็บข้อความเล่ายาว",
+                "evidence": {},
+                "previous_id": null,
+                "journal": {
+                  "date": "2026-10-13",
+                  "timezone": "Asia/Bangkok",
+                  "period": "unspecified",
+                  "clock": null,
+                  "date_source": "capture_date",
+                  "captured_at": "2026-10-13T00:00:40.622501+07:00",
+                  "context_text": ""
+                }
+              }
+            ],
+            "compact": true,
+            "label": "ตรวจและบันทึก 1 รายการ"
+          },
+          {
+            "type": "journal",
+            "text": "ข้าวกับไข่พะโล้",
+            "label": "แก้ชื่อหรือเวลา"
+          }
+        ],
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "แนะนำเมนูมื้อเย็น",
+          "วันนี้ทำอะไรไปบ้าง",
+          "เปิดโปรไฟล์"
+        ],
+        "clinical_review": "not_reviewed",
+        "details": []
+      }
+    },
+    {
+      "question": "ดอกไม้คืออะไร",
+      "result": {
+        "route": "out_of_scope",
+        "status": "out_of_scope",
+        "mode": "read_only",
+        "answer": "คำถามนี้อยู่นอกเรื่องสุขภาพครับ ฉันช่วยเรื่องสุขภาพ เบาหวาน และบันทึกของคุณได้ ลองถามในเรื่องเหล่านี้นะครับ",
+        "citations": [],
+        "record_sources": [],
+        "suggestions": [
+          "เป็นเบาหวานควรกินอะไร",
+          "วันนี้กินอะไรไปบ้าง"
+        ],
+        "clinical_review": "not_reviewed"
+      }
+    },
+    {
+      "journal_question": {
+        "items": [],
+        "unparsed": [
+          {
+            "text": "กินข้าวกับอะไรดี",
+            "reason": "เป็นคำถามหรือคำขอคำแนะนำ จึงยังไม่สร้างบันทึก",
+            "source_index": 0,
+            "journal": {
+              "date": "2026-10-13",
+              "timezone": "Asia/Bangkok",
+              "period": "unspecified",
+              "clock": null,
+              "date_source": "capture_date",
+              "captured_at": "2026-10-13T00:00:40.641570+07:00"
+            }
+          }
+        ],
+        "captured_at": "2026-10-13T00:00:40.641570+07:00",
+        "default_date": "2026-10-13",
+        "timezone": "Asia/Bangkok",
+        "engine": "rules",
+        "requires_confirmation": true
+      }
+    }
+  ],
+  "no_health_records_written": true
+}

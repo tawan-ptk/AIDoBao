@@ -1,0 +1,173 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/ml-explore/mlx-lm/main/mlx_lm/LORA.md",
+    "file": "data/raw/mlx-LORA.md",
+    "sha256": "305fec69ccbde4c5b8f2c752ab889258bfa7192f2ec7e2b767ad641c57021852",
+    "bytes": 13741,
+    "accessed_at": "2026-10-11T03:07:41.355785+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ml-explore/mlx-lm/main/README.md",
+    "file": "data/raw/mlx-README.md",
+    "sha256": "fc4dc67d70ca364ef8c2f94e84d170072d3c5f4fdfd2aa7a7be7a38a6b3d0008",
+    "bytes": 8569,
+    "accessed_at": "2026-10-11T03:07:41.625114+00:00"
+  },
+  {
+    "url": "https://huggingface.co/api/models/typhoon-ai/typhoon2.5-qwen3-4b",
+    "file": "data/raw/model-api.json",
+    "sha256": "da26b2c4aa399385eae4b8671462b58c145ecd3b06a8b999841b81ce658c9480",
+    "bytes": 4809,
+    "accessed_at": "2026-10-11T03:07:41.999059+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/abachaa/MedQuAD/commits/master",
+    "file": "data/raw/medquad-api.json",
+    "sha256": "e10975fc3183c25f5114b788b1ef2d10f4a8f07999319989607f314c2e47f687",
+    "bytes": 21174,
+    "accessed_at": "2026-10-11T03:07:42.589299+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/uccollab/hai-coaching/commits/main",
+    "file": "data/raw/hai-api.json",
+    "sha256": "a6a84304795de34d803c33be483c6ad0d7a0c100e19b23869d11819b3d4069a9",
+    "bytes": 4943,
+    "accessed_at": "2026-10-11T03:07:43.094193+00:00"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/8246780",
+    "file": "data/raw/figshare-data.json",
+    "sha256": "ffb153db7628947e0c08c5323497e3c65aecd49e7c905f9c540211a743b34378",
+    "bytes": 3102,
+    "accessed_at": "2026-10-11T03:07:44.032474+00:00"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/8298689",
+    "file": "data/raw/figshare-questionnaire.json",
+    "sha256": "3d1af9e49e6b5ef3067b56a6a9bd5dd31b70b05a7e03da4c9ae60bd35561c306",
+    "bytes": 3208,
+    "accessed_at": "2026-10-11T03:07:44.914222+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/6325536",
+    "file": "data/raw/zenodo.json",
+    "sha256": "ec6981c71c7fa13ecf8d5541826e861791672d209e0a5c2082bf125388d030c3",
+    "bytes": 3958,
+    "accessed_at": "2026-10-11T03:07:48.987610+00:00"
+  },
+  {
+    "url": "https://f1000research.com/articles/8-1030/v3",
+    "file": "data/raw/f1000.html",
+    "sha256": "e27099eddfed7387533a7495e8bb4aab355afc72c36d468b144ac25a2595f94b",
+    "bytes": 481382,
+    "accessed_at": "2026-10-11T03:07:53.233391+00:00"
+  },
+  {
+    "url": "https://inmu.mahidol.ac.th/thaifcd/home",
+    "file": "data/raw/thaifcd.html",
+    "sha256": "57ca56ab5c6e40b0b95cb7878380f5f4cc5c9dc84cc77c6ba639ed933c71b57c",
+    "bytes": 32833,
+    "accessed_at": "2026-10-11T03:07:55.234884+00:00"
+  },
+  {
+    "url": "https://opendata.hsri.or.th/dataset/nhes7-summary",
+    "file": "data/raw/nhes.html",
+    "sha256": "683a12c3f2faf0526374059757e7ce41bd40717738591505519a07d8b4915e3b",
+    "bytes": 50288,
+    "accessed_at": "2026-10-11T03:07:56.295207+00:00"
+  },
+  {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+    "file": "data/raw/niddk.html",
+    "sha256": "6eef6f2dc8b3de70dbcb9c9695854fbc75201c5b506bd466102e0cb48484e8a0",
+    "bytes": 71867,
+    "accessed_at": "2026-10-11T03:07:57.416656+00:00"
+  },
+  {
+    "url": "https://www.niddk.nih.gov/about-niddk/research-areas/digestive-diseases/weight-control-information-network/copyright",
+    "file": "niddk-copyright.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "file": "data/raw/who-activity.html",
+    "sha256": "e2f3e5b7edaea79dcce40c06b55608304e855f493721f140c2c2c72be5065a21",
+    "bytes": 114077,
+    "accessed_at": "2026-10-11T03:07:58.888222+00:00"
+  },
+  {
+    "url": "https://www.cdc.gov/sleep/about/index.html",
+    "file": "cdc-sleep.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://dmthai.org/new/index.php/activities-and-news/news-pr/naewthang-wech-ptibati-sahrab-rokh-bea-hwan-2566-chbab-prabprung-kph-67",
+    "file": "data/raw/dmthai.html",
+    "sha256": "6062f369a3b705604fbdff3ec6a05dc72646b30cb283e4479624e1b289305fb9",
+    "bytes": 44558,
+    "accessed_at": "2026-10-11T03:07:59.859571+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abachaa/MedQuAD/577bd37b96c02d1833b2c9eed2de9f96964e96cb/LICENSE.txt",
+    "file": "data/raw/medquad-LICENSE.txt",
+    "sha256": "5b63c5abb5f4218f79230730b3733ce681383e2d656044069b8c73cbdb8e7fb7",
+    "bytes": 16391,
+    "accessed_at": "2026-10-11T03:08:00.504917+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/abachaa/MedQuAD/tarball/577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+    "file": "data/raw/medquad.tar.gz",
+    "sha256": "9863eb7ed83bcebb5c712f686ae10440c06c8e640016352ce2e3cc7cdb776195",
+    "bytes": 7292431,
+    "accessed_at": "2026-10-11T03:08:02.574990+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/uccollab/hai-coaching/96fdef068523ac0f1143da3737afc32ab93f0426/README.md",
+    "file": "data/raw/hai-README.md",
+    "sha256": "a4e2ec203f9030840d0fe7bad162a694db8159802c145c449674a470ba679ea1",
+    "bytes": 6296,
+    "accessed_at": "2026-10-11T03:08:02.913467+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/uccollab/hai-coaching/96fdef068523ac0f1143da3737afc32ab93f0426/LICENSE",
+    "file": "data/raw/hai-LICENSE",
+    "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+    "bytes": 26526,
+    "accessed_at": "2026-10-11T03:08:03.298151+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/15616055",
+    "file": "data/raw/figshare-data-Diabete-dataset.sav",
+    "sha256": "4297f74a28294c629abecca87c0c60656b7529b818609c909acf3f4da41aa98c",
+    "bytes": 206407,
+    "accessed_at": "2026-10-11T03:08:05.448465+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/15616058",
+    "file": "data/raw/figshare-data-Data Dictionary.docx",
+    "sha256": "fccc94ebe4ca8fa25357ee6cfae9f15346fbea12a7ad4d4f094f75c037575713",
+    "bytes": 16718,
+    "accessed_at": "2026-10-11T03:08:06.714268+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/15549287",
+    "file": "data/raw/figshare-questionnaire-Questionnaire-English.docx",
+    "sha256": "6b157850fb859a438ec65796fc2c0c6f6912da341133cbcd960cf11c1ae8ad52",
+    "bytes": 47114,
+    "accessed_at": "2026-10-11T03:08:08.252034+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/15549290",
+    "file": "data/raw/figshare-questionnaire-questionnaire-Thai.docx",
+    "sha256": "8b612bc86a8798963e72b955fae03684d3ffed3752e89b0781b65eb13370f162",
+    "bytes": 50049,
+    "accessed_at": "2026-10-11T03:08:09.711760+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/6325536/files/Final_Health%20literacy%20among%20type%202%20diabetes%20patients%20in%20primary%20care%20units,%20Thailand.xlsx/content",
+    "file": "data/raw/zenodo-Final_Health literacy among type 2 diabetes patients in primary care units, Thailand.xlsx",
+    "sha256": "29d66070635345c9f4d5cc8ccc41bd596e873aed67489fc40f188b79a592f9ed",
+    "bytes": 120278,
+    "accessed_at": "2026-10-11T03:08:11.157896+00:00"
+  }
+]

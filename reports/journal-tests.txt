@@ -1,0 +1,7 @@
+SOFTWARE TEST ONLY; no clinical or real-user accuracy estimate
+.venv/bin/python -m pytest -q
+37 passed in 0.32s
+npm test
+5 tests passed (including real HTML/scripts in jsdom); 0 failed
+Thai rules smoke cases: 13/13 matched expected categories. Two additional unknown-span classifications tested with actual Typhoon; see journal-software-check.json.
+Visual browser QA remains untested.

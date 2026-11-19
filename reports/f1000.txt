@@ -1,0 +1,3236 @@
+Comparison of sleep and health behaviours among... | F1000Research
+Home
+Browse
+Comparison of sleep and health behaviours among people with diabetes...
+ALL Metrics
+-
+Views
+Downloads
+Get PDF
+Get XML
+Cite
+How to cite this article
+Juntarawijit C and Juntarawijit Y. Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.12688/f1000research.19678.3
+)
+NOTE:
+If applicable, it is important to ensure the information in square brackets after the title is included in all citations of this article.
+Close
+Copy Citation Details
+Export
+Export Citation
+Sciwheel
+EndNote
+Ref. Manager
+Bibtex
+ProCite
+Sente
+EXPORT
+Select a format first
+Track
+Share
+▬
+✚
+Research Article
+Revised
+Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study
+[version 3; peer review: 1 approved, 1 approved with reservations]
+Chudchawal Juntarawijit
+https://orcid.org/0000-0003-0321-5325
+1
+,
+Yuwayong Juntarawijit
+2
+Chudchawal Juntarawijit
+https://orcid.org/0000-0003-0321-5325
+1
+,
+Yuwayong Juntarawijit
+2
+PUBLISHED 02 Nov 2022
+Author details
+Author details
+1
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+2
+Faculty of Nursing, Naresuan University, Phitsanulok, 65000, Thailand
+Chudchawal Juntarawijit
+Roles:
+Conceptualization, Formal Analysis, Funding Acquisition, Investigation, Methodology, Project Administration, Writing – Original Draft Preparation
+Yuwayong Juntarawijit
+Roles:
+Conceptualization, Formal Analysis, Investigation, Methodology, Writing – Original Draft Preparation, Writing – Review & Editing
+OPEN PEER REVIEW
+DETAILS
+REVIEWER STATUS
+Abstract
+Background:
+Type 2 diabetes mellitus (T2DM) is a global public health problem. To avoid disease complications, people with diabetes have to control their blood glucose and maintain a healthy lifestyle including a healthy diet, weight control, moderate exercise, and smoking cessation.
+Methods:
+This study aimed to survey sleep, eating, and exercise behaviours of people with diabetes in the Bang Rakam district, a rural community in Phitsanulok province, Thailand. The data on sleep and other health behaviours were taken from 1,385 T2DM patients and 1,394 non-T2DM controls, who were aged 30 - 85 years and were free from other chronic diseases. The data were collected using a structured questionnaire.
+Results:
+Compared to the control group, the people with diabetes had a significantly higher body mass index (BMI).  However, only a few of them smoke cigarettes and drink alcohol. Most of the participants were ‘morning people’ who slept 7-9 hours per day. It was found that sleep ≥8 hours increased the risk of diabetes among women (OR = 1.27, 95% CI 1.03 - 1.56). The people with diabetes also reported eating chicken and vegetables more than the control group. They also avoided eating beef and eating more than a cup of rice per meal. However, the T2DM group did fewer physical activities, such as walking, biking, or playing sports, during their leisure time.
+Conclusions:
+Most people with diabetes (T2DM) in a rural community of Thailand had healthy behaviours regarding sleep duration, sleep pattern, lifestyle, eating, smoking and alcohol consumption, except exercise and physical activity. The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes should always include physical activity as an integral part.
+READ ALL
+READ LESS
+Keywords
+Diabetes mellitus, Diabetic care, Health behavior, Sleep duration, Sleep deprivation
+Corresponding Author(s)
+Chudchawal Juntarawijit (
+[email protected]
+)
+Close
+Corresponding author:
+Chudchawal Juntarawijit
+Competing interests:
+No competing interests were disclosed.
+Grant information:
+This study was supported by Naresuan University [R2560C031].
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Copyright:
+© 2022 Juntarawijit C and Juntarawijit Y. This is an open access article distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+How to cite:
+Juntarawijit C and Juntarawijit Y. Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.12688/f1000research.19678.3
+)
+First published:
+09 Jul 2019,
+8
+:1030 (
+https://doi.org/10.12688/f1000research.19678.1
+)
+Latest published:
+02 Nov 2022,
+8
+:1030 (
+https://doi.org/10.12688/f1000research.19678.3
+)
+Revised
+Amendments from Version 2
+In the introduction, more information on various issues have been added, including 1) eating and diabetes, 2) the association between sleep, eating, and exercise, and 3) diabetes in Thailand. In Methods, information on validation of questionnaires have been added. The discussion and conclusion section has been revised to improve clarity. Some information that seemed to duplicate the results was deleted. The title was revised also.
+In the introduction, more information on various issues have been added, including 1) eating and diabetes, 2) the association between sleep, eating, and exercise, and 3) diabetes in Thailand. In Methods, information on validation of questionnaires have been added. The discussion and conclusion section has been revised to improve clarity. Some information that seemed to duplicate the results was deleted. The title was revised also.
+See the authors' detailed response to the review by Ahmad Alkhatib
+READ REVIEWER RESPONSES
+Introduction
+Type 2 diabetes mellitus (T2DM) is a global public health problem. It has been estimated that by the year 2030, there will be 439 million people with T2DM (
+Olokoba
+et al
+., 2012
+). The well-established risk factors for this disease are genetic factors, eating behaviours and exercise (
+Zheng
+et al
+., 2018
+). Eating behaviours and food choices can directly affect the glucose levels in the blood. People who eat a diet high in fat, calories, and cholesterol are at risk of obesity and diabetes (
+Nieto-Martínez
+et al.
+, 2017
+). However, food choices depend not only on behaviour but also on socio-economic status. Research found that low-income people often experience the problem of food insecurity, and are unable to access sufficient, safe, and nutritious food (
+Gucciardi
+et al.
+, 2014
+). Exercise plays an important role for helping to control diabetes, by not only improving body fitness, it also improves blood glucose levels and increases insulin sensitivity (
+Colberg
+et al.
+, 2016
+). Recent studies also related T2DM to sleep and lifestyle. In a large population study in Korea, it was found that ‘evening people’ (those who go to bed late, being alert and prefer to work at night) had an increased diabetes risk (odds ratio, OR = 1.73, 95% CI 1.01-2.95) compared to ‘morning people’ (those who usually go to bed early and like to work or being active during the day) (
+Yu
+et al
+., 2015
+).
+Sleep, eating, and exercise among T2DM were interrelated. Inadequate dietary habits and physical inactivity increase risk of obese, a well-established risk factor for diabetes. Recent research also found poor sleep to increase obesity by affecting hunger hormones, glucose tolerance, insulin sensitivity, and a hormone controlling body weight (
+Van Cauter & Knutson, 2008
+) (
+Chattu
+et al
+., 2019
+(
+Ip & Mokhlesi, 2007
+). People with sleep deprivation, therefore, eat more carbohydrate-rich food and easily gain weight (
+Nedeltcheva & Scheer, 2014
+) (
+Ip & Mokhlesi, 2007
+). Studies also found that people with diabetes especially those with high BMI often lack physical activity (
+Fagour
+et al
+., 2013
+;
+Hamasaki, 2016
+) because they worry about joint and leg pain or hypoglycaemia (
+Dutton
+et al
+., 2005
+) (
+Brazeau
+et al
+., 2008
+).
+In meta-analysis studies, there a strong U-shaped dose-response association between T2DM and sleep quality and quantity has been observed (
+Cappuccio
+et al
+., 2010
+;
+Lee
+et al
+., 2017
+). Compared to men with seven hours of sleep, the risk of T2DM was about twice among for a short sleeper (under or equal to five or six hours of sleep per night) and three times among for a long sleeper (over eight hours) (
+Heianza
+et al
+. (2014)
+;
+Yaggi
+et al
+., 2006
+) reported a similar result among ≤45 year-olds but not for those ≥60 years of age. In experimental studies, sleep deprivation increased insulin resistance, hunger hormone levels, appetite and food intake but reduced glucose metabolism, leading to obesity, a common predictive factor for diabetes (
+Beccuti & Pannain, 2011
+;
+Reutrakul & Van Cauter, 2018
+).
+On the other hand, the disease itself can interfere with sleep and cause sleep apnoea among people with diabetes (
+Barone & Menna-Barreto, 2011
+;
+Resnick
+et al
+., 2003
+). Poor sleep is often found among people with diabetes as compared to healthy control groups (
+Trento
+et al
+., 2008
+). A study among elderly Iranian women with T2DM found that being a poor sleeper is associated with: being middle-aged (OR = 2.03, 95% CI 1.01-4.08); having a longer duration of diabetes (OR = 1.77, 95% CI 0.98-3.13); and having high cholesterol levels ≥240 mg/dL (OR = 1.99, 95% CI 1.01-3.94) (
+Shamshirgaran
+et al
+., 2017
+). This was consistent with a previous study, which also reported a higher prevalence of sleep disorders (33.7%) among T2DM patients than in a non-T2DM group (8.2%) (
+Sridhar & Madhu, 1994
+). A study in the United States reported that 55% of T2DM patients have poor sleep (
+Luyster & Dunbar-Jacob, 2011
+). Sleep problems among people with diabetes might be caused by the disease itself, which affects neurobehavioral and endocrine functions, or due to complications of the disease, such as peripheral neuropathy, restless legs syndrome, polyuria and associated depression (
+Khandelwal
+et al
+., 2017
+). In an experimental study, sleep restriction (five hours per night) for a week can reduce insulin sensitivity and increase blood glucose; these changes affected kidney function and increased urination, which interfered with sleep (
+Buxton
+et al
+., 2010
+;
+Reutrakul & Van Cauter, 2018
+).
+To avoid disease complications, people with diabetes have to control their blood glucose and maintain a healthy lifestyle through, for example, a healthy diet, weight control, moderate exercise and smoking cessation (
+Stolar, 2010
+;
+Tang
+et al
+., 2008
+). Optimal control of sleep duration and quality was also proposed as an intervention to improve blood glucose levels in patients with T2DM (
+Trento
+et al
+., 2008
+). However, studies about the health behaviours of people with diabetes are surprisingly rare. A population-based survey in Australia reported that there was a minimal change in lifestyle among people after being diagnosed with T2DM. Compared to the healthy control group, the recently diagnosed T2DM group had a minimal weight loss of 1.38 kg (95% CI -1.85 to -0.89), and were more likely to stop smoking (OR of quitting = 2.71, 95% CI 1.59-4.63). However, there was no positive improvement in other lifestyle behaviours such as sitting, walking, moderate to vigorous physical activity (MVPA) and vegetable and fruit consumption (
+Chong
+et al
+., 2017
+).
+Thailand was ranked 7th among Western Pacific countries with the highest number of T2DM with approximately 10% of the population having the disease (
+Tunsuchart
+et al.
+, 2020
+). A nationwide survey revealed that about 64% of the T2DM had poor glycaemic control (HbA1c ≥ 7%). Those factors affected were gender, age, access to health services, type of health insurance, duration of diabetes diagnosis, and other comorbidity diseases, e.g., obesity, and hypertension (
+Sakboonyarat
+et al
+., 2021
+). Bang Rakam, a district with 95,098 people (in the year 2018) in Phitsanulok province, Thailand. The district is located in the lower northern part of Thailand, about 400 km from Bangkok. In 2017, The district of BangRakam, Phitsanulok province has about 4,942 cases (8.9%) of T2DM (
+Polpuak & Chutipanyapron, 2018
+).
+Currently, there is no information on health behaviours, sleep duration, and lifestyle of people with diabetes (T2DM) in Thailand. This study aimed to survey the sleep, eating and exercise behaviours of people with diabetes in a rural community in Phitsanulok province, Thailand. The community was selected based on the number of people with diabetes. The predictive factors of sleep and other health behaviours were also investigated. The results will be useful for local diabetes care programs and comparative studies worldwide.
+Objectives
+1.
+To explore sleep, eating and exercise behaviours among people with diabetes (T2DM) and people without diabetes (non-T2DM).
+2.
+To identify factors that affect sleep and exercise among T2DM group.
+3.
+To determine the association between diabetes and sleep duration.
+Methods
+This study is an analytical cross-sectional design with a comparison group.
+Study data
+This study utilized data from a previous case-control study on diabetes and pesticide exposure (
+Juntarawijit & Juntarawijit, 2018
+). The data on health behaviours were collected from February to May 2016 from people with diabetes (T2DM) and a non-T2DM control group living in Bang Rakam, Phitsanulok.
+Study participants
+The people with diabetes (T2DM) were those who had come to receive follow-up services at seven health promoting hospitals, which were randomly selected, using random number tables, from all 21 local hospitals in the target area. All people with diabetes who met the inclusion criteria were approached at their home by village health volunteers to take part in the study. In this study, the T2DM group was limited to those aged 30–85 years and free from other chronic diseases, such as heart disease, allergies, chronic pulmonary disease, and cancer. For each T2DM case, one healthy control (non-T2DM) who was free from diabetes and met the same inclusion criteria as the case was also approached by the same health volunteer based on the convenience sampling method. The control group were neighbours of the people with diabetes matched for gender and age (± five years.).
+Study questionnaire
+In addition to demographic information, data on sleep duration and other health behaviours were collected using an interviewer-administered questionnaire during a face-to-face interview, which was written in the Thai language (
+Juntarawijit, 2019b
+). Before use, the questionnaire was tested for question sequencing and understanding. An interview took place at the home of each participant. The participants’ self-reported sleep duration was collected using the question “How many hours do you usually sleep per night?”. Participants were classified as ‘current smoker’ if they had smoked 100 cigarettes or more in their lifetime and they currently smoke cigarettes. Those who drank alcohol 2-4 times a week were classified as ‘alcohol use’. Data on food consumption, including consumption of meat, sausage, vegetable, fruit, sweets, rice and sweet soft drinks, were also collected using ‘yes or no’ questions. In this study, a modified Food Frequency Questionnaire (FFQ) was used (
+Barrat
+et al.
+, 2012
+). The questionnaire was tested against a 7-day diet record and found to have high repeatability and good validity score (repeatability for intake was 0.62-0.90 (median 0.81), relative validity was 0.36-0.80 (0.64) (
+Barrat
+et al.
+, 2012
+). Only types of foods found to be related to diabetes and those often found in Thailand were included in the survey. Information on personal lifestyle (whether they are a morning person or an evening person) was collected using the question “What is the lifestyle that best describes you, morning people or evening people: “morning people” refer to those who usually go to bed early and like to work or being active during the day; “evening people” are those who go to bed late, being alert and prefer to work at night?”. Participants were also asked to report how frequently they did certain physical activities (walking, biking, playing sports or sweating excessively from exercise or physical activity but not from hot climate or health problems) and watched television during their leisure time using two categories: absent (never, rarely) and present (sometimes, often, almost always). A modified Baecke Habitual Physical Activity Questionnaire (BHPAQ) was used. The instrument had been adapted, and validated for use as a self-administered and self-evaluating instrument for measuring the physical activity of the past 12 months for many countries in various age groups (
+Florindo & Latorre, 2003
+). Body mass index (BMI) was calculated by dividing body weight (in kg) by height (in meters squared). The height BMI group was those with BMI ≥25.00. For waist to hip ratio (WHR), a high WHR referred to men with WHR ≥0.90 or women with WHR ≥85. For waist circumstance (WC), a high WC referred to men with WC ≥90.0 or women with WC ≥80. All of these measurements were assessed by the health volunteers. Data were collected by 50 village health volunteers who were trained on how to use questionnaires and how to interview study participants.
+Statistical analysis
+Demographic and health behaviours were analysed using descriptive statistics and Chi-square test for comparison of categorical data. To identify predictive factors of sleep duration, logistic regression was performed, adjusted for gender, age (continuous), waist to hip ratio (WHR) and lifestyle (evening person vs morning person). The predictive factors of physical activity were also analysed using ordinal regression, with physical activity categorized as never, rarely, sometimes, often and almost always. All analyses were performed using IBM SPSS statistics (version 19). Confidence intervals of 95% were used to determine significant statistics and all p-values are two two-sided. In this study, listwise or case deletion was used to handling of missing data.
+Ethical statement
+This study was approved by the Ethics Board of Naresuan University (project number 402/59). Written informed consent for an interview and participation in the study was obtained from each of the subjects before the interview process.
+Results
+From a dataset of 2,936, 157 (3.4%) were discarded as they were missing important information, such as age (17 cases) and sleep data (140 cases). In total, data from 2,779 participants (1,385 cases and 1,394 controls), with a 92.6% response rate, were included in data analysis.
+Most of the participants were female (74.4% for T2DM and 72.8% for non-T2DM) with a comparable mean age between the T2DM (61.1 ± 10.0 years) and non-T2DM groups (60.2 ± 9.8 years) (
+Table 1
+) (
+Juntarawijit, 2019a
+). However, the T2DM group had significantly higher obesity indices, with an average BMI of 24.9 ± 4.7 vs. 23.8 ± 4.3 (T2DM to non-T2DM group), waist to hip ratio (WHR) of 0.91 ± 0.14 vs. 0.90 ± 0.11 and waist circumference (WC) of 36.8 ± 11.8 vs. 35.6 ± 11.9. In comparison to the control group, there were more participants in the T2DM group who classified themselves as being in retirement or housewives (41.8% vs. 31.6%) and fewer as being a farmer (32.0% vs. 40.2%). A lower percentage of the T2DM group were current cigarette smokers (10.8% vs. 14.3%) and alcohol users (6.6% vs. 9.7%).
+Table 1. General characteristic and health behaviours of type 2 diabetes mellitus (T2DM) and non-T2DM groups.
+Characteristic
+T2DM
+n (%)
+Non-T2DM
+n (%)
+P-value
+(χ
+2
+test)
+Demographic information
+Gender (n = 2779)
+N = 1394
+N = 1385
+Female
+1030 (74.4)
+1015 (72.8)
+0.37
+Male
+355 (25.6)
+379 (27.2)
+Age
+N = 1385
+N = 1394
+0.11
+30–40
+67 (4.8)
+68 (4.9)
+45–54
+290 (20.9)
+331 (23.7)
+55–64
+523 (37.8)
+542 (38.9)
+65–74
+358 (25.8)
+338 (24.2)
+75–85
+147 (10.6)
+115 (8.2)
+Mean ± SD
+61.1 ± 10.0
+60.2 ± 9.8
+Occupation (n = 2684)
+N = 1333
+N = 1351
+0.01
+*
+Retirement
+557 (41.8)
+427 (31.6)
+Farmer
+426 (32.0)
+543 (40.2)
+Agriculture employee
+203 (15.2)
+260 (19.2)
+Personal business/civil servant
+147 (11.0)
+121 (9.0)
+Obesity indices
+BMI (n = 2675)
+N = 1334
+N = 1341
+<0.01
+*
+≤18.5
+75 (5.6)
+99 (7.4)
+18.6–22.9
+409 (30.7)
+538 (40.1)
+23.0–24.9
+291 (21.8)
+254 (18.9)
+25.0–29.9
+396 (29.7)
+343 (25.6)
+≥30
+163 (12.2)
+107 (8.0)
+Mean ± SD
+24.9 ± 4.7
+23.8 ± 4.3
+WHR (n = 2617)
+N = 1301
+N = 1316
+<0.01
+*
+≤0.80
+86 (6.6)
+125 (9.5)
+0.81–0.85
+110 (8.5)
+142 (10.8)
+0.86–0.90
+357 (27.4)
+384 (29.2)
+0.91–0.95
+515 (39.6)
+484 (36.8)
+0.96–1.00
+182 (14.0)
+149 (11.3)
+≥1.10
+51 (3.9)
+32 (2.4)
+Mean ± SD
+0.92 ± 0.14
+0.90 ± 0.11
+Waist circumference (WC)
+(n = 2753)
+N = 1372
+N = 1381
+0.57
+<80
+1327 (96.7)
+1336 (96.7)
+80–90
+22 (1.6)
+27 (2.0)
+>90
+23 (1.7)
+18 (1.3)
+Mean ± SD
+36.8 ± 11.8
+35.6 ± 11.9
+Lifestyle
+Evening or Morning (n = 2743)
+N = 1361
+N = 1382
+0.49
+Evening person
+94 (6.9)
+86 (6.2)
+Morning person
+1267 (93.1)
+1296 (93.8)
+Smoke a cigarette (n = 2719)
+145 (10.8)
+196 (14.3)
+<0.01
+*
+Alcohol use (n = 2709)
+89 (6.6)
+131 (9.7)
+<0.01
+*
+Food and drink consumption
+Meat type
+Chicken (n = 2175)
+174 (16.8)
+154 (13.5)
+0.03
+*
+Beef (n = 2594)
+445 (34.7)
+532 (40.6)
+<0.01
+*
+Sausage/ball/hotdog (n = 2024)
+104 (10.4)
+93 (9.1)
+0.33
+Vegetable (n = 2756)
+1254 (91.5)
+1233 (89.0)
+0.03
+*
+Fruit (n = 2749)
+870 (63.6)
+852 (61.7)
+0.34
+Sweet (n = 2754)
+558 (40.6)
+532 (38.5)
+0.26
+Rice (n = 2728)
+1349 (99.4)
+1350 (98.5)
+0.23
+Eating rice more than a cup per meal
+(n = 2678)
+499 (37.4)
+572 (42.6)
+<0.01
+*
+Drinking sweet soft drinks (n = 2718)
+625 (46.4)
+694 (50.7)
+0.26
+Activities and exercise
+Physically active, compared with people
+the same age (n = 2642)
+N = 1317
+N = 1325
+<0.01
+*
+Far less
+145 (11.0)
+95 (7.2)
+Less than
+391 (29.7)
+265 (20.0)
+About the same
+576 (43.7)
+649 (49.0)
+More than
+172 (13.1)
+271 (20.5)
+Far more
+33 (2.5)
+45 (3.4)
+Sweating
+**
+(n = 2643)
+N = 1316
+N = 1327
+0.06
+Never
+483 (36.7)
+532 (40.1)
+Rarely
+347 (26.4)
+286 (21.6)
+Sometimes
+349 (26.5)
+370 (27.9)
+Often
+114 (8.7)
+118 (8.9)
+Almost always
+23 (1.7)
+21 (1.6)
+Playing sport (n = 2638)
+N = 1323
+N = 1315
+<0.01
+*
+Never
+469 (35.4)
+413 (31.4)
+Rarely
+390 (29.5)
+335 (25.5)
+Sometimes
+326 (24.6)
+390 (29.7)
+Often
+122 (9.2)
+153 (11.6)
+Almost always
+16 (1.2)
+24 (1.8)
+Walking (n = 2631)
+N = 1312
+N = 1319
+<0.01
+*
+Never
+100 (7.6)
+89 (6.7)
+Rarely
+292 (22.3)
+200 (15.2)
+Sometimes
+375 (28.6)
+356 (27.0)
+Often
+467 (35.6)
+570 (43.2)
+Almost always
+78 (5.9)
+104 (7.9)
+Riding a bicycle (n = 2637)
+N = 1314
+N = 1323
+0.01
+*
+Never
+586 (44.6)
+423 (32.0)
+Rarely
+298 (22.7)
+276 (20.9)
+Sometimes
+202 (15.4)
+270 (20.4)
+Often
+189 (14.4)
+278 (21.0)
+Almost always
+39 (3.0)
+76 (5.7)
+Watching television (n = 2622)
+N = 1308
+N = 1314
+0.03
+*
+Never
+83 (6.3)
+56 (4.3)
+Rarely
+230 (17.6)
+223 (17.0)
+Sometimes
+541 (41.4)
+515 (39.2)
+Often
+377 (28.8)
+442 (33.6)
+Almost always
+77 (5.9)
+78 (5.9)
+* Significant with p <0.05 (two-sided).
+** Sweating refers to an excessive sweat from exercise or physical activity but not from hot climate or health problems.
+Most of the participants (81.9% of T2DM and 82.3% of non-T2DM) slept 7–9 hours per day (
+Table 2
+). However, in comparison to non-T2DM, there was a significantly higher proportion of T2DM whose sleep hours were ≤5 h (short sleeper), and ≥8 h (long sleeper) (
+Table 2
+). Nearly all of the participants (93.1% for T2DM and 93.8% for non-T2DM) classified themselves to be morning people.
+Table 2. The number of sleeping hours per day among type 2 diabetes mellitus (T2DM) and non-T2DM.
+T2DM
+n (%)
+Non-T2DM
+n (%)
+P-value
+(χ
+2
+test)
+Sleeping hours (n = 2779)
+N = 1385
+N = 1394
+0.24
+2
+4 (0.3)
+1 (0.1)
+4
+5 (0.4)
+6 (0.4)
+5
+34 (2.5)
+27 (1.9)
+6
+81 (5.8)
+107 (7.7)
+Subtotal
+124 (9.0)
+141 (10.1)
+7
+246 (17.8)
+276 (19.8)
+8
+574 (41.4)
+568 (40.7)
+9
+314 (22.7)
+304 (21.8)
+Subtotal
+1134 (81.9)
+1148 (82.3)
+10
+106 (7.7)
+90 (6.5)
+11
+16 (1.2)
+9 (0.6)
+12
+5 (0.4)
+6 (0.4)
+Subtotal
+127 (9.3)
+105 (7.5)
+Sleep hour group
+N=1385
+N=1394
+0.05
+*
+≤5 hours
+(3.2)
+34 (2.4)
+6–7 hours
+327 (23.6)
+383 (27.5)
+≥8 hours
+1015 (73.3)
+977 (70.1)
+* Significant with p <0.05 (2-sided).
+Logistic regression analysis found a significant association between diabetes and a sleeping time of ≥8 hours (OR = 1.21, 95% CI 1.02-1.43) after being adjusted for gender and age (
+Table 3
+). This association did not change much after being adjusted for WHR (OR = 1.20, 95% CI 1.00-1.43) and lifestyle (OR = 1.20, 95% CI 1.00-1.44).
+Table 3. Association (odds ratio) between sleep hour and diabetes (N = 2779).
+Model 1
+Model 2
+Model 3
+≤5 hours
+≥8 hours
+≤5 hours
+≥8 hours
+≤5 hours
+≥8 hours
+Diabetes
+a
+1.45 (0.91 - 2.34)
+1.21 (1.02 - 1.43)
+*
+1.45 (0.89 - 2.36)
+1.20 (1.00 - 1.43)
+*
+1.32 (0.79 - 2.21)
+1.20 (1.00 - 1.44)
+*
+Among gender
+b
+Women
+-
+-
+-
+-
+1.21 (0.68 - 2.16)
+1.27 (1.03 - 1.56)
+*
+Men
+-
+-
+-
+-
+1.84 (0.58 - 5.87)
+1.05 (0.74 - 1.49)
+a
+Model1: adjusted for gender and age (continuous).
+Model2: added waist-hip ratio (continuous).
+Model3: added lifestyle (evening person, morning person).
+b
+Adjusted for gender, age, waist-hip ratio and style.
+* Significant with p <0.05 (two-sided).
+Stratified analysis found that a sleeping time of ≥8 hours was associated with women (OR = 1.27, 95% CI 1.03-1.56) and a high WHR (OR = 1.28, 95% CI 1.04-1.59) (
+Table 4
+). A sleeping time of ≤5 hours was significantly associated with a high WC (OR = 3.14, 95% CI 1.13-8.75) and women with a high WC (OR = 3.47, 95% CI 1.21-9.97). A short sleep (≤5 hours) is also strongly associated with being an evening person (OR = 5.92, 95% CI 3.46-10.13) and being a woman who is an evening person (OR = 7.55, 95% CI 4.17-13.66).
+Table 4. Odds ratio of predictive factors and sleeping duration.
+Short sleep
+(≤5 hours)
+Long sleep
+(≥8 hours)
+High BMI
+a
+1.03 (0.60 - 1.75)
+0.99 (0.82 - 1.20)
+Women with high BMI
+b
+1.16 (0.64 - 2.10)
+1.00 (0.81 - 1.25)
+Men with high BMI
+b
+0.37 (0.08 - 1.76)
+0.95 (0.66 - 1.38)
+High WHR
+a
+1.35 (0.73 - 2.51)
+1.28 (1.04 - 1.59)*
+Women with high WHR
+b
+1.37 (0.66 - 2.83)
+1.23 (0.95 - 1.60)
+Men with high WHR
+b
+1.15 (0.34 - 3.92)
+1.43 (0.97 - 2.10)
+High WC
+a
+3.14 (1.13 - 8.75)*
+0.79 (0.48 - 1.29)
+Women with high WC
+b
+3.47 (1.21 - 9.97)*
+0.74 (0.43 - 1.25)
+Men with high WC
+b
+NA
+1.27 (0.26 - 6.08)
+Evening person
+a
+5.92 (3.46 - 10.13)*
+0.43 (0.31 - 0.60)*
+Women who are evening people
+b
+7.55 (4.17 - 13.66)*
+0.40 (0.26 - 0.59)*
+Men who are evening people
+1.58 (0.33 - 7.71)
+0.50 (0.27 - 0.91)*
+All tested used 6–7 hours as a reference, with 95% confidence intervals (p-value <0.05).
+a
+Adjusted for gender, age, waist-hip ratio and lifestyle.
+b
+Adjusted for age, waist-hip ratio and lifestyle.
+NA = data not available.
+Compared with the control group, there were more participants in the T2DM group who eat chicken (16.8% vs. 13.5%, p=0.03) and vegetables (91.5% vs. 89.0%, p=0.03) (
+Table 1
+). However, the opposite was true for those who eat beef (34.7% vs. 40.6%) and eat more than a cup of rice per meal (37.4% vs. 42.6%, p<0.01). For sausage, fruit, desert and rice, the two groups had a similar percentage of consumption.
+For exercise and physical activity, people with diabetes were less active than the control group. There was a higher percentage of T2DM who classified themselves being ‘far less’ or ‘less than’ active during their leisure time (40.7% vs. 27.2%) (
+Table 1
+). Moreover, there were fewer of them who reported excessive sweating (36.9% vs. 38.4%) during their free time. The T2DM group also had lower percentage of those who play sports or do exercise (35.0% vs. 43.1%), walking (70.1% vs. 78.1%) and cycling (32.8% vs. 47.1%) during their leisure time.
+The behaviour of the people with diabetes that was healthier compared to the control group was in watching television. There was a slightly lower percentage of the T2DM group who reported watching television during their leisure time compared to the control group (76.1% vs. 78.7%). Further analysis using ordinal regression found BMI to be associated with walking, riding a bicycle and exercise (
+Table 5
+).
+Table 5. Association between body mass index (BMI) and physical activities during a leisure time among the type 2 diabetes mellitus (T2DM) group.
+BMI
+Walking
+Riding a bicycle
+Exercising
+≤18.5
+1.07 (0.64 - 1.78)
+0.59 (0.33 - 1.05)
+0.86 (0.51 - 1.45)
+18.6 - 22.9
+1.54 (1.10 - 2.16)
+*
+1.43 (1.01 - 2.02)
+*
+1.30 (0.92 - 1.82)
+23.0 - 24.9
+1.33 (0.93 - 1.89)
+1.75 (1.21 - 2.53)
+*
+1.57 (1.09 - 2.24)
+*
+25.0 - 29.9
+1.43 (1.02 - 2.00)
+*
+1.59 (1.12 - 2.26)
+*
+1.66 (1.18 - 2.33)
+*
+≥30.0
+1.0
+1.0
+1.0
+Note: Data was analysed using ordinal regression. Physical activity categorized as: never, rarely, sometimes, often, almost always.
+* Statistically significant (p <0.05).
+Discussion
+The main objective of this study was to survey the sleep, eating and exercise behaviours of people with diabetes (T2DM) in a rural community in Phitsanulok province, Thailand. It was found that study participants had healthy behaviours regarding eating, smoking, alcohol consumption, sleep pattern and duration, but not for physical activities and exercise. These results contradicted the common perception that people with diabetes all have unhealthy lifestyles. A large study in Australia reported no positive improvements among the recently diagnosed T2DM in their lifestyle behaviours, such as physical activities and fruit and vegetable consumption (
+Chong
+et al.
+, 2017
+). These findings implied that lifestyle prevention of diabetes (especially type 2 diabetes) included healthy lifestyle based on dietary patterns alone, may not be sufficient and should always include physical activities as an integral part.
+Most of the participants in this study had a healthy sleep pattern and lifestyle. Over 80% of the participants usually sleep 7–9 hours per day, which is considered to be a healthy amount of sleep (
+Ip & Mokhlesi, 2007
+). However, a closer look revealed that there was a higher percentage of the T2DM group compared to the control group who sleep less than six hours per night (3.2% vs. 2.4%) or more than nine hours per night (9.3%% vs. 7.5%) (
+Table 1
+) than the control group. Comparing these results to the literature, these participants had a better sleep pattern. The National Sleep Foundation in the United Sates reported that about 30% of middle-aged men and women slept less than six hours per night (
+Ip & Mokhlesi, 2007
+). Another study in the United States reported about half of people with diabetes had sleep problems (
+Shamshirgaran
+et al
+., 2017
+).
+Further analysis revealed that sleep ≥8 hours or ≤5 hours was significantly associated with a high BMI and lifestyle. Compared to the control group, the T2DM group were more overweight and had a higher BMI, WHR and WC (
+Table 1
+). These results were supported by a study that reported that sleep disturbance increases metabolic disorders and obesity (
+Chattu
+et al
+., 2019
+). This was not surprising since obesity is a well-established risk factor of diabetes. In an epidemiological study, a short sleep was associated with BMI and weight gain (
+Leproult & Van Cauter, 2010
+). In laboratory studies, sleep deprivation affected sympathovagal balance, evening concentrations of cortisol and ghrelin hormones or hunger hormones, but decreased glucose tolerance, insulin sensitivity and leptin, a hormone controlling body weight (
+Van Cauter & Knutson, 2008
+). These changes increase blood glucose (
+Nedeltcheva & Scheer, 2014
+) and appetite for carbohydrate-rich food (
+Ip & Mokhlesi, 2007
+).
+Compared with other studies, the number of cigarette smokers (10.8% of T2DM and 14.3% of non-T2DM) and alcohol users (6.6% of T2DM and 9.7% of non-T2DM) in this study were relatively small. In the United States, the prevalence of cigarette smoking among adults with diabetes was about 23.6% (
+Ford
+et al
+., 2004
+). A study in California, United States, reported that 50% of people with diabetes consumed alcohol (
+Ahmed
+et al
+., 2006
+). Compared to the control group, the prevalence of smoking and alcohol consumption among the T2DM group was significantly lower (p<0.01). A recent study in Australia also reported a higher rate of smoking cessation (OR for quitting smoking = 2.71, 95% CI 1.59-4.63) among recently diagnosed T2DM as compared to a healthy control group (
+Chong
+et al
+., 2017
+). This behaviour change was often claimed to be a result of diabetes care programs and global trends of cigarette and alcohol consumption (
+Shi
+et al
+., 2013
+).
+Concerning eating behaviours and choice of food, people with diabetes trended to be healthier than the control group and were more likely to eat foods that are believed to be good for health. The group ate more vegetables and chicken but less beef and rice than the control group. A similar study in Australia also found a lifestyle change among newly diagnosed T2DM group (
+Chong
+et al
+., 2017
+). These results may be useful for the diabetic prevention program, by advising their patients to eat good quality and more healthy foods. However, it must be noted that there were a large portion of participants in both T2DM and non-T2DM groups who reported eating or drinking fruit, sweets, and soft drinks, a behaviour that might affect their blood sugar.
+Comparing the frequency of several physical activities performed during their leisure time, participants in the T2DM group were less active than the control group. A significantly higher number of T2DM participants admitted to being less active compared with people of the same age and not doing exercise or playing sports as often as the control group (
+Table 1
+). There were also fewer T2DM participants who reported walking (41.5% vs. 51.1%) and cycling (17.4% vs. 26.7%) during their leisure time. These results are supported by other studies. In a study in rural communities of Missouri, Tennessee, and Arkansas, it was reported that 37% of T2DM patients had no leisure-time physical activity (
+Deshpande
+et al
+., 2005
+).
+Hays & Clark (1999)
+also found that over half of T2DM (54.6%) patients, mostly elderly females, had no weekly physical activity. However, a study in Nepal reported that 52% of T2DM were moderately active and 28% were highly active (
+Kadariya & Aro, 2018
+). This discrepancy in physical activity might be related to the culture and lifestyle of the patients. It was expected that study participants in this study would be more active because they are rural people who mainly work in agriculture.
+Further ordinal regression analysis indicated that physical activity were associated with obesity (BMI). Those with a lower BMI tended to have a higher rate of walking, biking and exercising (
+Table 5
+). This result is consistent with the literature. A study on outpatients with T2DM and their matched controls found that the total energy expenditure (<300 kcal/day), number of steps (<1500 /day), physical activity duration (<130 min/day) and active energy expenditure/day (<300 kcal) were all lower in the diabetes group (p<0.05) (
+Fagour
+et al
+., 2013
+;
+Hamasaki, 2016
+). This lower physical activity might be partially due to a fear of joint or leg pain (
+Dutton
+et al
+., 2005
+) or hypoglycaemia (
+Brazeau
+et al
+., 2008
+). Therefore, this problem requires greater attention, and exercise plans specifically designed for those with diabetes need to be developed. A low impact activity, e.g. walking, swimming, biking or doing yoga are recommended.
+After applying several grouping methods, the association was found to be significant only when sleep duration was grouped to ≤5 hours, 6–7 hours and ≥8 hours. In comparison to the 6–7 hours group, further analysis using logistic regression found that a significant association between diabetes and sleep was only among women with ≥8 hours of sleep (OR = 1.27, 95% CI 1.03-1.56) after being adjusted for age, gender, WHR and lifestyle (
+Table 3
+). A similar result was also reported in a study in Finland, which found that sleep of ≥8 hours increased the risk of diabetes among middle aged women (
+Tuomilehto
+et al
+., 2008
+). The effect of oversleeping on the risk of developing diabetes is well established, but most of the previous studies use 7–8 hours of sleep as a reference and defined oversleep to be 10–12 hours per day (
+Chattu
+et al
+., 2019
+). It was also noticed that the relative risk of diabetes in this study (OR = 1.27) was rather low compared with those reported in previous studies, which mostly reported sleep to increase diabetes risk by 2–3 times (
+Heianza
+et al
+., 2014
+;
+Yaggi
+et al
+., 2006
+). These results might be explained by the fact that sufficient sleep depends on both quantity and quality of sleep (
+Chattu
+et al
+., 2019
+). Since most participants in this study are rural villagers with a healthier lifestyle, they were more likely to have a good sleep and thus, require a shorter sleep duration. This was supported by the fact that only approximately 7% of the participants (T2DM and non-T2DM) who classified themselves to be evening people that like to stay up late at night (
+Table 1
+). Therefore, the results supported the previous finding on the association between diabetes and sleep.
+It was found that less than 7% of the study participants are evening people and the association between diabetes and lifestyle was not statistically significant. These results were in contrast to previous studies. In a large study in Korea, there was a large proportion of people who were evening people, and this group was at risk of diabetes (OR = 1.73, 95% CI 1.01-2.95). (
+Yu
+et al
+., 2015
+). The differences in workload, lifestyle, social activities and technology might affect sleep patterns of the two groups. Most of the participants in this study were rural villagers, while those in the Korean study were urban people with a modern lifestyle. In Thailand, most villagers usually go to bed early as they are exhausted from hard, physical work on the farm during the day and they usually wake up early in the morning to have enough time to prepare food for their family members and the Buddhist monks. Further study should be conducted to verify this issue.
+One of the main limitations of this study was that it used a cross-sectional design and there was a lack of data on the onset of diabetes. Since the relationship between diabetes and sleep is double-sided, it therefore cannot be determined whether sleep causes diabetes or the disease interferes with the sleep pattern of the patient (
+Chattu
+et al
+., 2019
+). This bias will cause a positive effect and overestimate the association of diabetes and sleep. Without data on the onset of diabetes, behavioural change and disease duration cannot be analysed. This is also true of the effect of sleep duration on glucose control. These two issues are often reported in the literature (
+Chong
+et al
+., 2017
+). This study only collected data regarding sleep quantity, while previous studies have suggested that both the duration and quality of sleep could have an effect on diabetes (
+Lee
+et al.
+, 2017
+). Lastly, the information regarding sleep duration and other potential risk factors were self-reported and therefore, recall bias was likely to occur. However, if the bias does occur, it could equally affect both the study and the comparison group.
+Conclusion
+This study found the people with diabetes (T2DM) in the rural community of Thailand had healthy behaviours regarding sleep duration, sleep pattern, lifestyle, eating, smoking and alcohol consumption, except exercise and physical activity. The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it shows that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes should always include physical activity as an integral part. The study also found an association between diabetes and oversleeping as previously reported in the literature. Further studies on the health behaviour of people with diabetes with different backgrounds and lifestyles are still needed.
+Data availability
+Underlying data
+Figshare: Sleep and health behaviours among diabetic and non-diabetic groups.
+10.6084/m9.figshare.8246780
+(
+Juntarawijit, 2019a
+)
+This project contains the following underlying data:
+-
+Diabete-dataset.sav (dataset containing demographic characteristics, medical information and questionnaire responses for all participants)
+-
+Data Dictionary.docx
+Data are available under the terms of the
+Creative Commons Zero "No rights reserved" data waiver
+(CC0 1.0 Public domain dedication).
+Extended data
+Figshare: Questionnaire-sleep and health behaviour among diabetes.
+10.6084/m9.figshare.8298689
+(
+Juntarawijit, 2019b
+)
+This project contains the following extended data:
+-
+Questionnaire-English.docx
+-
+Questionnaire-Thai.docx
+Data are available under the terms of the
+Creative Commons Zero "No rights reserved" data waiver
+(CC0 1.0 Public domain dedication).
+Acknowledgments
+Our great appreciation go to the village health volunteers in the district of Bang Rakam for data collection. We must also thank the Health Promoting Hospitals in Bang Rakam for the coordination and data support. We also thank Mr. Kenje Baris Gunda and Mr. Kevin Mark Roebl for language assistance.
+Faculty Opinions recommended
+References
+Ahmed AT, Karter AJ, Liu J: Alcohol consumption is inversely associated with adherence to diabetes self-care behaviours.
+Diabet Med.
+2006;
+23
+(7): 795–802.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Barone MT, Menna-Barreto L: Diabetes and sleep: a complex cause-and-effect relationship.
+Diabetes Res Clin Pract.
+2011;
+91
+(2): 129–137.
+PubMed Abstract
+|
+Publisher Full Text
+Barrat E, Aubineau N, Maillot M,
+et al.
+: Repeatability and relative validity of a quantitative food-frequency questionnaire among French adults.
+Food Nutr Res.
+2012;
+56
+: 18472.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Beccuti G, Pannain S: Sleep and obesity.
+Curr Opin Clin Nutr Metab Care.
+2011;
+14
+(4): 402–412.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Brazeau AS, Rabasa-Lhoret R, Strychar I,
+et al.
+: Barriers to physical activity among patients with type 1 diabetes.
+Diabetes Care.
+2008;
+31
+(11): 2108–2109.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Buxton OM, Pavlova M, Reid EW,
+et al.
+: Sleep restriction for 1 week reduces insulin sensitivity in healthy men.
+Diabetes.
+2010;
+59
+(9): 2126–2133.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Cappuccio FP, D’Elia L, Strazzullo P,
+et al.
+: Quantity and quality of sleep and incidence of type 2 diabetes: a systematic review and meta-analysis.
+Diabetes Care.
+2010;
+33
+(2): 414–420.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Chattu VK, Chattu SK, Burman D,
+et al.
+: The Interlinked Rising Epidemic of Insufficient Sleep and Diabetes Mellitus.
+Healthcare (Basel).
+2019;
+7
+(1): E37.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Chong S, Ding D, Byun R,
+et al.
+: Lifestyle Changes After a Diagnosis of Type 2 Diabetes.
+Diabetes Spectr.
+2017;
+30
+(1): 43–50.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Colberg SR, Sigal RJ, Yardley JE,
+et al.
+: Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association.
+Diabetes Care.
+2016;
+39
+(11): 2065–2079.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Deshpande AD, Baker EA, Lovegreen SL,
+et al.
+: Environmental correlates of physical activity among individuals with diabetes in the rural midwest.
+Diabetes Care.
+2005;
+28
+(5): 1012–1018.
+PubMed Abstract
+|
+Publisher Full Text
+Dutton GR, Johnson J, Whitehead D,
+et al.
+: Barriers to physical activity among predominantly low-income African-American patients with type 2 diabetes.
+Diabetes Care.
+2005;
+28
+(5): 1209–1210.
+PubMed Abstract
+|
+Publisher Full Text
+Fagour C, Gonzalez C, Pezzino S,
+et al.
+: Low physical activity in patients with type 2 diabetes: the role of obesity.
+Diabetes Metab.
+2013;
+39
+(1): 85–87.
+PubMed Abstract
+|
+Publisher Full Text
+Florindo AA, Latorre MRDO: Validation and reliability of the Baecke questionnaire for the evaluation of habitual physical activity in adult men.
+Rev Bras Med Esporte.
+2003;
+9
+(3): 129–135.
+Publisher Full Text
+Ford ES, Mokdad AH, Gregg EW: Trends in cigarette smoking among US adults with diabetes: findings from the Behavioral Risk Factor Surveillance System.
+Prev Med.
+2004;
+39
+(6): 1238–1242.
+PubMed Abstract
+|
+Publisher Full Text
+Gucciardi E, Vahabi M, Norris N,
+et al.
+: The Intersection between Food Insecurity and Diabetes: A Review.
+Curr Nutr Rep.
+2014;
+3
+(4): 324–332.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Hamasaki H: Daily physical activity and type 2 diabetes: A review.
+World J Diabetes.
+2016;
+7
+(12): 243–51.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Hays LM, Clark DO: Correlates of physical activity in a sample of older adults with type 2 diabetes.
+Diabetes Care.
+1999;
+22
+(5): 706–712.
+PubMed Abstract
+|
+Publisher Full Text
+Heianza Y, Kato K, Fujihara K,
+et al.
+: Role of sleep duration as a risk factor for Type 2 diabetes among adults of different ages in Japan: the Niigata Wellness Study.
+Diabet Med.
+2014;
+31
+(11): 1363–1615.
+PubMed Abstract
+|
+Publisher Full Text
+Ip M, Mokhlesi B: Sleep and Glucose Intolerance/Diabetes Mellitus.
+Sleep Med Clin.
+NIH Public Access, 2007;
+2
+(1): 19–29.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Juntarawijit C: Sleep and health behaviors among diabetic and non-diabetic groups. 2019a.
+http://www.doi.org/10.6084/m9.figshare.8246780
+Juntarawijit C: Questionnaire-sleep and health behavior among diabetes. 2019b.
+http://www.doi.org/10.6084/m9.figshare.8298689.v1
+Juntarawijit C, Juntarawijit Y: Association between diabetes and pesticides: a case-control study among Thai farmers.
+Environ Health Prev Med.
+2018;
+23
+(1): 3.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Kadariya S, Aro AR: Barriers and facilitators to physical activity among urban residents with diabetes in Nepal.
+PLoS One.
+2018;
+13
+(6): e0199329.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Khandelwal D, Dutta D, Chittawar S,
+et al.
+: Sleep Disorders in Type 2 Diabetes.
+Indian J Endocrinol Metab.
+2017;
+21
+(5): 758–761.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Lee SWH, Ng KY, Chin WK: The impact of sleep amount and sleep quality on glycemic control in type 2 diabetes: A systematic review and meta-analysis.
+Sleep Med Rev.
+2017;
+31
+: 91–101.
+PubMed Abstract
+|
+Publisher Full Text
+Leproult R, Van Cauter E: Role of Sleep and Sleep Loss in Hormonal Release and Metabolism.
+Endocr Dev.
+Basel: KARGER, 2010;
+17
+: 11–21.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Luyster FS, Dunbar-Jacob J: Sleep quality and quality of life in adults with type 2 diabetes.
+Diabetes Educ.
+2011;
+37
+(3): 347–355.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Nedeltcheva AV, Scheer FA: Metabolic effects of sleep disruption, links to obesity and diabetes.
+Curr Opin Endocrinol Diabetes Obes.
+2014;
+21
+(4): 293–8.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Nieto-Martínez R, González-Rivas JP, Medina-Inojosa JR,
+et al.
+: Are Eating Disorders Risk Factors for Type 2 Diabetes? A Systematic Review and Meta-analysis.
+Curr Diab Rep.
+2017;
+17
+(12): 138.
+PubMed Abstract
+|
+Publisher Full Text
+Olokoba AB, Obateru OA, Olokoba LB: Type 2 diabetes mellitus: a review of current trends.
+Oman Med J.
+Oman Medical Specialty Board, 2012;
+27
+(4): 269–73.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Polpuak P, Chutipanyapron N: Development of health behavior promotion model for controlling blood sugar levels in diabetic patients.
+Buddhachinaraj Med J.
+2018;
+35
+(3): 348–360.
+Reference Source
+Resnick HE, Redline S, Shahar E,
+et al.
+: Diabetes and sleep disturbances: findings from the Sleep Heart Health Study.
+Diabetes Care.
+2003;
+26
+(3): 702–709.
+PubMed Abstract
+|
+Publisher Full Text
+Reutrakul S, Van Cauter E: Sleep influences on obesity, insulin resistance, and risk of type 2 diabetes.
+Metabolism.
+2018;
+84
+: 56–66.
+PubMed Abstract
+|
+Publisher Full Text
+Sakboonyarat B, Pima W, Chokbumrungsuk C,
+et al.
+: National trends in the prevalence of glycemic control among patients with type 2 diabetes receiving continuous care in Thailand from 2011 to 2018.
+Sci Rep.
+2021;
+11
+(1): 14260.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Shamshirgaran SM, Ataei J, Malek A,
+et al.
+: Quality of sleep and its determinants among people with type 2 diabetes mellitus in Northwest of Iran.
+World J Diabetes.
+2017;
+8
+(7): 358–364.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Shi L, Shu XO, Li H,
+et al.
+: Physical activity, smoking, and alcohol consumption in association with incidence of type 2 diabetes among middle-aged and elderly Chinese men.
+PLoS One.
+2013;
+8
+(11): e77919.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Sridhar GR, Madhu K: Prevalence of sleep disturbances in diabetes mellitus.
+Diabetes Res Clin Pract.
+1994;
+23
+(3): 183–186.
+PubMed Abstract
+|
+Publisher Full Text
+Stolar M: Glycemic control and complications in type 2 diabetes mellitus.
+Am J Med.
+2010;
+123
+(3 Suppl): S3–S11.
+PubMed Abstract
+|
+Publisher Full Text
+Tang YH, Pang SMC, Chan MF,
+et al.
+: Health literacy, complication awareness, and diabetic control in patients with type 2 diabetes mellitus.
+J Adv Nurs.
+2008;
+62
+(1): 74–83.
+PubMed Abstract
+|
+Publisher Full Text
+Trento M, Broglio F, Riganti F,
+et al.
+: Sleep abnormalities in type 2 diabetes may be associated with glycemic control.
+Acta Diabetol.
+2008;
+45
+(4): 225–229.
+PubMed Abstract
+|
+Publisher Full Text
+Tunsuchart K, Lerttrakarnnon P, Srithanaviboonchai K,
+et al.
+: Type 2 Diabetes Mellitus Related Distress in Thailand.
+Int J Environ Res Public Health.
+2020;
+17
+(7): 2329.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Tuomilehto H, Peltonen M, Partinen M,
+et al.
+: Sleep duration is associated with an increased risk for the prevalence of type 2 diabetes in middle-aged women - The FIN-D2D survey.
+Sleep Med.
+2008;
+9
+(3): 221–227.
+PubMed Abstract
+|
+Publisher Full Text
+Van Cauter E, Knutson KL: Sleep and the epidemic of obesity in children and adults.
+Eur J Endocrinol.
+2008;
+159 Suppl 1
+(S1): S59–66.
+PubMed Abstract
+|
+Publisher Full Text
+|
+Free Full Text
+Yaggi HK, Araujo AB, McKinlay JB: Sleep duration as a risk factor for the development of type 2 diabetes.
+Diabetes Care.
+2006;
+29
+(3): 657–661.
+PubMed Abstract
+|
+Publisher Full Text
+Yu JH, Yun CH, Ahn JH,
+et al.
+: Evening chronotype is associated with metabolic disorders and body composition in middle-aged adults.
+J Clin Endocrinol Metab.
+2015;
+100
+(4): 1494–1502.
+PubMed Abstract
+|
+Publisher Full Text
+Zheng Y, Ley SH, Hu FB: Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.
+Nat Rev Endocrinol.
+Nature Publishing Group, 2018;
+14
+(2): 88–98.
+PubMed Abstract
+|
+Publisher Full Text
+Comments on this article
+Comments (0)
+Version 3
+VERSION 3
+PUBLISHED 09 Jul 2019
+ADD YOUR COMMENT
+Comment
+Author details
+Author details
+1
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+2
+Faculty of Nursing, Naresuan University, Phitsanulok, 65000, Thailand
+Chudchawal Juntarawijit
+Roles:
+Conceptualization, Formal Analysis, Funding Acquisition, Investigation, Methodology, Project Administration, Writing – Original Draft Preparation
+Yuwayong Juntarawijit
+Roles:
+Conceptualization, Formal Analysis, Investigation, Methodology, Writing – Original Draft Preparation, Writing – Review & Editing
+Competing interests
+No competing interests were disclosed.
+Grant information
+This study was supported by Naresuan University [R2560C031].
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Article Versions (3)
+version 3
+Revised
+Published: 02 Nov 2022, 8:1030
+https://doi.org/10.12688/f1000research.19678.3
+version 2
+Revised
+Published: 09 Dec 2021, 8:1030
+https://doi.org/10.12688/f1000research.19678.2
+version 1
+Published: 09 Jul 2019, 8:1030
+https://doi.org/10.12688/f1000research.19678.1
+Copyright
+© 2022 Juntarawijit C and Juntarawijit Y. This is an open access article distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Download
+Export To
+Sciwheel
+Bibtex
+EndNote
+ProCite
+Ref. Manager (RIS)
+Sente
+metrics
+Views
+Downloads
+F1000Research
+-
+-
+PubMed Central
+info_outline
+Data from PMC are received and updated monthly.
+-
+-
+Citations
+open_in_new
+0
+open_in_new
+0
+open_in_new
+SEE MORE DETAILS
+CITE
+how to cite this article
+Juntarawijit C and Juntarawijit Y. Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.12688/f1000research.19678.3
+)
+NOTE:
+If applicable, it is important to ensure the information in
+square brackets after the title
+is included in all citations of this article.
+COPY CITATION DETAILS
+track
+receive updates on this article
+Track an article to receive email alerts on any updates to this article.
+TRACK THIS ARTICLE
+Share
+Open Peer Review
+Current Reviewer Status:
+?
+Key to Reviewer Statuses
+VIEW
+HIDE
+Approved
+The paper is scientifically sound in its current form and only minor, if any, improvements are suggested
+Approved with reservations
+A number of small changes, sometimes more significant revisions are required to address specific details and improve the papers academic merit.
+Not approved
+Fundamental flaws in the paper seriously undermine the findings and conclusions
+Version 1
+VERSION 1
+PUBLISHED 09 Jul 2019
+Views
+0
+Cite
+How to cite this report:
+Alkhatib A. Reviewer Report For: Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.5256/f1000research.21582.r98032
+)
+The direct URL for this report is:
+https://f1000research.com/articles/8-1030/v1#referee-response-98032
+NOTE:
+it is important to ensure the information in square brackets after the title is included in this citation.
+Close
+Copy Citation Details
+Reviewer Report
+26 Nov 2021
+Ahmad Alkhatib
+,
+Teesside University, Middlesbrough, UK
+Approved with Reservations
+VIEWS 0
+https://doi.org/10.5256/f1000research.21582.r98032
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written ...
+Continue reading
+READ ALL
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Specific:
+Abstract:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Introduction:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Methods:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Results:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Discussion:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Conclusion:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+A conclusion about the sleep patterns finding is missing and should be added.
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Partly
+If applicable, is the statistical analysis and its interpretation appropriate?
+I cannot comment. A qualified statistician is required.
+Are all the source data underlying the results available to ensure full reproducibility?
+Partly
+Are the conclusions drawn adequately supported by the results?
+Partly
+Competing Interests:
+No competing interests were disclosed.
+Reviewer Expertise:
+Lifestyle prevention of disease
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+Close
+READ LESS
+CITE
+CITE
+HOW TO CITE THIS REPORT
+Alkhatib A. Reviewer Report For: Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.5256/f1000research.21582.r98032
+)
+The direct URL for this report is:
+https://f1000research.com/articles/8-1030/v1#referee-response-98032
+NOTE:
+it is important to ensure the information in
+square brackets after the title
+is included in all citations of this article.
+COPY CITATION DETAILS
+Report a concern
+Author Response 13 Dec 2021
+Chudchawal Juntarawijit
+,
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+13 Dec 2021
+Author Response
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group ...
+Continue reading
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Response:
+Thank you very much for reviewing this manuscript and providing valuable and encouraging feedbacks.
+The English and grammar was edited by Mr. Kenje Baris Gunda.
+Specific:
+Abstract:
+Comment
+:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Response
+:
+The errors about the terminology use have been corrected.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response
+:
+More information on eating behaviors and diabetes have been added as suggested.
+Comment
+:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response
+:
+A statement on the mechanism linking eating, exercise and diabetes has been added.
+For sleep and diabetes, it was reported that sleep deprivation increases insulin resistance and indirectly affect diabetes by increasing appetite and body weight. This information has already been presented in the second paragraph.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response
+:
+Actually, there were no special characteristics, the community was selected because it has a high number of people with diabetes, and it was in a convenient location.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response
+:
+Introduction has been revised as suggested (see the manuscript).
+In the last paragraph, a statement about what is not known has been added.
+Methods:
+Comment
+:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response
+:
+Information on the types of interviews are specified in the first paragraph.
+Comment
+:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response
+:
+Yes, we only asked the participants how long they usually slept each day. For information regarding quality of sleep, we believed that it was rather subjective and hard to justify, therefore, it was not included in the survey. The questionnaire method has been widely used to collect information on sleep duration (Yaggi, Araujo, and McKinlay, 2006) Chong et al., 2017) (Yu et al., 2015).
+However, we accept that this will be another important limitation of the study and the issue has been further discussed in study limitations.
+Comment
+:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+The questionnaire was used in previous studies
+Response
+:
+In this study, a modified Food Frequency Questionnaire (FFQ) was used. The questionnaire was validated and used in previous studies, e.g. Barrat et al. (2012). Due to different cultures and eating habits, only foods found to relate to diabetes and those often found in Thailand were selected. This information has been added to the method section.
+Comment
+:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response
+:
+In this study, a modified Baecke Habitual Physical Activity Questionnaire (BHPAQ) was used and the questionnaire has been validated in previous studies (Florindo and Latorre, 2003).
+Yes, the questionnaire method might cause recall bias. However, if the problem occurs, it should equally affect both the study and comparison group and thus, not seriously affect the results.
+The issue has been added in study limitations.
+Results:
+Comment
+:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response
+:
+In the first row of the table, the association (ORs) between sleep hours and diabetes in different models were presented. The association was then further analyzed using only data from model 3 (adjusted for all potential confounding factors) in regard to gender, by carrying out a comparison between males and females.
+Discussion:
+Comment
+:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response
+:
+A new paragraph which states the most important findings, has been added to the discussion section as suggested.
+Comment
+:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response
+:
+Every paragraph has been reviewed to make sure they do not repeat the results and now contain conclusions of statements.
+Conclusion:
+Comment
+:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response
+:
+The repetition terms have been deleted.
+Comment
+:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response
+:
+The conclusion statement has been completely revised.
+Comment
+:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response
+:
+Thank you for helping us to clarify this important point. The idea has been added to manuscript.
+Comment
+:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response
+:
+In this study, we found that women with high BMIs did the least physical activities and exercise, therefore, we recommend that exercise programs are designed for this specific group.
+Comment
+:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response
+:
+A conclusion statement regarding sleep patterns has been added.
+References
+Barrat et al. (2012). Repeatability and relative validity of a quantitative food-frequency questionnaire among French adults. Food & Nutrition Research, 56: 18472.
+10.3402/fnr.v56i0.18472
+Chong S, Ding D, Byun R, et al. (2017). Lifestyle Changes After a Diagnosis of Type 2 Diabetes.
+Diabetes Spectr,
+30(1):43–50. 28270714 10.2337/ds15-0044 5309903
+Colberg SR, Sigal R, Yardley JE, et al. (2016).  Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association.
+Diabetes Care,
+39(11): 2065-2079.
+10.2337/dc16-1728
+Florindo AA, and Latorre MRDO. (2003). Validation and reliability of the Baecke questionnaire for the evaluation of habitual physical activity in adult men.
+Rev Bras Med Esporte,
+9(3):129-135.10.1590/S1517-86922003000300002
+Yaggi HK, Araujo AB, McKinlay JB. (2006). Sleep duration as a risk factor for the development of type 2 diabetes.
+Diabetes Care,
+29(3):657–661. 16505522 10.2337/diacare.29.03.06.dc05-0879
+Yu JH, Yun CH, and Ahn JH, et al. (2015). Evening chronotype is associated with metabolic disorders and body composition in middle-aged adults.
+J Clin Endocrinol Metab,
+100(4):1494–1502. 25831477 10.1210/jc.2014-3754
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Response:
+Thank you very much for reviewing this manuscript and providing valuable and encouraging feedbacks.
+The English and grammar was edited by Mr. Kenje Baris Gunda.
+Specific:
+Abstract:
+Comment
+:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Response
+:
+The errors about the terminology use have been corrected.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response
+:
+More information on eating behaviors and diabetes have been added as suggested.
+Comment
+:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response
+:
+A statement on the mechanism linking eating, exercise and diabetes has been added.
+For sleep and diabetes, it was reported that sleep deprivation increases insulin resistance and indirectly affect diabetes by increasing appetite and body weight. This information has already been presented in the second paragraph.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response
+:
+Actually, there were no special characteristics, the community was selected because it has a high number of people with diabetes, and it was in a convenient location.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response
+:
+Introduction has been revised as suggested (see the manuscript).
+In the last paragraph, a statement about what is not known has been added.
+Methods:
+Comment
+:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response
+:
+Information on the types of interviews are specified in the first paragraph.
+Comment
+:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response
+:
+Yes, we only asked the participants how long they usually slept each day. For information regarding quality of sleep, we believed that it was rather subjective and hard to justify, therefore, it was not included in the survey. The questionnaire method has been widely used to collect information on sleep duration (Yaggi, Araujo, and McKinlay, 2006) Chong et al., 2017) (Yu et al., 2015).
+However, we accept that this will be another important limitation of the study and the issue has been further discussed in study limitations.
+Comment
+:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+The questionnaire was used in previous studies
+Response
+:
+In this study, a modified Food Frequency Questionnaire (FFQ) was used. The questionnaire was validated and used in previous studies, e.g. Barrat et al. (2012). Due to different cultures and eating habits, only foods found to relate to diabetes and those often found in Thailand were selected. This information has been added to the method section.
+Comment
+:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response
+:
+In this study, a modified Baecke Habitual Physical Activity Questionnaire (BHPAQ) was used and the questionnaire has been validated in previous studies (Florindo and Latorre, 2003).
+Yes, the questionnaire method might cause recall bias. However, if the problem occurs, it should equally affect both the study and comparison group and thus, not seriously affect the results.
+The issue has been added in study limitations.
+Results:
+Comment
+:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response
+:
+In the first row of the table, the association (ORs) between sleep hours and diabetes in different models were presented. The association was then further analyzed using only data from model 3 (adjusted for all potential confounding factors) in regard to gender, by carrying out a comparison between males and females.
+Discussion:
+Comment
+:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response
+:
+A new paragraph which states the most important findings, has been added to the discussion section as suggested.
+Comment
+:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response
+:
+Every paragraph has been reviewed to make sure they do not repeat the results and now contain conclusions of statements.
+Conclusion:
+Comment
+:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response
+:
+The repetition terms have been deleted.
+Comment
+:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response
+:
+The conclusion statement has been completely revised.
+Comment
+:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response
+:
+Thank you for helping us to clarify this important point. The idea has been added to manuscript.
+Comment
+:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response
+:
+In this study, we found that women with high BMIs did the least physical activities and exercise, therefore, we recommend that exercise programs are designed for this specific group.
+Comment
+:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response
+:
+A conclusion statement regarding sleep patterns has been added.
+References
+Barrat et al. (2012). Repeatability and relative validity of a quantitative food-frequency questionnaire among French adults. Food & Nutrition Research, 56: 18472.
+10.3402/fnr.v56i0.18472
+Chong S, Ding D, Byun R, et al. (2017). Lifestyle Changes After a Diagnosis of Type 2 Diabetes.
+Diabetes Spectr,
+30(1):43–50. 28270714 10.2337/ds15-0044 5309903
+Colberg SR, Sigal R, Yardley JE, et al. (2016).  Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association.
+Diabetes Care,
+39(11): 2065-2079.
+10.2337/dc16-1728
+Florindo AA, and Latorre MRDO. (2003). Validation and reliability of the Baecke questionnaire for the evaluation of habitual physical activity in adult men.
+Rev Bras Med Esporte,
+9(3):129-135.10.1590/S1517-86922003000300002
+Yaggi HK, Araujo AB, McKinlay JB. (2006). Sleep duration as a risk factor for the development of type 2 diabetes.
+Diabetes Care,
+29(3):657–661. 16505522 10.2337/diacare.29.03.06.dc05-0879
+Yu JH, Yun CH, and Ahn JH, et al. (2015). Evening chronotype is associated with metabolic disorders and body composition in middle-aged adults.
+J Clin Endocrinol Metab,
+100(4):1494–1502. 25831477 10.1210/jc.2014-3754
+Competing Interests:
+No competing interests were disclosed.
+Close
+Report a concern
+Author Response 17 Nov 2022
+Chudchawal Juntarawijit
+,
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+17 Nov 2022
+Author Response
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without ...
+Continue reading
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+Response:
+Thank you very much for your time and effort in reviewing the manuscript and providing valuable suggestions to improve the paper. All the comments are accepted, and we have tried to revise the paper as such.
+Generic:
+Comment:
+Please check the English and grammar throughout.
+Response:
+English has been rechecked by Mr. Kevin Mark Roebl, a native English speaker.
+Specific:
+Abstract:
+Comment:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Response:
+The terminology has been revised as suggested.
+Comment:
+Terminology use “people with diabetes” rather than “diabetic”.
+Response:
+The terminology “diabetic” has been replaced by “people with diabetes”.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response:
+More information on eating and diabetes has been added. Food choice depends not only on behaviour but also socio-economic status.
+Comment:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response:
+More information on the association between sleep, eating, and exercise has been added as suggested.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response:
+The information has been added. Information concerning diabetes in Thailand, especially those in small communities, is limited. The selected community may not have special characteristics but has sufficient diabetes cases and convenience for data collection. It can represent a rural community of the province.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response:
+Yes, we totally agree. What is not known is the health behaviours, sleep, and other aspects of the lifestyle of people with diabetes in Thailand. In this, we try to study those factors and among various groups. This information was presented in the study objective.
+Methods
+Comment:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response:
+The information on the type of interview has been added as suggested.
+Comment:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response:
+In this study, only duration of sleep and lifestyle (moringness or eveningness) was selected as target information. For sleep quality, we believe it was rather subjective and hard to collect data. We accepted that this was a study limitation and clearly mentioned in the study limitation section.
+Comment:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Response:
+In this study, data on food consumption were collected using a modified Food Frequency Questionnaire (FFQ). The questionnaire was tested against a 7-day diet record and found to have high repeatability and good validity score (repeatability for intake was 0.62-0.90 (median 0.81), relative validity was 0.36-0.80 (0.64).
+Yes, we focused on only types of foods found to be related to diabetes and those often found in Thailand. This information was already presented in the study questionnaire section.
+Comment:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response:
+In this study, we used a Baecke Habitual Physical Activity Questionnaire (BHPAQ) which has been adopted by several countries as a reliable tool to measure habitual physical activity in adult men.
+Results:
+Comment:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response:
+Table 3 presented results OR of different models. Further analysis was conducted among men and women. However, this analysis was done only on model3, the best model which included all related variables.  This left data on Model 1 and Model2 blank.
+Discussion:
+Comment:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response:
+In this study, the most important issues were health behaviours of T2DM. Thus, we began with this finding.
+Comment:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response:
+In each paragraph, we have summarized the most important finding before discussing it.
+Conclusion:
+Comment:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response:
+Thanks for the reminder. We try to avoid those wordy statements.
+Comment:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response:
+The concluding statement has been revised and those repetitions were deleted.
+Comment:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response:
+Yes, we agree and thank you for your affirmative.
+Comment:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response:
+Thank you for your suggestion. We recommend those activities with low impact, e.g. walking, swimming, biking or doing yoga. This information has been added. Designing a good physical plan is not easy and many of them often fail within a short period of time. A good physical program should be based on research from the specific group and getting the public involved at an early stage.
+Comment:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response:
+The concluding statement has been added as suggested.
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+Response:
+Thank you very much for your time and effort in reviewing the manuscript and providing valuable suggestions to improve the paper. All the comments are accepted, and we have tried to revise the paper as such.
+Generic:
+Comment:
+Please check the English and grammar throughout.
+Response:
+English has been rechecked by Mr. Kevin Mark Roebl, a native English speaker.
+Specific:
+Abstract:
+Comment:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Response:
+The terminology has been revised as suggested.
+Comment:
+Terminology use “people with diabetes” rather than “diabetic”.
+Response:
+The terminology “diabetic” has been replaced by “people with diabetes”.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response:
+More information on eating and diabetes has been added. Food choice depends not only on behaviour but also socio-economic status.
+Comment:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response:
+More information on the association between sleep, eating, and exercise has been added as suggested.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response:
+The information has been added. Information concerning diabetes in Thailand, especially those in small communities, is limited. The selected community may not have special characteristics but has sufficient diabetes cases and convenience for data collection. It can represent a rural community of the province.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response:
+Yes, we totally agree. What is not known is the health behaviours, sleep, and other aspects of the lifestyle of people with diabetes in Thailand. In this, we try to study those factors and among various groups. This information was presented in the study objective.
+Methods
+Comment:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response:
+The information on the type of interview has been added as suggested.
+Comment:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response:
+In this study, only duration of sleep and lifestyle (moringness or eveningness) was selected as target information. For sleep quality, we believe it was rather subjective and hard to collect data. We accepted that this was a study limitation and clearly mentioned in the study limitation section.
+Comment:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Response:
+In this study, data on food consumption were collected using a modified Food Frequency Questionnaire (FFQ). The questionnaire was tested against a 7-day diet record and found to have high repeatability and good validity score (repeatability for intake was 0.62-0.90 (median 0.81), relative validity was 0.36-0.80 (0.64).
+Yes, we focused on only types of foods found to be related to diabetes and those often found in Thailand. This information was already presented in the study questionnaire section.
+Comment:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response:
+In this study, we used a Baecke Habitual Physical Activity Questionnaire (BHPAQ) which has been adopted by several countries as a reliable tool to measure habitual physical activity in adult men.
+Results:
+Comment:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response:
+Table 3 presented results OR of different models. Further analysis was conducted among men and women. However, this analysis was done only on model3, the best model which included all related variables.  This left data on Model 1 and Model2 blank.
+Discussion:
+Comment:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response:
+In this study, the most important issues were health behaviours of T2DM. Thus, we began with this finding.
+Comment:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response:
+In each paragraph, we have summarized the most important finding before discussing it.
+Conclusion:
+Comment:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response:
+Thanks for the reminder. We try to avoid those wordy statements.
+Comment:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response:
+The concluding statement has been revised and those repetitions were deleted.
+Comment:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response:
+Yes, we agree and thank you for your affirmative.
+Comment:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response:
+Thank you for your suggestion. We recommend those activities with low impact, e.g. walking, swimming, biking or doing yoga. This information has been added. Designing a good physical plan is not easy and many of them often fail within a short period of time. A good physical program should be based on research from the specific group and getting the public involved at an early stage.
+Comment:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response:
+The concluding statement has been added as suggested.
+Competing Interests:
+No competing interests were disclosed.
+Close
+Report a concern
+Respond or Comment
+COMMENTS ON THIS REPORT
+Author Response 13 Dec 2021
+Chudchawal Juntarawijit
+,
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+13 Dec 2021
+Author Response
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group ...
+Continue reading
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Response:
+Thank you very much for reviewing this manuscript and providing valuable and encouraging feedbacks.
+The English and grammar was edited by Mr. Kenje Baris Gunda.
+Specific:
+Abstract:
+Comment
+:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Response
+:
+The errors about the terminology use have been corrected.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response
+:
+More information on eating behaviors and diabetes have been added as suggested.
+Comment
+:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response
+:
+A statement on the mechanism linking eating, exercise and diabetes has been added.
+For sleep and diabetes, it was reported that sleep deprivation increases insulin resistance and indirectly affect diabetes by increasing appetite and body weight. This information has already been presented in the second paragraph.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response
+:
+Actually, there were no special characteristics, the community was selected because it has a high number of people with diabetes, and it was in a convenient location.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response
+:
+Introduction has been revised as suggested (see the manuscript).
+In the last paragraph, a statement about what is not known has been added.
+Methods:
+Comment
+:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response
+:
+Information on the types of interviews are specified in the first paragraph.
+Comment
+:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response
+:
+Yes, we only asked the participants how long they usually slept each day. For information regarding quality of sleep, we believed that it was rather subjective and hard to justify, therefore, it was not included in the survey. The questionnaire method has been widely used to collect information on sleep duration (Yaggi, Araujo, and McKinlay, 2006) Chong et al., 2017) (Yu et al., 2015).
+However, we accept that this will be another important limitation of the study and the issue has been further discussed in study limitations.
+Comment
+:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+The questionnaire was used in previous studies
+Response
+:
+In this study, a modified Food Frequency Questionnaire (FFQ) was used. The questionnaire was validated and used in previous studies, e.g. Barrat et al. (2012). Due to different cultures and eating habits, only foods found to relate to diabetes and those often found in Thailand were selected. This information has been added to the method section.
+Comment
+:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response
+:
+In this study, a modified Baecke Habitual Physical Activity Questionnaire (BHPAQ) was used and the questionnaire has been validated in previous studies (Florindo and Latorre, 2003).
+Yes, the questionnaire method might cause recall bias. However, if the problem occurs, it should equally affect both the study and comparison group and thus, not seriously affect the results.
+The issue has been added in study limitations.
+Results:
+Comment
+:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response
+:
+In the first row of the table, the association (ORs) between sleep hours and diabetes in different models were presented. The association was then further analyzed using only data from model 3 (adjusted for all potential confounding factors) in regard to gender, by carrying out a comparison between males and females.
+Discussion:
+Comment
+:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response
+:
+A new paragraph which states the most important findings, has been added to the discussion section as suggested.
+Comment
+:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response
+:
+Every paragraph has been reviewed to make sure they do not repeat the results and now contain conclusions of statements.
+Conclusion:
+Comment
+:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response
+:
+The repetition terms have been deleted.
+Comment
+:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response
+:
+The conclusion statement has been completely revised.
+Comment
+:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response
+:
+Thank you for helping us to clarify this important point. The idea has been added to manuscript.
+Comment
+:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response
+:
+In this study, we found that women with high BMIs did the least physical activities and exercise, therefore, we recommend that exercise programs are designed for this specific group.
+Comment
+:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response
+:
+A conclusion statement regarding sleep patterns has been added.
+References
+Barrat et al. (2012). Repeatability and relative validity of a quantitative food-frequency questionnaire among French adults. Food & Nutrition Research, 56: 18472.
+10.3402/fnr.v56i0.18472
+Chong S, Ding D, Byun R, et al. (2017). Lifestyle Changes After a Diagnosis of Type 2 Diabetes.
+Diabetes Spectr,
+30(1):43–50. 28270714 10.2337/ds15-0044 5309903
+Colberg SR, Sigal R, Yardley JE, et al. (2016).  Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association.
+Diabetes Care,
+39(11): 2065-2079.
+10.2337/dc16-1728
+Florindo AA, and Latorre MRDO. (2003). Validation and reliability of the Baecke questionnaire for the evaluation of habitual physical activity in adult men.
+Rev Bras Med Esporte,
+9(3):129-135.10.1590/S1517-86922003000300002
+Yaggi HK, Araujo AB, McKinlay JB. (2006). Sleep duration as a risk factor for the development of type 2 diabetes.
+Diabetes Care,
+29(3):657–661. 16505522 10.2337/diacare.29.03.06.dc05-0879
+Yu JH, Yun CH, and Ahn JH, et al. (2015). Evening chronotype is associated with metabolic disorders and body composition in middle-aged adults.
+J Clin Endocrinol Metab,
+100(4):1494–1502. 25831477 10.1210/jc.2014-3754
+Responses to the reviewer:
+Comment
+:
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Response:
+Thank you very much for reviewing this manuscript and providing valuable and encouraging feedbacks.
+The English and grammar was edited by Mr. Kenje Baris Gunda.
+Specific:
+Abstract:
+Comment
+:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Response
+:
+The errors about the terminology use have been corrected.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response
+:
+More information on eating behaviors and diabetes have been added as suggested.
+Comment
+:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response
+:
+A statement on the mechanism linking eating, exercise and diabetes has been added.
+For sleep and diabetes, it was reported that sleep deprivation increases insulin resistance and indirectly affect diabetes by increasing appetite and body weight. This information has already been presented in the second paragraph.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response
+:
+Actually, there were no special characteristics, the community was selected because it has a high number of people with diabetes, and it was in a convenient location.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response
+:
+Introduction has been revised as suggested (see the manuscript).
+In the last paragraph, a statement about what is not known has been added.
+Methods:
+Comment
+:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response
+:
+Information on the types of interviews are specified in the first paragraph.
+Comment
+:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response
+:
+Yes, we only asked the participants how long they usually slept each day. For information regarding quality of sleep, we believed that it was rather subjective and hard to justify, therefore, it was not included in the survey. The questionnaire method has been widely used to collect information on sleep duration (Yaggi, Araujo, and McKinlay, 2006) Chong et al., 2017) (Yu et al., 2015).
+However, we accept that this will be another important limitation of the study and the issue has been further discussed in study limitations.
+Comment
+:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+The questionnaire was used in previous studies
+Response
+:
+In this study, a modified Food Frequency Questionnaire (FFQ) was used. The questionnaire was validated and used in previous studies, e.g. Barrat et al. (2012). Due to different cultures and eating habits, only foods found to relate to diabetes and those often found in Thailand were selected. This information has been added to the method section.
+Comment
+:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response
+:
+In this study, a modified Baecke Habitual Physical Activity Questionnaire (BHPAQ) was used and the questionnaire has been validated in previous studies (Florindo and Latorre, 2003).
+Yes, the questionnaire method might cause recall bias. However, if the problem occurs, it should equally affect both the study and comparison group and thus, not seriously affect the results.
+The issue has been added in study limitations.
+Results:
+Comment
+:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response
+:
+In the first row of the table, the association (ORs) between sleep hours and diabetes in different models were presented. The association was then further analyzed using only data from model 3 (adjusted for all potential confounding factors) in regard to gender, by carrying out a comparison between males and females.
+Discussion:
+Comment
+:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response
+:
+A new paragraph which states the most important findings, has been added to the discussion section as suggested.
+Comment
+:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response
+:
+Every paragraph has been reviewed to make sure they do not repeat the results and now contain conclusions of statements.
+Conclusion:
+Comment
+:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response
+:
+The repetition terms have been deleted.
+Comment
+:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response
+:
+The conclusion statement has been completely revised.
+Comment
+:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response
+:
+Thank you for helping us to clarify this important point. The idea has been added to manuscript.
+Comment
+:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response
+:
+In this study, we found that women with high BMIs did the least physical activities and exercise, therefore, we recommend that exercise programs are designed for this specific group.
+Comment
+:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response
+:
+A conclusion statement regarding sleep patterns has been added.
+References
+Barrat et al. (2012). Repeatability and relative validity of a quantitative food-frequency questionnaire among French adults. Food & Nutrition Research, 56: 18472.
+10.3402/fnr.v56i0.18472
+Chong S, Ding D, Byun R, et al. (2017). Lifestyle Changes After a Diagnosis of Type 2 Diabetes.
+Diabetes Spectr,
+30(1):43–50. 28270714 10.2337/ds15-0044 5309903
+Colberg SR, Sigal R, Yardley JE, et al. (2016).  Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association.
+Diabetes Care,
+39(11): 2065-2079.
+10.2337/dc16-1728
+Florindo AA, and Latorre MRDO. (2003). Validation and reliability of the Baecke questionnaire for the evaluation of habitual physical activity in adult men.
+Rev Bras Med Esporte,
+9(3):129-135.10.1590/S1517-86922003000300002
+Yaggi HK, Araujo AB, McKinlay JB. (2006). Sleep duration as a risk factor for the development of type 2 diabetes.
+Diabetes Care,
+29(3):657–661. 16505522 10.2337/diacare.29.03.06.dc05-0879
+Yu JH, Yun CH, and Ahn JH, et al. (2015). Evening chronotype is associated with metabolic disorders and body composition in middle-aged adults.
+J Clin Endocrinol Metab,
+100(4):1494–1502. 25831477 10.1210/jc.2014-3754
+Competing Interests:
+No competing interests were disclosed.
+Close
+Report a concern
+Author Response 17 Nov 2022
+Chudchawal Juntarawijit
+,
+Department of Natural Resources and Environment, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok, 65000, Thailand
+17 Nov 2022
+Author Response
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without ...
+Continue reading
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+Response:
+Thank you very much for your time and effort in reviewing the manuscript and providing valuable suggestions to improve the paper. All the comments are accepted, and we have tried to revise the paper as such.
+Generic:
+Comment:
+Please check the English and grammar throughout.
+Response:
+English has been rechecked by Mr. Kevin Mark Roebl, a native English speaker.
+Specific:
+Abstract:
+Comment:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Response:
+The terminology has been revised as suggested.
+Comment:
+Terminology use “people with diabetes” rather than “diabetic”.
+Response:
+The terminology “diabetic” has been replaced by “people with diabetes”.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response:
+More information on eating and diabetes has been added. Food choice depends not only on behaviour but also socio-economic status.
+Comment:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response:
+More information on the association between sleep, eating, and exercise has been added as suggested.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response:
+The information has been added. Information concerning diabetes in Thailand, especially those in small communities, is limited. The selected community may not have special characteristics but has sufficient diabetes cases and convenience for data collection. It can represent a rural community of the province.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response:
+Yes, we totally agree. What is not known is the health behaviours, sleep, and other aspects of the lifestyle of people with diabetes in Thailand. In this, we try to study those factors and among various groups. This information was presented in the study objective.
+Methods
+Comment:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response:
+The information on the type of interview has been added as suggested.
+Comment:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response:
+In this study, only duration of sleep and lifestyle (moringness or eveningness) was selected as target information. For sleep quality, we believe it was rather subjective and hard to collect data. We accepted that this was a study limitation and clearly mentioned in the study limitation section.
+Comment:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Response:
+In this study, data on food consumption were collected using a modified Food Frequency Questionnaire (FFQ). The questionnaire was tested against a 7-day diet record and found to have high repeatability and good validity score (repeatability for intake was 0.62-0.90 (median 0.81), relative validity was 0.36-0.80 (0.64).
+Yes, we focused on only types of foods found to be related to diabetes and those often found in Thailand. This information was already presented in the study questionnaire section.
+Comment:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response:
+In this study, we used a Baecke Habitual Physical Activity Questionnaire (BHPAQ) which has been adopted by several countries as a reliable tool to measure habitual physical activity in adult men.
+Results:
+Comment:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response:
+Table 3 presented results OR of different models. Further analysis was conducted among men and women. However, this analysis was done only on model3, the best model which included all related variables.  This left data on Model 1 and Model2 blank.
+Discussion:
+Comment:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response:
+In this study, the most important issues were health behaviours of T2DM. Thus, we began with this finding.
+Comment:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response:
+In each paragraph, we have summarized the most important finding before discussing it.
+Conclusion:
+Comment:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response:
+Thanks for the reminder. We try to avoid those wordy statements.
+Comment:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response:
+The concluding statement has been revised and those repetitions were deleted.
+Comment:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response:
+Yes, we agree and thank you for your affirmative.
+Comment:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response:
+Thank you for your suggestion. We recommend those activities with low impact, e.g. walking, swimming, biking or doing yoga. This information has been added. Designing a good physical plan is not easy and many of them often fail within a short period of time. A good physical program should be based on research from the specific group and getting the public involved at an early stage.
+Comment:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response:
+The concluding statement has been added as suggested.
+Comments
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+Response:
+Thank you very much for your time and effort in reviewing the manuscript and providing valuable suggestions to improve the paper. All the comments are accepted, and we have tried to revise the paper as such.
+Generic:
+Comment:
+Please check the English and grammar throughout.
+Response:
+English has been rechecked by Mr. Kevin Mark Roebl, a native English speaker.
+Specific:
+Abstract:
+Comment:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Response:
+The terminology has been revised as suggested.
+Comment:
+Terminology use “people with diabetes” rather than “diabetic”.
+Response:
+The terminology “diabetic” has been replaced by “people with diabetes”.
+Introduction:
+Comment:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Response:
+More information on eating and diabetes has been added. Food choice depends not only on behaviour but also socio-economic status.
+Comment:
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Response:
+More information on the association between sleep, eating, and exercise has been added as suggested.
+Comment:
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+Response:
+The information has been added. Information concerning diabetes in Thailand, especially those in small communities, is limited. The selected community may not have special characteristics but has sufficient diabetes cases and convenience for data collection. It can represent a rural community of the province.
+Comment:
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Response:
+Yes, we totally agree. What is not known is the health behaviours, sleep, and other aspects of the lifestyle of people with diabetes in Thailand. In this, we try to study those factors and among various groups. This information was presented in the study objective.
+Methods
+Comment:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Response:
+The information on the type of interview has been added as suggested.
+Comment:
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Response:
+In this study, only duration of sleep and lifestyle (moringness or eveningness) was selected as target information. For sleep quality, we believe it was rather subjective and hard to collect data. We accepted that this was a study limitation and clearly mentioned in the study limitation section.
+Comment:
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Response:
+In this study, data on food consumption were collected using a modified Food Frequency Questionnaire (FFQ). The questionnaire was tested against a 7-day diet record and found to have high repeatability and good validity score (repeatability for intake was 0.62-0.90 (median 0.81), relative validity was 0.36-0.80 (0.64).
+Yes, we focused on only types of foods found to be related to diabetes and those often found in Thailand. This information was already presented in the study questionnaire section.
+Comment:
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Response:
+In this study, we used a Baecke Habitual Physical Activity Questionnaire (BHPAQ) which has been adopted by several countries as a reliable tool to measure habitual physical activity in adult men.
+Results:
+Comment:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Response:
+Table 3 presented results OR of different models. Further analysis was conducted among men and women. However, this analysis was done only on model3, the best model which included all related variables.  This left data on Model 1 and Model2 blank.
+Discussion:
+Comment:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Response:
+In this study, the most important issues were health behaviours of T2DM. Thus, we began with this finding.
+Comment:
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Response:
+In each paragraph, we have summarized the most important finding before discussing it.
+Conclusion:
+Comment:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Response:
+Thanks for the reminder. We try to avoid those wordy statements.
+Comment:
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+Response:
+The concluding statement has been revised and those repetitions were deleted.
+Comment:
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+Response:
+Yes, we agree and thank you for your affirmative.
+Comment:
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+Response:
+Thank you for your suggestion. We recommend those activities with low impact, e.g. walking, swimming, biking or doing yoga. This information has been added. Designing a good physical plan is not easy and many of them often fail within a short period of time. A good physical program should be based on research from the specific group and getting the public involved at an early stage.
+Comment:
+A conclusion about the sleep patterns finding is missing and should be added.
+Response:
+The concluding statement has been added as suggested.
+Competing Interests:
+No competing interests were disclosed.
+Close
+Report a concern
+COMMENT ON THIS REPORT
+Views
+0
+Cite
+How to cite this report:
+Thanopoulou A. Reviewer Report For: Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.5256/f1000research.21582.r62203
+)
+The direct URL for this report is:
+https://f1000research.com/articles/8-1030/v1#referee-response-62203
+NOTE:
+it is important to ensure the information in square brackets after the title is included in this citation.
+Close
+Copy Citation Details
+Reviewer Report
+11 May 2020
+Anastasia Thanopoulou
+,
+Diabetes Center, 2nd Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Hippokration General Hospital of Athens, Athens, Greece
+Approved
+VIEWS 0
+https://doi.org/10.5256/f1000research.21582.r62203
+The article compares cross-sectionally sleep and health behaviors among diabetic patients and non-diabetics in a single area in Thailand. The subject is of importance, since Type 2 diabetes mellitus (T2DM) prevention and treatment lie a lot on lifestyle habits. It is well ...
+Continue reading
+READ ALL
+The article compares cross-sectionally sleep and health behaviors among diabetic patients and non-diabetics in a single area in Thailand. The subject is of importance, since Type 2 diabetes mellitus (T2DM) prevention and treatment lie a lot on lifestyle habits. It is well conducted and written. The results show that exercise behaviors should be ameliorated in the diabetic patients' population.
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Yes
+If applicable, is the statistical analysis and its interpretation appropriate?
+Yes
+Are all the source data underlying the results available to ensure full reproducibility?
+No source data required
+Are the conclusions drawn adequately supported by the results?
+Yes
+Competing Interests:
+No competing interests were disclosed.
+Reviewer Expertise:
+Diabetes Mellitus, Nutrition, Diabetes Comorbidities
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.
+Close
+READ LESS
+CITE
+CITE
+HOW TO CITE THIS REPORT
+Thanopoulou A. Reviewer Report For: Comparison of sleep and health behaviours among people with diabetes and a nondiabetic group in Phitsanulok, Thailand: a cross-sectional study [version 3; peer review: 1 approved, 1 approved with reservations]
+.
+F1000Research
+2022,
+8
+:1030 (
+https://doi.org/10.5256/f1000research.21582.r62203
+)
+The direct URL for this report is:
+https://f1000research.com/articles/8-1030/v1#referee-response-62203
+NOTE:
+it is important to ensure the information in
+square brackets after the title
+is included in all citations of this article.
+COPY CITATION DETAILS
+Report a concern
+Respond or Comment
+COMMENT ON THIS REPORT
+Comments on this article
+Comments (0)
+Version 3
+VERSION 3
+PUBLISHED 09 Jul 2019
+ADD YOUR COMMENT
+Comment
+keyboard_arrow_left
+keyboard_arrow_right
+Open Peer Review
+Reviewer Status
+info_outline
+Alongside their report, reviewers assign a status to the article:
+Approved
+The paper is scientifically sound in its current form and only minor, if any, improvements are suggested
+Approved with reservations
+A number of small changes, sometimes more significant revisions are required to address specific details and improve the papers academic merit.
+Not approved
+Fundamental flaws in the paper seriously undermine the findings and conclusions
+Reviewer Reports
+Invited Reviewers
+1
+2
+Version 3
+(revision)
+02 Nov 22
+Version 2
+(revision)
+09 Dec 21
+Version 1
+09 Jul 19
+read
+read
+Anastasia Thanopoulou
+, National and Kapodistrian University of Athens, Hippokration General Hospital of Athens, Athens, Greece
+Ahmad Alkhatib
+, Teesside University, Middlesbrough, UK
+Comments on this article
+All Comments
+(0)
+Add a comment
+Sign up for content alerts
+Sign Up
+You are now signed up to receive this alert
+Browse by related subjects
+keyboard_arrow_left
+Back to all reports
+0
+Views
+copyright
+© 2021 Alkhatib A.
+This is an open access peer review report distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+format_quote
+Cite this report
+speaker_notes
+Responses
+(2)
+Approved With Reservations
+info_outline
+Alongside their report, reviewers assign a status to the article:
+Approved
+The paper is scientifically sound in its current form and only minor, if any, improvements are suggested
+Approved with reservations
+A number of small changes, sometimes more significant revisions are required to address specific details and improve the papers academic merit.
+Not approved
+Fundamental flaws in the paper seriously undermine the findings and conclusions
+This a very good article, which is needed to demonstrate the exercise and nutritional prevention of diabetes by understanding those behaviours in a group of individuals with or without diabetes in Thailand.
+The article is well written in many parts. However, its significance is not clear in the way it has been written, so I suggest a major revision to incorporate some amendments in order to be accepted for indexing. Once done, I am happy to look over it again.
+Generic:
+Please check the English and grammar throughout.
+Specific:
+Abstract:
+“Diabetic prevention programmes”, should be “diabetes prevention programs”.
+Terminology use “people with diabetes” rather than “diabetic”.
+Introduction:
+Expand a little on eating behaviour and diabetes and try make a link on why/why not such factors may be important for communities with a similar lifestyle to those tested here.
+Expand a little with statements showing some mechanisms linking the sleep/eating/exercise habits with the physiology of diabetes and its development.
+Add a paragraph to justify why and what is special about why the rural communities in Thailand have been tested here. The reader needs to understand the link between these.
+The last paragraph needs to have a statement about what is not known and how this study is adding to such knowledge.
+Methods:
+Questionnaire: Specify what type of interview in the 1st paragraph.
+Sleep questions, is there a valid sleep questionnaire used here? Why only one question? How do you differentiate between deep sleep/etc.? Did the interview cover more than the one question asked? Details are needed.
+Data on food consumption requires justification, what type of questionnaire has been used or developed for this purpose? Why was there a focus on selected foods?
+Frequency of certain physical activities. What physical activity questionnaire was used? Was it IPAQ recall? Any validated questionnaire or justification of the questions selected?
+Results:
+It is not clear why Table 3 has many gaps. Is it to do with insufficient number?
+Discussion:
+Please add a paragraph to start with, which should clearly state the most important findings and discuss what is novel.
+Many paragraphs seem to repeat what is in the results. All paragraphs should have concluding statements stating what is new and how it is relevant for the field.
+Conclusion:
+Avoid repetitions “in conclusion” or “this study reveals”. It needs to go straight to the point and concise.
+Again: the conclusion seems to repeat the findings. Please state the significance of your findings rather than repeating them.
+The findings here contrast with the common perception that people with diabetes have bad lifestyle patterns, instead it showed that a healthy lifestyle pattern based on dietary patterns alone may not be sufficient and that lifestyle prevention of diabetes (esp. T2D) should always include physical activity as an integral part.
+The authors could also make specific suggestions for how to implement physical activity in the rural community they tested based on the finding that some have better physical activity than others.
+A conclusion about the sleep patterns finding is missing and should be added.
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Partly
+If applicable, is the statistical analysis and its interpretation appropriate?
+I cannot comment. A qualified statistician is required.
+Are all the source data underlying the results available to ensure full reproducibility?
+Partly
+Are the conclusions drawn adequately supported by the results?
+Partly
+Competing Interests
+No competing interests were disclosed.
+Reviewer Expertise
+Lifestyle prevention of disease
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+reply
+Respond to this report
+Responses
+(2)
+keyboard_arrow_left
+Back to all reports
+0
+Views
+copyright
+© 2020 Thanopoulou A.
+This is an open access peer review report distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+format_quote
+Cite this report
+speaker_notes
+Responses
+(0)
+Approved
+info_outline
+Alongside their report, reviewers assign a status to the article:
+Approved
+The paper is scientifically sound in its current form and only minor, if any, improvements are suggested
+Approved with reservations
+A number of small changes, sometimes more significant revisions are required to address specific details and improve the papers academic merit.
+Not approved
+Fundamental flaws in the paper seriously undermine the findings and conclusions
+The article compares cross-sectionally sleep and health behaviors among diabetic patients and non-diabetics in a single area in Thailand. The subject is of importance, since Type 2 diabetes mellitus (T2DM) prevention and treatment lie a lot on lifestyle habits. It is well conducted and written. The results show that exercise behaviors should be ameliorated in the diabetic patients' population.
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Yes
+If applicable, is the statistical analysis and its interpretation appropriate?
+Yes
+Are all the source data underlying the results available to ensure full reproducibility?
+No source data required
+Are the conclusions drawn adequately supported by the results?
+Yes
+Competing Interests
+No competing interests were disclosed.
+Reviewer Expertise
+Diabetes Mellitus, Nutrition, Diabetes Comorbidities
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.
+reply
+Respond to this report
+Responses
+(0)
+Alongside their report, reviewers assign a status to the article:
+Approved - the paper is scientifically sound in its current form and only minor, if any, improvements are suggested
+Approved with reservations - A number of small changes, sometimes more significant revisions are required to address specific details and improve the papers academic merit.
+Not approved - fundamental flaws in the paper seriously undermine the findings and conclusions
+Adjust parameters to alter display
+View on desktop for interactive features
+Includes Interactive Elements
+View on desktop for interactive features
+Competing Interests Policy
+Provide sufficient details of any financial or non-financial competing interests to enable users to assess whether your comments might lead a reasonable person to question your impartiality. Consider the following examples, but note that this is not an exhaustive list:
+Examples of 'Non-Financial Competing Interests'
+Within the past 4 years, you have held joint grants, published or collaborated with any of the authors of the selected paper.
+You have a close personal relationship (e.g. parent, spouse, sibling, or domestic partner) with any of the authors.
+You are a close professional associate of any of the authors (e.g. scientific mentor, recent student).
+You work at the same institute as any of the authors.
+You hope/expect to benefit (e.g. favour or employment) as a result of your submission.
+You are an Editor for the journal in which the article is published.
+Examples of 'Financial Competing Interests'
+You expect to receive, or in the past 4 years have received, any of the following from any commercial organisation that may gain financially from your submission: a salary, fees, funding, reimbursements.
+You expect to receive, or in the past 4 years have received, shared grant support or other funding with any of the authors.
+You hold, or are currently applying for, any patents or significant stocks/shares relating to the subject matter of the paper you are commenting on.
+Stay Updated
+Sign up for content alerts and receive a weekly or monthly email with all newly published articles
+Register with F1000Research
+Already registered?
+Sign in
+Not now, thanks
+close
+PLEASE NOTE
+If you are an AUTHOR of this article,
+please check that you signed in with the account associated with this article otherwise we cannot automatically identify your role as an author and your comment will be labelled as a “User Comment”.
+If you are a REVIEWER of this article,
+please check that you have signed in with the account associated with this article and then go to your
+account
+to submit your report, please do not post your review here.
+If you do not have access to your original account, please
+contact us
+.
+All commenters must hold a formal affiliation as per our
+Policies
+. The information that you give us will be displayed next to your comment.
+User comments must be in English, comprehensible and relevant to the article under discussion. We reserve the right to remove any comments that we consider to be inappropriate, offensive or otherwise in breach of the
+User Comment Terms and Conditions
+. Commenters must not use a comment for personal attacks. When criticisms of the article are based on unpublished data, the data should be made available.
+I accept the
+User Comment Terms and Conditions
+Please confirm that you accept the User Comment Terms and Conditions.
+Affiliation
+✕
+refresh
+Please enter your institution.
+Note:
+To add your institution or organisation, start typing the name and then select the correct name from the list. Where applicable, the name will appear in both the original language and in English. Do not paste in the name. If the name does not appear in the drop-down list, we will display the information you have entered.
+✕
+refresh
+Country/Region *
+USA
+UK
+Canada
+China
+France
+Germany
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Federated States of Micronesia
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo (Serbia and Montenegro)
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Minor Outlying Islands of the United States
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Is
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+The Gambia
+The Netherlands
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+UK
+USA
+Uganda
+Ukraine
+United Arab Emirates
+United States Virgin Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Wallis and Futuna
+West Bank and Gaza Strip
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Please select your country/region.
+You must enter a comment.
+Competing Interests
+Please disclose any
+competing interests
+that might be construed to influence your judgment of the article's or peer review report's validity or importance.
+Competing Interests Policy
+Provide sufficient details of any financial or non-financial competing interests to enable users to assess whether your comments might lead a reasonable person to question your impartiality. Consider the following examples, but note that this is not an exhaustive list:
+Examples of 'Non-Financial Competing Interests'
+Within the past 4 years, you have held joint grants, published or collaborated with any of the authors of the selected paper.
+You have a close personal relationship (e.g. parent, spouse, sibling, or domestic partner) with any of the authors.
+You are a close professional associate of any of the authors (e.g. scientific mentor, recent student).
+You work at the same institute as any of the authors.
+You hope/expect to benefit (e.g. favour or employment) as a result of your submission.
+You are an Editor for the journal in which the article is published.
+Examples of 'Financial Competing Interests'
+You expect to receive, or in the past 4 years have received, any of the following from any commercial organisation that may gain financially from your submission: a salary, fees, funding, reimbursements.
+You expect to receive, or in the past 4 years have received, shared grant support or other funding with any of the authors.
+You hold, or are currently applying for, any patents or significant stocks/shares relating to the subject matter of the paper you are commenting on.
+Please state your competing interests
+The comment has been saved.
+An error has occurred. Please try again.
+Cancel
+Post
+close
+How to cite this report
+{{reportCitation}}
+Cancel
+Copy Citation Details
+Sign In
+Remember me
+Forgotten your password?
+Sign In
+Cancel
+Email or password not correct. Please try again
+Please wait...
+If you've forgotten your password, please enter your email address below and we'll send you instructions on how to reset your password.
+The email address should be the one you originally registered with F1000.
+Email address not valid, please try again
+You registered with F1000 via Google, so we cannot reset your password.
+To sign in, please click
+here
+.
+If you still need help with your Google account password, please click
+here
+.
+You registered with F1000 via Facebook, so we cannot reset your password.
+To sign in, please click
+here
+.
+If you still need help with your Facebook account password, please click
+here
+.
+Code not correct, please try again
+Reset password
+Cancel
+Email us
+for further assistance.
+Server error, please try again.
+If your email address is registered with us, we will email you instructions to reset your password.
+If you think you should have received this email but it has not arrived, please check your spam filters and/or contact
+for further assistance.
+Please wait...
+Register

@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://f1000research.com/articles/11-332",
+    "file": "data/raw/zenodo-paper.html",
+    "sha256": "a336aff70d3313420bb5fe56c82269c9e87667a5fc9eb5cc962cb02448143319",
+    "bytes": 359712,
+    "accessed_at": "2026-10-12T01:31:24.373597+00:00"
+  },
+  {
+    "url": "https://medlineplus.gov/diabetes.html",
+    "file": "data/raw/medline-diabetes.html",
+    "sha256": "0c80c51f70a2609855196588dfeab86bef23c5d513dd4abb3e1707176eb60f0f",
+    "bytes": 180656,
+    "accessed_at": "2026-10-12T01:31:26.390092+00:00"
+  },
+  {
+    "url": "https://medlineplus.gov/diabetestype2.html",
+    "file": "data/raw/medline-diabetestype2.html",
+    "sha256": "157cc75b0c48b1e9ef793599274c783e80d257dde0389519b2464a1c54e70691",
+    "bytes": 151134,
+    "accessed_at": "2026-10-12T01:31:28.452845+00:00"
+  },
+  {
+    "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+    "file": "data/raw/medline-exercise.html",
+    "sha256": "da576d681c7d3514a3687c616fb3ec85e54132262f11a0d1ad6713ecb07b21ac",
+    "bytes": 158753,
+    "accessed_at": "2026-10-12T01:31:30.616117+00:00"
+  },
+  {
+    "url": "https://medlineplus.gov/sleepdisorders.html",
+    "file": "data/raw/medline-sleepdisorders.html",
+    "sha256": "70d22fd45fa7a9becd8b5801591dae0cb6d603581d2f8e96f6d433d81d8977a5",
+    "bytes": 147474,
+    "accessed_at": "2026-10-12T01:31:32.429153+00:00"
+  },
+  {
+    "url": "https://opentyphoon.ai/tac",
+    "file": "typhoon-terms.html",
+    "error": "<urlopen error _ssl.c:1015: The handshake operation timed out>"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507/resolve/main/LICENSE",
+    "file": "data/raw/base-apache-LICENSE",
+    "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+    "bytes": 11343,
+    "accessed_at": "2026-10-12T01:33:02.857302+00:00"
+  }
+]

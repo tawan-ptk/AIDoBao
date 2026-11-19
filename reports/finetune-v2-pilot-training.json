@@ -1,0 +1,106 @@
+{
+  "status": "completed",
+  "mode": "train",
+  "config": {
+    "model": "/Users/tawan/aimuge/models/typhoon-4bit",
+    "train": true,
+    "fine_tune_type": "lora",
+    "optimizer": "adam",
+    "optimizer_config": {
+      "adam": {},
+      "adamw": {},
+      "muon": {},
+      "sgd": {},
+      "adafactor": {}
+    },
+    "data": "data/prepared/finetune-v2",
+    "seed": 42,
+    "num_layers": 8,
+    "batch_size": 1,
+    "iters": 20,
+    "val_batches": -1,
+    "learning_rate": 5e-05,
+    "steps_per_report": 5,
+    "steps_per_eval": 20,
+    "resume_adapter_file": null,
+    "adapter_path": "/Users/tawan/aimuge/adapters/finetune-v2-pilot",
+    "save_every": 20,
+    "test": false,
+    "test_batches": 500,
+    "max_seq_length": 1024,
+    "config": null,
+    "grad_checkpoint": false,
+    "grad_accumulation_steps": 1,
+    "clear_cache_threshold": 0,
+    "lr_schedule": null,
+    "lora_parameters": {
+      "rank": 16,
+      "scale": 20.0,
+      "dropout": 0.0
+    },
+    "mask_prompt": true,
+    "report_to": null,
+    "project_name": null,
+    "trust_remote_code": false
+  },
+  "train_count": 302,
+  "valid_count": 77,
+  "events": [
+    {
+      "event": "validation_before_step",
+      "iteration": 0,
+      "val_loss": 1.1912661790847778,
+      "val_time": 53.45411224997952
+    },
+    {
+      "event": "train",
+      "iteration": 5,
+      "train_loss": 0.968476390838623,
+      "learning_rate": 4.999999873689376e-05,
+      "iterations_per_second": 0.779213204622424,
+      "tokens_per_second": 22.28549765220133,
+      "trained_tokens": 143,
+      "peak_memory": 3.460719368
+    },
+    {
+      "event": "train",
+      "iteration": 10,
+      "train_loss": 0.6502998352050782,
+      "learning_rate": 4.999999873689376e-05,
+      "iterations_per_second": 0.9873314106721266,
+      "tokens_per_second": 16.784633981426154,
+      "trained_tokens": 228,
+      "peak_memory": 3.460719912
+    },
+    {
+      "event": "train",
+      "iteration": 15,
+      "train_loss": 0.4182887554168701,
+      "learning_rate": 4.999999873689376e-05,
+      "iterations_per_second": 0.991585856963271,
+      "tokens_per_second": 59.69346858918891,
+      "trained_tokens": 529,
+      "peak_memory": 3.460719912
+    },
+    {
+      "event": "validation_before_step",
+      "iteration": 19,
+      "val_loss": 0.7900711894035339,
+      "val_time": 54.63221862501814
+    },
+    {
+      "event": "train",
+      "iteration": 20,
+      "train_loss": 0.3450835466384888,
+      "learning_rate": 4.999999873689376e-05,
+      "iterations_per_second": 0.8041470453642845,
+      "tokens_per_second": 63.366787174705614,
+      "trained_tokens": 923,
+      "peak_memory": 3.602322236
+    }
+  ],
+  "selection_policy": "Training validation occurs before optimizer step. Rescore saved checkpoints in fresh processes before selection; never choose from test.",
+  "elapsed_seconds": 133.59996012499323,
+  "peak_memory_gb": 3.602322236,
+  "finished_at": "2026-10-12T14:02:42.132802+00:00"
+}

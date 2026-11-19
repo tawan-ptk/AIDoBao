@@ -1,0 +1,43 @@
+{
+  "counts": {
+    "train": 457,
+    "valid": 28,
+    "test": 44
+  },
+  "files": {
+    "train": {
+      "path": "data/prepared/finetune-v3/train.jsonl",
+      "sha256": "86e9cf913fab6ad9c91613dceab04106120ce5d4ed9c30a4cfeef1e6eb262ca2"
+    },
+    "valid": {
+      "path": "data/prepared/finetune-v3/valid.jsonl",
+      "sha256": "365bfb6959fb685a362b76c4dd89bc9eace9b185a705d4527d70a08fb7284855"
+    },
+    "test": {
+      "path": "data/prepared/finetune-v3/test.jsonl",
+      "sha256": "101cc3b9efb7825d421d22375df304ae4f711824dddaa83f88d004fb907a59f6"
+    }
+  },
+  "tasks": {
+    "train": {
+      "extract": 419,
+      "route": 38
+    },
+    "valid": {
+      "extract": 24,
+      "route": 4
+    },
+    "test": {
+      "extract": 36,
+      "route": 8
+    }
+  },
+  "origin": "authorized_synthetic_commands_only",
+  "split_policy": "v2 command train/valid/test now ALL development training; v3 validation/test use newly authored phrasings and lexical fillers. Never describe v2 test as held-out for v3.",
+  "max_context": 1024,
+  "truncated_answers": 0,
+  "limitations": [
+    "Synthetic command evaluation only; no clinical/real-user accuracy.",
+    "Measurement supports literal weight examples, not a representative medical measurements dataset."
+  ]
+}

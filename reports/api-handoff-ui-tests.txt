@@ -1,0 +1,128 @@
+
+> test
+> node --test tests/*.test.cjs
+
+TAP version 13
+# Subtest: chat sends scope/history, renders sources as text, and resets without health writes
+ok 1 - chat sends scope/history, renders sources as text, and resets without health writes
+  ---
+  duration_ms: 84.384834
+  type: 'test'
+  ...
+# Subtest: reset cancels pending request and cannot leak an old answer into new conversation
+ok 2 - reset cancels pending request and cannot leak an old answer into new conversation
+  ---
+  duration_ms: 20.652333
+  type: 'test'
+  ...
+# Subtest: missing chat API explains restart and preserves question for retry
+ok 3 - missing chat API explains restart and preserves question for retry
+  ---
+  duration_ms: 20.405458
+  type: 'test'
+  ...
+# Subtest: off-topic refusal has no misleading health-search or model labels
+ok 4 - off-topic refusal has no misleading health-search or model labels
+  ---
+  duration_ms: 16.016333
+  type: 'test'
+  ...
+# Subtest: meal context and recipe details start collapsed while allergy warning stays visible
+ok 5 - meal context and recipe details start collapsed while allergy warning stays visible
+  ---
+  duration_ms: 17.060292
+  type: 'test'
+  ...
+# Subtest: failed extraction preserves typed fields and does not claim success
+ok 6 - failed extraction preserves typed fields and does not claim success
+  ---
+  duration_ms: 5.534458
+  type: 'test'
+  ...
+# Subtest: partial proposal populates field and explains missing date
+ok 7 - partial proposal populates field and explains missing date
+  ---
+  duration_ms: 0.468792
+  type: 'test'
+  ...
+# Subtest: all-null response does not claim fields were filled
+ok 8 - all-null response does not claim fields were filled
+  ---
+  duration_ms: 0.635291
+  type: 'test'
+  ...
+# Subtest: server client separates authenticated users and forwards capture and confirmation exactly once
+ok 9 - server client separates authenticated users and forwards capture and confirmation exactly once
+  ---
+  duration_ms: 10.259125
+  type: 'test'
+  ...
+# Subtest: server client rejects arbitrary targets, actions and missing identity; never silently retries errors
+ok 10 - server client rejects arbitrary targets, actions and missing identity; never silently retries errors
+  ---
+  duration_ms: 0.779667
+  type: 'test'
+  ...
+# Subtest: missing time is visibly defaulted to capture and manual edits preserve original capture
+ok 11 - missing time is visibly defaulted to capture and manual edits preserve original capture
+  ---
+  duration_ms: 384.808333
+  type: 'test'
+  ...
+# Subtest: one message, several categories, period-only save, then refine time
+ok 12 - one message, several categories, period-only save, then refine time
+  ---
+  duration_ms: 293.20525
+  type: 'test'
+  ...
+# Subtest: unknown category must be chosen or explicitly excluded; changed text invalidates old cards
+ok 13 - unknown category must be chosen or explicitly excluded; changed text invalidates old cards
+  ---
+  duration_ms: 99.780542
+  type: 'test'
+  ...
+# Subtest: home assistant drafts multiple records and requires explicit first consent before saving
+ok 14 - home assistant drafts multiple records and requires explicit first consent before saving
+  ---
+  duration_ms: 363.907583
+  type: 'test'
+  ...
+# Subtest: reported Thai meal typo is reviewed as two short names and periods before confirmation
+ok 15 - reported Thai meal typo is reviewed as two short names and periods before confirmation
+  ---
+  duration_ms: 383.842209
+  type: 'test'
+  ...
+# Subtest: usage help answers with examples without preparing a write
+ok 16 - usage help answers with examples without preparing a write
+  ---
+  duration_ms: 117.810792
+  type: 'test'
+  ...
+# Subtest: edit and delete remain inside chat with before/after review, cancellation and confirmation
+ok 17 - edit and delete remain inside chat with before/after review, cancellation and confirmation
+  ---
+  duration_ms: 576.839416
+  type: 'test'
+  ...
+# Subtest: meal review shows calories, recalculates edited amounts and clears stale values without saving
+ok 18 - meal review shows calories, recalculates edited amounts and clears stale values without saving
+  ---
+  duration_ms: 920.59825
+  type: 'test'
+  ...
+# Subtest: rice and side stay in one meal through quantity editing, review, save and later edit
+ok 19 - rice and side stay in one meal through quantity editing, review, save and later edit
+  ---
+  duration_ms: 1125.742542
+  type: 'test'
+  ...
+1..19
+# tests 19
+# suites 0
+# pass 19
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 5036.603709
